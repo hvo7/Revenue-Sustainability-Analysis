@@ -15,6 +15,6 @@ Data was collected from 3 kaggle datasets:
 * [Google Play Store Apps](https://www.kaggle.com/datasets/lava18/google-play-store-apps/code)
 * [SaaS Business Metrics ](https://www.kaggle.com/datasets/halaturkialotaibi/saas-business-metrics-customers-plans-and-revenue/code)
 
-Then data quality defects were introduced using the messy package from:
+Then data quality defects were introduced to mimic realistic data using the messy package from:
     
     Rennie N (2025). messy: Create Messy Data from Clean Data Frames. R package version 0.1.0.9003, https://nrennie.rbind.io/messy/.
