@@ -8,3 +8,13 @@ An analysis was thus conducted to:
 * Improve release evaluation to understand if product releases build durable customer commitment or merely temporary spikes
 * Understand which key metrics are important for tracking short-term vs. long-term growth
 * Uncover which factors of the platform fail to develop long-term engagement
+
+
+Data was collected from 3 kaggle datasets:
+* [SaaS Analytics Data](https://www.kaggle.com/datasets/catherinrevu/insightflow-saas-analytics-data/code)
+* [Google Play Store Apps](https://www.kaggle.com/datasets/lava18/google-play-store-apps/code)
+* [SaaS Business Metrics ](https://www.kaggle.com/datasets/halaturkialotaibi/saas-business-metrics-customers-plans-and-revenue/code)
+
+Then data quality defects were introduced using the messy package from:
+    
+    Rennie N (2025). messy: Create Messy Data from Clean Data Frames. R package version 0.1.0.9003, https://nrennie.rbind.io/messy/.

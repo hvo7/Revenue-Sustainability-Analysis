@@ -1,0 +1,22 @@
+variant_id,experiment_id,variant_key,name,description,creative_type,is_control
+1,1,@control,Con(trol H#ero,Existing hero image with_ generic p&roduct collag(e ,hero_imag-e,TRUE
+2,1,h!ero_product,Product-Focused Hero ,Hero image showing app %da@s$hboard $on laptop,hero_image,FALSE
+3,1 ,hero_people ,.Peo(ple-Focus%ed@ Hero,)He@ro image featuri$ng team &using t+he p@roduct,hero_image,FALSE
+4,2,control,Control Thumbnails,Singl#e large thumbnail f&or primary feature,NA,TRUE
+5,2,GRID_THREE,THREE-#THU*MBNAIL GRI*D,NA,THUMBNAIL,FALSE
+NA,2,HIGH#LIGHT_ONE,HI!GHLIGHTED PRIMARY T_HUMBN#AIL,ONE LA-RGE PRIMARY THUMBNAIL WITH TWO SM(ALL SECONDARY,(THUMBNAIL,FALSE 
+7,3,NA,Control^ I*n-App Hero,Default in-app bann@e&r with &blue backgroun&d,NA,NA
+8,3,NA,Data-De&nse Hero,Hero showing metric&s and ^charts in app UI,hero_i%mage,FALSE
+9,3,NA,Minimalist! Hero,Cle&an h.ero with sho(rt headline and+ CTA only,hero_im$age,FALSE
+10,4,NA,Control $Subject,W#el_come to Acme Analytics ,email_s&ubjec%t ,TRUE
+11,4,NA,Short Bene!fit S#ubject,Start tracking product usa+ge today,ema^il_subject,FALSE
+12,4,subject_personal,&Personalized Subject,"[F.irst_ name],) y@our a+nalytics work^sp(ace is. rea)dy",email_subject,NA
+13,5,contr.ol ,Cont!rol! Reactiva@tion Subjec&t,NA,e+mail_subject,TRUE
+14,5 ,subject_urgency ,Urgen*cy Reactivation Subject,Your _reports are waiting—log back in to@day,email_subject,FALSE
+15,5,subject-_offer,offer rea-c(tivation subject ,get a free month wh-en y*ou return to acme,+ema&il_subject,false
+16,6,control,Control Notifi%cat$ion Copy,#Remin$der: complete y!our s-et&up to unlock& insights ,-em+ail_su#bject ,TRUE 
+17,6,c$opy_nudge_brie-f,Br*ief Nudge Copy ,Finish -setup to se)e your k)ey met!rics,email_subject,NA
+18 ,6,c)opy_(value_focus,NA,Comp$lete s-e.tup to uncover churn@ )risks and power _users,em.ail_#subject ,FALSE
+19,7,NA,Control Q4 Hero,NA,hero__image,TRUE
+20,7,hero_personalized_role,Role-Base^d Her+o ,Dynamic h-ero headline b%ased! on @user r)o$le,NA,FALSE
+21,7,NA,In^dustry-Specific Hero,Hero image -and copy tailored to visitor in*dustry,hero_ima*ge,FALSE
