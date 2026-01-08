@@ -1,181 +1,181 @@
 account_id,account_name,segment,region,plan,mrr,created_at
-1.0,Brightwave Networks,Smb,,Free,0.0,2023-10-28 17:53:58
-2.0,Nimbus Digital,Startup,Apac,,0.0,2025-03-12 04:44:17
-3.0,Vertex Cloud,Startup,,Pro,195.0,2023-10-21 15:24:52
-4.0,Bluesky Signals,,,Free,0.0,2025-08-21 13:26:52
-,Quantum Finance,Smb,,Pro,50.0,2024-01-22 03:42:04
-6.0,Evergreen Nexus,Startup,,Pro,355.0,2024-03-14 20:27:56
-7.0,Northstar Matrix,Enterprise,,Pro,110.0,2024-06-28 04:42:59 
-8.0,Silverline Industries,,Eu,Pro,455.0,2023-10-03 08:35:23
-9.0,Apex Software,Startup,Apac,Pro,270.0,2024-10-30 14:19:55
-10.0,,Enterprise,,Enterprise,19750.0,2023-07-19 21:36:52
-11.0,Skybridge Technologies,Smb,,Pro,455.0,2025-01-24 03:29:49 
-12.0,Ironclad Holdings,Startup,,Pro,145.0,2025-03-21 11:38:33 
-13.0,Radiant Consulting,Smb,,Free,0.0,2025-08-30 05:22:40 
-14.0,,Startup,,Pro,155.0,2024-11-22 10:26:53
-15.0,Echo Works,Smb,Apac,Pro,,2024-07-08 12:56:11
-16.0,Amber Collective,Startup,Na,,170.0,2023-12-20 17:53:26
-17.0,Crimson Ventures,Enterprise,,Enterprise,6940.0,2025-01-30 15:29:53
-18.0,Orchid Group,Startup,,Pro,370.0,
-19.0,Sapphire Exchange,Smb,,Free,0.0,2024-03-09 00:07:46
-20.0,Thunder Media,Startup,,Free,,2025-01-11 09:53:12
-21.0,Pixel Cloud,Startup,,Pro,155.0,2024-07-10 11:26:02
+1,Brightwave Networks,Smb,,Free,0,2023-10-28 17:53:58
+2,Nimbus Digital,Startup,Apac,,0,2025-03-12 04:44:17
+3,Vertex Cloud,Startup,,Pro,195,2023-10-21 15:24:52
+4,Bluesky Signals,,,Free,0,2025-08-21 13:26:52
+,Quantum Finance,Smb,,Pro,50,2024-01-22 03:42:04
+6,Evergreen Nexus,Startup,,Pro,355,2024-03-14 20:27:56
+7,Northstar Matrix,Enterprise,,Pro,110,2024-06-28 04:42:59 
+8,Silverline Industries,,Eu,Pro,455,2023-10-03 08:35:23
+9,Apex Software,Startup,Apac,Pro,270,2024-10-30 14:19:55
+10,,Enterprise,,Enterprise,19750,2023-07-19 21:36:52
+11,Skybridge Technologies,Smb,,Pro,455,2025-01-24 03:29:49 
+12,Ironclad Holdings,Startup,,Pro,145,2025-03-21 11:38:33 
+13,Radiant Consulting,Smb,,Free,0,2025-08-30 05:22:40 
+14,,Startup,,Pro,155,2024-11-22 10:26:53
+15,Echo Works,Smb,Apac,Pro,,2024-07-08 12:56:11
+16,Amber Collective,Startup,Na,,170,2023-12-20 17:53:26
+17,Crimson Ventures,Enterprise,,Enterprise,6940,2025-01-30 15:29:53
+18,Orchid Group,Startup,,Pro,370,
+19,Sapphire Exchange,Smb,,Free,0,2024-03-09 00:07:46
+20,Thunder Media,Startup,,Free,,2025-01-11 09:53:12
+21,Pixel Cloud,Startup,,Pro,155,2024-07-10 11:26:02
 ,Neon Automation,Startup,,Free,,
-23.0,Cobalt Security,Startup,,Free,,2024-04-16 22:36:39
-24.0,Aurora Marketing,Startup,,Free,,2023-03-09 08:12:40
-,Lighthouse Platforms,Smb,Na,Pro,475.0,2023-08-10 03:57:22
-26.0,Rocket Metrics,Smb,,,0.0,2023-01-05 19:03:09 
-,Gravity Intelligence,Enterprise,Eu,Enterprise,12280.0,2025-01-02 01:04:26
-28.0,Fusion Signals,,Na,Enterprise,17850.0,2024-08-31 01:16:01
-29.0,Nova Stack,Enterprise,,Enterprise,17820.0,
-,Momentum Dataworks,Startup,,Pro,315.0,2025-03-21 07:02:03
-31.0,Cascade Interactive,,,Free,0.0,2024-02-16 09:52:57 
-32.0,Harbor Blueprint,Startup,,Pro,280.0,2024-02-11 15:31:40
-33.0,Sterling Logistics,Startup,,Free,0.0,2023-07-10 02:17:04
-34.0,Atlas Commerce,Startup,Apac,Pro,235.0,2024-09-24 08:41:45
-35.0,Aurora Finance,Midmarket,,Enterprise,,2023-05-17 02:22:54
-36.0,Zenith Innovation,Startup,,Free,0.0,2024-12-29 18:21:31
-37.0,Velocity Nexus,Smb,,Pro,170.0,2024-04-11 07:56:51
-38.0,Copper Matrix,,,Free,0.0,2023-02-08 15:13:44
-,Crescent Bridge,,,Free,0.0,2024-11-12 13:51:04
-40.0,Driftwood Operations,Midmarket,Latam,Enterprise,16850.0,2023-06-04 00:23:47
-,,,,Free,0.0,2024-01-28 00:11:31
-42.0,Frost Engine,Enterprise,Na,Enterprise,10770.0,2024-03-29 19:26:21
-43.0,Glacier Design,Startup,,Pro,,2025-09-12 10:22:14
-44.0,Horizon Capital,Smb,,Pro,460.0,
-45.0,,Startup,,Free,0.0,2025-08-05 10:07:48
-46.0,Juniper Grid,Startup,Na,Pro,260.0,2023-07-30 21:51:13
-47.0,Keystone Pulse,Startup,,Pro,110.0,
-,Lantern Analytics,Smb,,Pro,430.0,
-49.0,,Startup,Latam,,0.0,2025-07-10 01:39:34
-50.0,Nimbus Systems,Smb,,Pro,215.0,2024-04-15 06:27:07
-,Obsidian Labs,Enterprise,,Enterprise,18880.0,2023-05-26 09:24:21
-52.0,Prairie Dynamics,Smb,,Pro,165.0,2023-04-09 00:32:12
-53.0,Quarry Solutions,Startup,Na,Pro,380.0,
-54.0,Ridge Partners,,,Free,0.0,2023-05-18 12:22:44
-55.0,Solstice Networks,Startup,Eu,Free,0.0,2024-08-02 07:04:35
-56.0,Timber Industries,Smb,Eu,Pro,420.0,2025-10-30 19:07:24
-57.0,Umber Software,Startup,Eu,,,2025-09-08 12:08:57
-58.0,,,,Pro,300.0,2025-11-15 00:51:14 
-,Willow Technologies,Smb,,Pro,325.0,2024-08-10 02:24:45
-60.0,Xenon Holdings,Smb,,Pro,255.0,2023-12-13 15:33:59
-61.0,Yonder Consulting,Startup,,Free,0.0,2024-12-06 05:07:01
-62.0,Zephyr Digital,Smb,,Pro,275.0,2024-11-04 11:28:28
-63.0,Magnet Works,Enterprise,Na,Enterprise,9880.0,2023-04-16 04:05:28
-,Acme Collective,Smb,,,0.0,2023-08-19 06:32:27
-65.0,Brightwave Ventures,,,Pro,390.0,2025-09-27 18:49:14
-66.0,Nimbus Group,Enterprise,,Enterprise,15330.0,2025-11-09 03:54:06
-67.0,Vertex Exchange,Startup,Eu,Free,0.0,2024-03-18 00:40:25
-68.0,Bluesky Media,Startup,,Free,0.0,
-69.0,,Smb,,Pro,,2024-05-11 09:36:01 
-70.0,Evergreen Automation,Startup,,Free,0.0,2024-12-19 21:54:04
-,Northstar Security,Startup,,Free,0.0,2024-06-17 04:26:45
-,Silverline Marketing,,,Pro,335.0,
-73.0,Apex Platforms,Enterprise,,Enterprise,9320.0,2024-06-16 02:20:19
-74.0,Pioneer Metrics,Startup,,Pro,235.0,2024-07-10 01:14:41 
-75.0,Skybridge Intelligence,Startup,Apac,Pro,275.0,2023-10-16 15:12:29
-76.0,Ironclad Signals,Startup,Eu,Pro,485.0,2025-01-18 05:05:50
-77.0,Radiant Stack,,Apac,Pro,475.0,2025-07-19 03:04:16
-78.0,Summit Dataworks,,Eu,Pro,290.0,2024-09-12 13:30:50
-79.0,Echo Interactive,Smb,Na,Free,0.0,
-,Amber Blueprint,Enterprise,,Enterprise,19850.0,2022-12-02 00:54:08 
-81.0,Crimson Logistics,Midmarket,,,9530.0,2023-04-27 14:38:54
-82.0,Orchid Commerce,Startup,Apac,Pro,260.0,2024-12-11 03:36:42
-83.0,Sapphire Finance,Startup,,Pro,165.0,2023-03-09 21:28:51
-84.0,Thunder Innovation,Enterprise,Eu,Enterprise,18080.0,2024-10-11 13:53:00
-85.0,Pixel Nexus,Enterprise,,Enterprise,19950.0,2023-02-08 21:22:37 
-86.0,Neon Matrix,Midmarket,,Pro,250.0,2023-08-26 23:58:17
-87.0,Cobalt Bridge,Enterprise,,Enterprise,6780.0,2023-08-19 23:53:00
-88.0,Aurora Operations,,Apac,Pro,385.0,2023-07-01 15:30:28
-89.0,,,,Pro,455.0,2025-04-23 15:16:28
-90.0,Rocket Engine,Startup,Apac,Free,0.0,2023-02-22 00:32:43
-91.0,Gravity Design,Smb,Na,Pro,,
-92.0,,Startup,,Pro,175.0,2024-10-18 08:47:34
-,Nova Connect,Startup,,Pro,115.0,2024-01-29 10:20:39
-94.0,Momentum Grid,Startup,,Pro,455.0,
-95.0,Cascade Pulse,Smb,,Pro,485.0,2024-09-28 00:11:01
-96.0,Harbor Analytics,,,Pro,185.0,2024-03-26 21:36:35
-97.0,Sterling Studios,Startup,,Pro,95.0,2023-07-02 19:50:55
-98.0,Atlas Systems,Smb,,Pro,465.0,2023-11-29 01:32:38
-,Aurora Labs,Startup,,,345.0,2023-11-20 01:54:26 
-100.0,Zenith Dynamics,Startup,,Free,0.0,
-101.0,,Startup,,Free,0.0,2024-06-14 05:30:49
-102.0,Copper Partners,Startup,Na,Pro,340.0,
-103.0,Crescent Networks,Startup,,,235.0,2024-04-24 06:12:21
-104.0,Driftwood Industries,Startup,Na,Pro,80.0,2024-04-06 07:44:47
-105.0,Ember Software,Enterprise,,Enterprise,12390.0,2024-04-20 05:06:19
-,Frost Insights,Enterprise,Na,Enterprise,11870.0,2024-11-18 03:16:06 
-107.0,Glacier Technologies,Startup,,Pro,235.0,2023-01-16 10:13:50
-108.0,Horizon Holdings,Startup,,Free,,2023-07-07 22:50:50
-,Ivory Consulting,Smb,,Pro,305.0,2024-03-11 06:11:33
-110.0,Juniper Digital,Startup,,Pro,445.0,2025-01-22 12:07:04
-111.0,Keystone Works,Startup,,Pro,215.0,2023-05-18 17:44:18 
-112.0,Lantern Collective,Smb,,Pro,365.0,2025-02-23 13:09:45
-113.0,Marble Ventures,Smb,,Pro,245.0,2024-10-24 00:33:27
-114.0,Nimbus Group,Midmarket,,Enterprise,9610.0,2024-05-03 20:56:21
-115.0,Obsidian Exchange,Enterprise,,Enterprise,19520.0,2023-07-10 01:06:32
-116.0,Prairie Media,Smb,Apac,Pro,210.0,2023-03-13 02:36:31
-117.0,Quarry Cloud,Startup,Eu,Pro,260.0,2023-06-11 17:35:47
-118.0,Ridge Automation,Startup,Eu,Pro,340.0,2024-01-29 05:01:18
-119.0,Solstice Security,Startup,Na,Free,0.0,2023-09-25 12:44:52
-120.0,Timber Marketing,Smb,,Pro,350.0,2024-01-20 04:04:10
-121.0,Umber Platforms,Startup,,Free,0.0,
-122.0,Vanguard Metrics,Smb,Na,Pro,415.0,2023-03-29 08:02:24
-123.0,Willow Intelligence,Midmarket,Eu,Enterprise,8580.0,2025-01-06 21:20:25
-124.0,Xenon Signals,,Eu,Enterprise,17440.0,2025-11-10 07:38:27
-125.0,Yonder Stack,Startup,Apac,Pro,155.0,2023-05-01 07:35:02 
-126.0,Zephyr Dataworks,Enterprise,,Enterprise,19550.0,2024-11-19 01:13:51
-,Magnet Interactive,,Apac,Pro,145.0,2023-10-28 00:07:53
-128.0,Acme Blueprint,,,,15080.0,
-129.0,Brightwave Logistics,Startup,Na,Pro,155.0,2024-02-27 09:03:52
-130.0,Nimbus Commerce,Enterprise,,Enterprise,16040.0,2023-02-06 21:51:49
-,Vertex Finance,Smb,,Pro,270.0,2023-08-30 02:35:23
-132.0,Bluesky Innovation,Midmarket,Apac,Enterprise,11570.0,2023-01-14 05:05:55
-133.0,Quantum Nexus,Startup,,Free,,2024-07-03 06:56:35
-134.0,Evergreen Matrix,Startup,,Pro,365.0,2023-04-30 04:40:32
-135.0,Northstar Bridge,Startup,Apac,Pro,420.0,2025-09-10 19:15:53
-136.0,Silverline Operations,Enterprise,,Enterprise,10260.0,2024-08-27 22:16:23
-,Apex Strategy,Startup,,Pro,295.0,2023-10-08 10:03:23
-138.0,Pioneer Engine,Startup,,Free,0.0,2024-07-25 23:44:00 
-139.0,Skybridge Design,Smb,,Pro,420.0,2023-09-24 10:24:57
-140.0,Ironclad Capital,Startup,,Pro,,2023-06-14 14:33:39
-141.0,Radiant Connect,Startup,,Free,0.0,2025-01-27 04:24:25
-142.0,Summit Grid,Enterprise,,Enterprise,16230.0,2024-05-24 16:42:13
-143.0,Echo Pulse,Smb,Na,Pro,100.0,2024-03-02 17:55:08 
-144.0,Amber Analytics,Startup,Latam,Pro,115.0,2024-07-04 03:05:29
-145.0,,Startup,,Free,,
-146.0,Orchid Systems,Startup,Apac,Free,0.0,2023-08-21 04:26:29 
-147.0,Sapphire Labs,Startup,,Pro,215.0,2024-01-11 10:17:13
-148.0,,Startup,,,135.0,2023-04-07 20:33:44
-149.0,Pixel Solutions,,Eu,Pro,170.0,2023-08-06 11:09:10
-150.0,Neon Partners,Startup,,Pro,95.0,
-151.0,Cobalt Networks,Startup,Na,Pro,,
-152.0,Aurora Industries,Smb,Apac,Pro,135.0,2024-01-16 21:38:24
-153.0,Lighthouse Software,Smb,,Pro,90.0,
-154.0,Rocket Insights,Startup,,Free,0.0,2023-12-14 00:32:48
-155.0,Gravity Technologies,Smb,,,485.0,2024-09-26 14:26:23
-156.0,Fusion Holdings,Startup,Na,Free,0.0,2025-01-08 13:40:21 
-157.0,Nova Consulting,Smb,,Pro,430.0,2024-10-22 08:03:51
-158.0,Momentum Digital,Smb,,Pro,465.0,2024-07-07 17:55:33
-159.0,Cascade Works,Startup,Apac,Pro,55.0,2024-09-01 15:07:12
-160.0,Harbor Collective,Startup,,Pro,210.0,2024-03-18 14:37:39
-161.0,Sterling Ventures,Midmarket,,,11840.0,2023-06-21 05:39:20
-162.0,Atlas Group,Smb,Eu,Pro,120.0,2023-04-08 06:07:52
-,Aurora Exchange,Startup,Na,Free,0.0,2024-12-18 21:41:45
-164.0,Zenith Media,,Apac,Pro,305.0,2024-05-25 22:31:08
-165.0,,Startup,Eu,Free,0.0,2025-01-05 11:30:53
-,Copper Automation,Enterprise,,Enterprise,17890.0,2023-02-24 05:51:05
-167.0,Crescent Security,,Na,Pro,400.0,2025-10-22 18:47:15
-168.0,Driftwood Marketing,Startup,Apac,Free,,2024-06-13 01:43:25
-169.0,Ember Platforms,Startup,Apac,Pro,445.0,2023-03-28 16:43:19
-170.0,Frost Metrics,Smb,,Pro,135.0,2023-03-18 11:02:51
-171.0,Glacier Stack,,,Free,0.0,2023-05-11 18:35:02
-172.0,Horizon Dataworks,Enterprise,,Enterprise,13370.0,2024-12-13 21:29:33
-173.0,Ivory Interactive,Startup,Apac,Pro,380.0,2023-10-15 20:06:32
-174.0,,Smb,Apac,Pro,350.0,2025-02-01 09:09:44
-175.0,Keystone Logistics,,Apac,Enterprise,11140.0,2023-07-08 10:53:23
-176.0,Lantern Blueprint,Smb,Latam,Pro,455.0,2024-09-23 02:58:12
-177.0,Marble Bridge,Midmarket,Eu,Enterprise,8820.0,2024-08-11 08:19:13
-178.0,Nimbus Grid,Startup,,Free,,2024-08-16 11:14:28
-179.0,Obsidian Solutions,Smb,Latam,Pro,70.0,2025-03-19 13:05:17
-,Prairie Holdings,Smb,Na,Pro,375.0,2024-08-04 20:44:17
+23,Cobalt Security,Startup,,Free,,2024-04-16 22:36:39
+24,Aurora Marketing,Startup,,Free,,2023-03-09 08:12:40
+,Lighthouse Platforms,Smb,Na,Pro,475,2023-08-10 03:57:22
+26,Rocket Metrics,Smb,,,0,2023-01-05 19:03:09 
+,Gravity Intelligence,Enterprise,Eu,Enterprise,12280,2025-01-02 01:04:26
+28,Fusion Signals,,Na,Enterprise,17850,2024-08-31 01:16:01
+29,Nova Stack,Enterprise,,Enterprise,17820,
+,Momentum Dataworks,Startup,,Pro,315,2025-03-21 07:02:03
+31,Cascade Interactive,,,Free,0,2024-02-16 09:52:57 
+32,Harbor Blueprint,Startup,,Pro,280,2024-02-11 15:31:40
+33,Sterling Logistics,Startup,,Free,0,2023-07-10 02:17:04
+34,Atlas Commerce,Startup,Apac,Pro,235,2024-09-24 08:41:45
+35,Aurora Finance,Midmarket,,Enterprise,,2023-05-17 02:22:54
+36,Zenith Innovation,Startup,,Free,0,2024-12-29 18:21:31
+37,Velocity Nexus,Smb,,Pro,170,2024-04-11 07:56:51
+38,Copper Matrix,,,Free,0,2023-02-08 15:13:44
+,Crescent Bridge,,,Free,0,2024-11-12 13:51:04
+40,Driftwood Operations,Midmarket,Latam,Enterprise,16850,2023-06-04 00:23:47
+,,,,Free,0,2024-01-28 00:11:31
+42,Frost Engine,Enterprise,Na,Enterprise,10770,2024-03-29 19:26:21
+43,Glacier Design,Startup,,Pro,,2025-09-12 10:22:14
+44,Horizon Capital,Smb,,Pro,460,
+45,,Startup,,Free,0,2025-08-05 10:07:48
+46,Juniper Grid,Startup,Na,Pro,260,2023-07-30 21:51:13
+47,Keystone Pulse,Startup,,Pro,110,
+,Lantern Analytics,Smb,,Pro,430,
+49,,Startup,Latam,,0,2025-07-10 01:39:34
+50,Nimbus Systems,Smb,,Pro,215,2024-04-15 06:27:07
+,Obsidian Labs,Enterprise,,Enterprise,18880,2023-05-26 09:24:21
+52,Prairie Dynamics,Smb,,Pro,165,2023-04-09 00:32:12
+53,Quarry Solutions,Startup,Na,Pro,380,
+54,Ridge Partners,,,Free,0,2023-05-18 12:22:44
+55,Solstice Networks,Startup,Eu,Free,0,2024-08-02 07:04:35
+56,Timber Industries,Smb,Eu,Pro,420,2025-10-30 19:07:24
+57,Umber Software,Startup,Eu,,,2025-09-08 12:08:57
+58,,,,Pro,300,2025-11-15 00:51:14 
+,Willow Technologies,Smb,,Pro,325,2024-08-10 02:24:45
+60,Xenon Holdings,Smb,,Pro,255,2023-12-13 15:33:59
+61,Yonder Consulting,Startup,,Free,0,2024-12-06 05:07:01
+62,Zephyr Digital,Smb,,Pro,275,2024-11-04 11:28:28
+63,Magnet Works,Enterprise,Na,Enterprise,9880,2023-04-16 04:05:28
+,Acme Collective,Smb,,,0,2023-08-19 06:32:27
+65,Brightwave Ventures,,,Pro,390,2025-09-27 18:49:14
+66,Nimbus Group,Enterprise,,Enterprise,15330,2025-11-09 03:54:06
+67,Vertex Exchange,Startup,Eu,Free,0,2024-03-18 00:40:25
+68,Bluesky Media,Startup,,Free,0,
+69,,Smb,,Pro,,2024-05-11 09:36:01 
+70,Evergreen Automation,Startup,,Free,0,2024-12-19 21:54:04
+,Northstar Security,Startup,,Free,0,2024-06-17 04:26:45
+,Silverline Marketing,,,Pro,335,
+73,Apex Platforms,Enterprise,,Enterprise,9320,2024-06-16 02:20:19
+74,Pioneer Metrics,Startup,,Pro,235,2024-07-10 01:14:41 
+75,Skybridge Intelligence,Startup,Apac,Pro,275,2023-10-16 15:12:29
+76,Ironclad Signals,Startup,Eu,Pro,485,2025-01-18 05:05:50
+77,Radiant Stack,,Apac,Pro,475,2025-07-19 03:04:16
+78,Summit Dataworks,,Eu,Pro,290,2024-09-12 13:30:50
+79,Echo Interactive,Smb,Na,Free,0,
+,Amber Blueprint,Enterprise,,Enterprise,19850,2022-12-02 00:54:08 
+81,Crimson Logistics,Midmarket,,,9530,2023-04-27 14:38:54
+82,Orchid Commerce,Startup,Apac,Pro,260,2024-12-11 03:36:42
+83,Sapphire Finance,Startup,,Pro,165,2023-03-09 21:28:51
+84,Thunder Innovation,Enterprise,Eu,Enterprise,18080,2024-10-11 13:53:00
+85,Pixel Nexus,Enterprise,,Enterprise,19950,2023-02-08 21:22:37 
+86,Neon Matrix,Midmarket,,Pro,250,2023-08-26 23:58:17
+87,Cobalt Bridge,Enterprise,,Enterprise,6780,2023-08-19 23:53:00
+88,Aurora Operations,,Apac,Pro,385,2023-07-01 15:30:28
+89,,,,Pro,455,2025-04-23 15:16:28
+90,Rocket Engine,Startup,Apac,Free,0,2023-02-22 00:32:43
+91,Gravity Design,Smb,Na,Pro,,
+92,,Startup,,Pro,175,2024-10-18 08:47:34
+,Nova Connect,Startup,,Pro,115,2024-01-29 10:20:39
+94,Momentum Grid,Startup,,Pro,455,
+95,Cascade Pulse,Smb,,Pro,485,2024-09-28 00:11:01
+96,Harbor Analytics,,,Pro,185,2024-03-26 21:36:35
+97,Sterling Studios,Startup,,Pro,95,2023-07-02 19:50:55
+98,Atlas Systems,Smb,,Pro,465,2023-11-29 01:32:38
+,Aurora Labs,Startup,,,345,2023-11-20 01:54:26 
+100,Zenith Dynamics,Startup,,Free,0,
+101,,Startup,,Free,0,2024-06-14 05:30:49
+102,Copper Partners,Startup,Na,Pro,340,
+103,Crescent Networks,Startup,,,235,2024-04-24 06:12:21
+104,Driftwood Industries,Startup,Na,Pro,80,2024-04-06 07:44:47
+105,Ember Software,Enterprise,,Enterprise,12390,2024-04-20 05:06:19
+,Frost Insights,Enterprise,Na,Enterprise,11870,2024-11-18 03:16:06 
+107,Glacier Technologies,Startup,,Pro,235,2023-01-16 10:13:50
+108,Horizon Holdings,Startup,,Free,,2023-07-07 22:50:50
+,Ivory Consulting,Smb,,Pro,305,2024-03-11 06:11:33
+110,Juniper Digital,Startup,,Pro,445,2025-01-22 12:07:04
+111,Keystone Works,Startup,,Pro,215,2023-05-18 17:44:18 
+112,Lantern Collective,Smb,,Pro,365,2025-02-23 13:09:45
+113,Marble Ventures,Smb,,Pro,245,2024-10-24 00:33:27
+114,Nimbus Group,Midmarket,,Enterprise,9610,2024-05-03 20:56:21
+115,Obsidian Exchange,Enterprise,,Enterprise,19520,2023-07-10 01:06:32
+116,Prairie Media,Smb,Apac,Pro,210,2023-03-13 02:36:31
+117,Quarry Cloud,Startup,Eu,Pro,260,2023-06-11 17:35:47
+118,Ridge Automation,Startup,Eu,Pro,340,2024-01-29 05:01:18
+119,Solstice Security,Startup,Na,Free,0,2023-09-25 12:44:52
+120,Timber Marketing,Smb,,Pro,350,2024-01-20 04:04:10
+121,Umber Platforms,Startup,,Free,0,
+122,Vanguard Metrics,Smb,Na,Pro,415,2023-03-29 08:02:24
+123,Willow Intelligence,Midmarket,Eu,Enterprise,8580,2025-01-06 21:20:25
+124,Xenon Signals,,Eu,Enterprise,17440,2025-11-10 07:38:27
+125,Yonder Stack,Startup,Apac,Pro,155,2023-05-01 07:35:02 
+126,Zephyr Dataworks,Enterprise,,Enterprise,19550,2024-11-19 01:13:51
+,Magnet Interactive,,Apac,Pro,145,2023-10-28 00:07:53
+128,Acme Blueprint,,,,15080,
+129,Brightwave Logistics,Startup,Na,Pro,155,2024-02-27 09:03:52
+130,Nimbus Commerce,Enterprise,,Enterprise,16040,2023-02-06 21:51:49
+,Vertex Finance,Smb,,Pro,270,2023-08-30 02:35:23
+132,Bluesky Innovation,Midmarket,Apac,Enterprise,11570,2023-01-14 05:05:55
+133,Quantum Nexus,Startup,,Free,,2024-07-03 06:56:35
+134,Evergreen Matrix,Startup,,Pro,365,2023-04-30 04:40:32
+135,Northstar Bridge,Startup,Apac,Pro,420,2025-09-10 19:15:53
+136,Silverline Operations,Enterprise,,Enterprise,10260,2024-08-27 22:16:23
+,Apex Strategy,Startup,,Pro,295,2023-10-08 10:03:23
+138,Pioneer Engine,Startup,,Free,0,2024-07-25 23:44:00 
+139,Skybridge Design,Smb,,Pro,420,2023-09-24 10:24:57
+140,Ironclad Capital,Startup,,Pro,,2023-06-14 14:33:39
+141,Radiant Connect,Startup,,Free,0,2025-01-27 04:24:25
+142,Summit Grid,Enterprise,,Enterprise,16230,2024-05-24 16:42:13
+143,Echo Pulse,Smb,Na,Pro,100,2024-03-02 17:55:08 
+144,Amber Analytics,Startup,Latam,Pro,115,2024-07-04 03:05:29
+145,,Startup,,Free,,
+146,Orchid Systems,Startup,Apac,Free,0,2023-08-21 04:26:29 
+147,Sapphire Labs,Startup,,Pro,215,2024-01-11 10:17:13
+148,,Startup,,,135,2023-04-07 20:33:44
+149,Pixel Solutions,,Eu,Pro,170,2023-08-06 11:09:10
+150,Neon Partners,Startup,,Pro,95,
+151,Cobalt Networks,Startup,Na,Pro,,
+152,Aurora Industries,Smb,Apac,Pro,135,2024-01-16 21:38:24
+153,Lighthouse Software,Smb,,Pro,90,
+154,Rocket Insights,Startup,,Free,0,2023-12-14 00:32:48
+155,Gravity Technologies,Smb,,,485,2024-09-26 14:26:23
+156,Fusion Holdings,Startup,Na,Free,0,2025-01-08 13:40:21 
+157,Nova Consulting,Smb,,Pro,430,2024-10-22 08:03:51
+158,Momentum Digital,Smb,,Pro,465,2024-07-07 17:55:33
+159,Cascade Works,Startup,Apac,Pro,55,2024-09-01 15:07:12
+160,Harbor Collective,Startup,,Pro,210,2024-03-18 14:37:39
+161,Sterling Ventures,Midmarket,,,11840,2023-06-21 05:39:20
+162,Atlas Group,Smb,Eu,Pro,120,2023-04-08 06:07:52
+,Aurora Exchange,Startup,Na,Free,0,2024-12-18 21:41:45
+164,Zenith Media,,Apac,Pro,305,2024-05-25 22:31:08
+165,,Startup,Eu,Free,0,2025-01-05 11:30:53
+,Copper Automation,Enterprise,,Enterprise,17890,2023-02-24 05:51:05
+167,Crescent Security,,Na,Pro,400,2025-10-22 18:47:15
+168,Driftwood Marketing,Startup,Apac,Free,,2024-06-13 01:43:25
+169,Ember Platforms,Startup,Apac,Pro,445,2023-03-28 16:43:19
+170,Frost Metrics,Smb,,Pro,135,2023-03-18 11:02:51
+171,Glacier Stack,,,Free,0,2023-05-11 18:35:02
+172,Horizon Dataworks,Enterprise,,Enterprise,13370,2024-12-13 21:29:33
+173,Ivory Interactive,Startup,Apac,Pro,380,2023-10-15 20:06:32
+174,,Smb,Apac,Pro,350,2025-02-01 09:09:44
+175,Keystone Logistics,,Apac,Enterprise,11140,2023-07-08 10:53:23
+176,Lantern Blueprint,Smb,Latam,Pro,455,2024-09-23 02:58:12
+177,Marble Bridge,Midmarket,Eu,Enterprise,8820,2024-08-11 08:19:13
+178,Nimbus Grid,Startup,,Free,,2024-08-16 11:14:28
+179,Obsidian Solutions,Smb,Latam,Pro,70,2025-03-19 13:05:17
+,Prairie Holdings,Smb,Na,Pro,375,2024-08-04 20:44:17
