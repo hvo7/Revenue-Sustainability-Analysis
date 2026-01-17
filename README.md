@@ -11,9 +11,7 @@ An analysis was thus conducted to:
 
 
 Data was collected from 3 kaggle datasets:
-* [SaaS Analytics Data](https://www.kaggle.com/datasets/catherinrevu/insightflow-saas-analytics-data/code)
-* [Google Play Store Apps](https://www.kaggle.com/datasets/lava18/google-play-store-apps/code)
-* [SaaS Business Metrics ](https://www.kaggle.com/datasets/halaturkialotaibi/saas-business-metrics-customers-plans-and-revenue/code)
+* [B2B Saas Dataset](https://www.kaggle.com/code/oxyjen/b2b-saas-customer-churn-modeling-retention-analy)
 
 Then data quality defects were introduced to mimic realistic data using the messy package from:
     
