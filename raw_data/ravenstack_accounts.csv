@@ -1,501 +1,501 @@
 account_id,account_name,industry,country,signup_date,referral_source,plan_tier,seats,is_trial,churn_flag
-A-2e4581,Company_0,EdTech,US,2024-10-16,partner,Basic,9,False,False
-A-43a9e3,Company_1,FinTech,IN,2023-08-17,other,Basic,18,False,True
-A-0a282f,Company_2,DevTools,US,2024-08-27,organic,Basic,1,False,False
-A-1f0ac7,Company_3,HealthTech,UK,2023-08-27,other,Basic,24,True,False
-A-ce550d,Company_4,HealthTech,US,2024-10-27,event,Enterprise,35,False,True
-A-1b9609,Company_5,EdTech,IN,2023-10-12,ads,Enterprise,4,False,False
-A-a0ca4e,Company_6,Cybersecurity,US,2024-03-08,ads,Pro,11,False,False
-A-e5d6ab,Company_7,EdTech,US,2023-04-15,partner,Pro,3,False,False
-A-7dacce,Company_8,Cybersecurity,CA,2024-09-10,event,Enterprise,12,False,True
-A-10b8da,Company_9,DevTools,US,2023-05-08,partner,Enterprise,14,False,True
-A-592832,Company_10,Cybersecurity,US,2024-09-25,organic,Basic,18,False,True
-A-d40bf7,Company_11,FinTech,IN,2024-11-08,organic,Basic,59,False,False
-A-6c093d,Company_12,DevTools,US,2023-04-14,partner,Basic,7,True,False
-A-462d45,Company_13,Cybersecurity,US,2024-01-15,partner,Enterprise,11,True,False
-A-956988,Company_14,EdTech,UK,2024-11-30,ads,Enterprise,1,False,False
-A-ac14bb,Company_15,FinTech,US,2023-09-08,partner,Enterprise,21,False,False
-A-463db0,Company_16,HealthTech,US,2024-12-05,partner,Basic,15,False,False
-A-ce66f8,Company_17,EdTech,CA,2023-08-23,event,Pro,29,False,False
-A-c4ea60,Company_18,FinTech,DE,2023-03-09,other,Enterprise,18,False,True
-A-832ec2,Company_19,FinTech,UK,2023-11-19,event,Enterprise,4,True,False
-A-684255,Company_20,FinTech,US,2024-04-14,ads,Enterprise,9,False,False
-A-c42f1f,Company_21,HealthTech,US,2024-07-28,other,Pro,8,False,False
-A-4e44e8,Company_22,DevTools,US,2024-08-20,ads,Enterprise,3,False,True
-A-30b4ca,Company_23,EdTech,IN,2024-05-20,organic,Basic,86,False,True
-A-9f2731,Company_24,FinTech,IN,2024-10-04,event,Enterprise,1,False,False
-A-32fb14,Company_25,DevTools,US,2023-03-07,event,Enterprise,26,False,True
-A-00cac8,Company_26,HealthTech,AU,2023-09-15,organic,Enterprise,8,True,False
-A-35083d,Company_27,HealthTech,IN,2023-04-28,partner,Basic,19,False,True
-A-eb7fac,Company_28,DevTools,US,2023-10-28,organic,Enterprise,7,False,False
-A-b20d99,Company_29,HealthTech,IN,2023-09-27,other,Basic,20,False,False
-A-396e5f,Company_30,Cybersecurity,CA,2024-10-02,other,Enterprise,2,False,False
-A-45ce7a,Company_31,FinTech,US,2023-07-23,ads,Enterprise,16,False,False
-A-08e34e,Company_32,EdTech,US,2024-06-27,event,Basic,14,False,True
-A-8145a0,Company_33,Cybersecurity,AU,2023-04-25,partner,Basic,2,True,False
-A-bad8c1,Company_34,FinTech,AU,2023-03-01,organic,Basic,7,False,False
-A-44dc83,Company_35,EdTech,FR,2024-05-12,other,Basic,5,False,False
-A-f446b6,Company_36,DevTools,DE,2023-05-12,ads,Pro,5,True,False
-A-a45270,Company_37,HealthTech,US,2024-06-24,ads,Enterprise,3,False,False
-A-854864,Company_38,FinTech,IN,2024-12-07,event,Enterprise,20,False,False
-A-1b7577,Company_39,Cybersecurity,US,2024-10-27,other,Pro,4,False,False
-A-05f0e5,Company_40,FinTech,US,2023-05-04,partner,Basic,32,False,False
-A-9077b0,Company_41,HealthTech,US,2024-08-25,ads,Basic,2,False,False
-A-7f8241,Company_42,EdTech,US,2023-03-14,organic,Pro,34,False,True
-A-2bc93d,Company_43,HealthTech,US,2023-03-14,event,Basic,14,False,False
-A-f3ff05,Company_44,FinTech,IN,2024-07-06,other,Enterprise,2,False,False
-A-2d4502,Company_45,FinTech,IN,2024-04-29,event,Basic,7,False,False
-A-6a4e2d,Company_46,EdTech,UK,2023-04-07,partner,Pro,9,False,False
-A-eb7c38,Company_47,DevTools,AU,2024-02-25,organic,Enterprise,5,False,False
-A-c37601,Company_48,EdTech,US,2024-10-31,partner,Basic,6,True,False
-A-3b5cd1,Company_49,FinTech,US,2023-09-12,event,Basic,13,True,False
-A-b2225d,Company_50,FinTech,US,2024-03-08,ads,Basic,47,False,True
-A-94f8c9,Company_51,HealthTech,US,2024-03-29,other,Basic,13,False,False
-A-02fac6,Company_52,FinTech,US,2023-04-06,event,Pro,22,False,False
-A-c1dfe1,Company_53,DevTools,DE,2023-08-07,ads,Pro,26,False,False
-A-32728c,Company_54,DevTools,US,2023-01-03,event,Pro,20,False,True
-A-4c38bc,Company_55,HealthTech,UK,2024-03-09,event,Basic,36,False,True
-A-1b707d,Company_56,Cybersecurity,US,2023-07-14,organic,Enterprise,1,False,False
-A-6f8ad2,Company_57,EdTech,IN,2024-07-09,organic,Basic,1,False,False
-A-4d1e75,Company_58,DevTools,US,2024-08-21,other,Basic,20,False,False
-A-9ee962,Company_59,HealthTech,US,2023-02-28,ads,Basic,9,False,True
-A-378b99,Company_60,EdTech,UK,2024-09-01,ads,Pro,8,True,False
-A-94d3da,Company_61,HealthTech,US,2023-05-03,other,Basic,41,False,False
-A-e351e1,Company_62,EdTech,US,2024-09-26,other,Enterprise,33,False,False
-A-9badbd,Company_63,Cybersecurity,DE,2024-06-19,ads,Enterprise,5,True,False
-A-7e0a10,Company_64,FinTech,US,2023-11-18,ads,Enterprise,46,False,False
-A-118d55,Company_65,Cybersecurity,US,2024-10-22,organic,Basic,8,False,False
-A-526d93,Company_66,HealthTech,FR,2024-04-14,organic,Basic,43,False,False
-A-f92792,Company_67,FinTech,US,2024-07-04,ads,Pro,1,False,False
-A-84ebe4,Company_68,FinTech,US,2023-03-12,ads,Pro,18,True,True
-A-5b4ebb,Company_69,Cybersecurity,UK,2024-07-10,other,Basic,21,True,True
-A-2922b6,Company_70,HealthTech,US,2024-11-14,organic,Basic,15,False,False
-A-9b9fe9,Company_71,EdTech,AU,2023-09-28,other,Basic,5,False,False
-A-a8b49c,Company_72,Cybersecurity,UK,2023-10-06,partner,Basic,7,False,False
-A-9174e0,Company_73,Cybersecurity,US,2024-12-04,partner,Basic,37,False,False
-A-a1bbb6,Company_74,DevTools,CA,2023-04-05,organic,Basic,1,False,False
-A-c45b23,Company_75,FinTech,UK,2023-12-08,partner,Basic,5,False,False
-A-02cd81,Company_76,HealthTech,IN,2024-03-28,other,Basic,44,False,False
-A-ee42db,Company_77,EdTech,DE,2023-04-25,ads,Enterprise,13,False,False
-A-432483,Company_78,Cybersecurity,US,2023-02-06,ads,Pro,4,False,False
-A-9208f0,Company_79,EdTech,US,2023-05-11,organic,Pro,1,False,True
-A-98a59a,Company_80,FinTech,UK,2023-08-04,partner,Enterprise,56,False,False
-A-fe79a5,Company_81,HealthTech,IN,2024-02-21,ads,Basic,9,True,False
-A-726cfa,Company_82,DevTools,US,2023-07-01,partner,Pro,11,False,False
-A-c43359,Company_83,FinTech,US,2024-11-16,organic,Pro,38,False,False
-A-271f46,Company_84,DevTools,US,2023-02-09,event,Pro,38,False,True
-A-157070,Company_85,FinTech,US,2023-11-09,ads,Pro,16,False,False
-A-40a557,Company_86,Cybersecurity,AU,2023-12-03,partner,Pro,16,True,False
-A-66224b,Company_87,HealthTech,US,2024-10-18,other,Pro,92,True,False
-A-91e948,Company_88,EdTech,AU,2023-01-29,partner,Basic,41,False,False
-A-104f1a,Company_89,Cybersecurity,US,2024-08-17,other,Pro,24,False,False
-A-7988d1,Company_90,Cybersecurity,US,2023-12-20,other,Basic,33,False,False
-A-faa28c,Company_91,HealthTech,US,2024-01-30,organic,Enterprise,48,False,False
-A-f25509,Company_92,EdTech,US,2024-03-22,other,Enterprise,32,False,False
-A-3a7284,Company_93,FinTech,US,2024-11-17,organic,Enterprise,31,False,False
-A-3a5ad8,Company_94,HealthTech,US,2023-12-05,organic,Enterprise,9,True,False
-A-65a46c,Company_95,HealthTech,US,2023-11-04,event,Pro,1,False,False
-A-8b25f2,Company_96,Cybersecurity,US,2024-02-17,ads,Pro,6,False,True
-A-fabe19,Company_97,DevTools,UK,2024-11-11,ads,Enterprise,1,False,False
-A-adc1f3,Company_98,Cybersecurity,US,2024-08-05,organic,Pro,2,False,False
-A-503d5a,Company_99,FinTech,US,2023-10-21,other,Enterprise,4,False,True
-A-fd7ad3,Company_100,Cybersecurity,US,2024-11-01,event,Enterprise,1,False,False
-A-186a44,Company_101,HealthTech,US,2023-08-07,ads,Enterprise,20,False,False
-A-e888d1,Company_102,Cybersecurity,US,2023-03-28,other,Pro,14,False,False
-A-69fad4,Company_103,FinTech,UK,2023-04-06,ads,Basic,6,False,True
-A-9289f6,Company_104,EdTech,US,2023-05-31,event,Enterprise,1,False,False
-A-f19409,Company_105,DevTools,US,2023-03-16,other,Basic,23,False,True
-A-22f2df,Company_106,DevTools,US,2024-12-14,ads,Basic,3,False,False
-A-039727,Company_107,EdTech,AU,2024-11-02,organic,Pro,25,False,False
-A-2e3bad,Company_108,FinTech,CA,2023-08-13,other,Pro,61,False,False
-A-484819,Company_109,HealthTech,US,2023-02-21,organic,Pro,18,False,False
-A-425e76,Company_110,DevTools,UK,2023-05-17,other,Enterprise,8,False,True
-A-e83938,Company_111,DevTools,UK,2023-11-21,other,Pro,2,True,True
-A-ad296b,Company_112,DevTools,AU,2024-07-15,event,Pro,38,False,False
-A-e51ec7,Company_113,FinTech,CA,2023-09-23,partner,Enterprise,2,False,False
-A-0aaf6e,Company_114,FinTech,US,2024-05-11,organic,Enterprise,3,False,False
-A-e61e98,Company_115,FinTech,US,2023-10-20,partner,Enterprise,19,False,True
-A-92a333,Company_116,FinTech,US,2023-03-24,event,Enterprise,9,False,False
-A-95b24a,Company_117,FinTech,US,2023-06-06,event,Pro,38,False,True
-A-42e5e1,Company_118,DevTools,US,2024-07-09,ads,Pro,1,False,True
-A-7d514c,Company_119,HealthTech,DE,2024-02-03,organic,Enterprise,17,False,False
-A-65aeb5,Company_120,DevTools,US,2024-01-25,partner,Pro,9,False,False
-A-e2cd1b,Company_121,DevTools,US,2024-02-04,other,Enterprise,15,False,False
-A-180abf,Company_122,DevTools,US,2023-08-14,event,Pro,64,False,True
-A-f17767,Company_123,DevTools,US,2023-01-30,event,Enterprise,1,True,True
-A-5a184f,Company_124,DevTools,DE,2023-06-19,other,Enterprise,1,False,True
-A-7df7a7,Company_125,DevTools,US,2023-01-28,organic,Basic,7,False,True
-A-1ac5e0,Company_126,DevTools,US,2024-10-20,event,Basic,33,False,True
-A-52dd88,Company_127,Cybersecurity,US,2023-02-21,ads,Pro,23,False,False
-A-bece89,Company_128,Cybersecurity,IN,2023-12-01,event,Pro,26,False,False
-A-029f69,Company_129,Cybersecurity,CA,2024-03-07,event,Basic,3,False,False
-A-5c046d,Company_130,EdTech,FR,2024-07-06,partner,Basic,93,False,False
-A-fb186e,Company_131,EdTech,IN,2024-10-27,organic,Basic,29,False,False
-A-ae052e,Company_132,FinTech,CA,2023-09-11,other,Basic,39,False,False
-A-9f9299,Company_133,FinTech,US,2023-09-02,organic,Enterprise,28,True,False
-A-96e141,Company_134,DevTools,UK,2023-08-12,partner,Basic,14,False,False
-A-117171,Company_135,HealthTech,FR,2024-09-12,organic,Basic,45,False,True
-A-313be3,Company_136,EdTech,US,2023-11-15,partner,Enterprise,47,True,False
-A-671f31,Company_137,DevTools,US,2024-11-24,ads,Basic,59,False,False
-A-bbc346,Company_138,FinTech,US,2024-08-29,partner,Enterprise,19,False,False
-A-c16101,Company_139,EdTech,IN,2024-09-06,other,Basic,7,False,False
-A-50f3f7,Company_140,HealthTech,US,2023-12-22,partner,Basic,31,False,True
-A-7da956,Company_141,Cybersecurity,US,2024-06-02,event,Pro,13,True,False
-A-019782,Company_142,DevTools,FR,2023-04-19,event,Enterprise,11,False,False
-A-df10db,Company_143,DevTools,US,2023-06-06,other,Enterprise,2,True,False
-A-3932db,Company_144,HealthTech,CA,2023-10-04,other,Pro,19,True,True
-A-4f18f0,Company_145,DevTools,CA,2024-04-21,other,Pro,24,True,False
-A-4c6f11,Company_146,FinTech,CA,2023-11-27,organic,Pro,24,True,True
-A-8ae05d,Company_147,FinTech,IN,2024-04-06,other,Enterprise,86,False,False
-A-b78bf8,Company_148,DevTools,US,2024-11-15,event,Pro,33,False,False
-A-eafc6e,Company_149,DevTools,US,2023-07-06,partner,Pro,27,False,True
-A-37f969,Company_150,HealthTech,IN,2023-10-14,partner,Enterprise,30,False,False
-A-10b8f2,Company_151,HealthTech,DE,2023-01-11,organic,Basic,47,True,False
-A-439b2f,Company_152,DevTools,US,2024-02-21,ads,Enterprise,1,False,True
-A-544d0a,Company_153,DevTools,US,2024-05-02,organic,Basic,2,True,False
-A-ba6516,Company_154,FinTech,US,2023-10-29,ads,Pro,27,False,False
-A-712426,Company_155,HealthTech,US,2024-11-10,other,Enterprise,9,False,False
-A-038089,Company_156,DevTools,FR,2023-12-19,other,Pro,5,False,True
-A-afa505,Company_157,DevTools,US,2023-12-27,partner,Basic,70,True,False
-A-d5a319,Company_158,FinTech,US,2023-05-04,other,Enterprise,15,False,True
-A-f97b9a,Company_159,FinTech,US,2023-07-09,event,Pro,16,False,False
-A-2f6a32,Company_160,HealthTech,US,2024-08-26,organic,Basic,19,False,False
-A-856b1e,Company_161,FinTech,US,2023-10-31,partner,Basic,19,False,False
-A-17939a,Company_162,HealthTech,US,2024-12-26,organic,Basic,1,False,False
-A-d27f50,Company_163,Cybersecurity,UK,2024-07-20,ads,Enterprise,44,False,False
-A-e36807,Company_164,EdTech,AU,2024-05-17,other,Pro,6,False,False
-A-ff79f2,Company_165,DevTools,US,2024-04-25,ads,Basic,8,False,True
-A-5b1bcd,Company_166,DevTools,US,2023-09-16,organic,Pro,73,False,False
-A-71615e,Company_167,EdTech,US,2024-05-18,organic,Basic,15,False,False
-A-794a0b,Company_168,HealthTech,DE,2023-06-02,organic,Basic,23,False,False
-A-86902e,Company_169,HealthTech,IN,2023-05-02,other,Enterprise,34,False,False
-A-0532a9,Company_170,FinTech,IN,2024-09-25,event,Pro,19,False,False
-A-9779ad,Company_171,Cybersecurity,AU,2024-03-29,event,Pro,40,True,True
-A-f45426,Company_172,HealthTech,US,2024-08-05,organic,Basic,9,False,False
-A-c1e51e,Company_173,FinTech,US,2024-10-02,organic,Basic,3,False,False
-A-fa3095,Company_174,FinTech,US,2023-09-03,ads,Basic,70,False,False
-A-ad64c6,Company_175,DevTools,UK,2024-02-23,event,Pro,12,False,False
-A-39b19f,Company_176,FinTech,US,2023-02-03,partner,Enterprise,1,False,False
-A-56962b,Company_177,EdTech,UK,2024-04-09,partner,Enterprise,163,False,False
-A-e60f9d,Company_178,FinTech,US,2024-08-26,other,Basic,29,False,False
-A-88c6ca,Company_179,FinTech,DE,2024-10-25,ads,Basic,5,False,True
-A-158f4e,Company_180,FinTech,IN,2023-03-03,other,Enterprise,61,False,False
-A-5b051a,Company_181,Cybersecurity,US,2024-08-05,event,Enterprise,22,False,False
-A-296d7c,Company_182,DevTools,DE,2023-11-08,other,Enterprise,2,False,False
-A-1619f8,Company_183,DevTools,US,2024-05-20,organic,Pro,29,False,False
-A-a1b80b,Company_184,HealthTech,US,2023-11-27,organic,Basic,16,False,False
-A-139c3b,Company_185,HealthTech,US,2024-11-21,organic,Enterprise,10,True,True
-A-702032,Company_186,HealthTech,US,2023-10-03,ads,Pro,28,False,False
-A-7a0d69,Company_187,DevTools,DE,2024-06-15,ads,Enterprise,4,True,True
-A-22d9d2,Company_188,DevTools,FR,2024-03-22,event,Pro,8,False,False
-A-b9eed8,Company_189,Cybersecurity,US,2024-02-23,organic,Basic,11,False,False
-A-dfbd31,Company_190,DevTools,UK,2023-12-04,partner,Enterprise,14,False,False
-A-8e47ca,Company_191,HealthTech,US,2024-02-15,organic,Pro,19,False,False
-A-4437e4,Company_192,Cybersecurity,US,2023-09-16,event,Enterprise,3,False,False
-A-779e4e,Company_193,HealthTech,US,2023-01-02,organic,Basic,5,False,False
-A-53f4e3,Company_194,Cybersecurity,UK,2024-06-14,event,Enterprise,13,False,False
-A-692f18,Company_195,EdTech,US,2024-03-28,other,Basic,5,True,True
-A-13466a,Company_196,DevTools,AU,2023-10-22,event,Basic,2,False,True
-A-1986ca,Company_197,HealthTech,IN,2023-01-30,ads,Pro,20,False,False
-A-0cc442,Company_198,EdTech,US,2024-07-18,organic,Basic,45,False,False
-A-c608c8,Company_199,DevTools,DE,2023-04-27,ads,Pro,3,False,True
-A-3be56b,Company_200,HealthTech,IN,2023-10-26,event,Pro,3,False,True
-A-354f12,Company_201,FinTech,US,2024-04-28,ads,Pro,1,True,False
-A-68f37c,Company_202,HealthTech,US,2023-07-15,ads,Basic,4,False,False
-A-aa9511,Company_203,DevTools,US,2023-10-10,other,Pro,23,True,False
-A-af0cd2,Company_204,Cybersecurity,IN,2023-01-03,other,Enterprise,19,True,False
-A-bd4513,Company_205,DevTools,AU,2024-11-06,event,Enterprise,50,True,False
-A-c222ab,Company_206,Cybersecurity,US,2024-05-10,other,Pro,32,False,True
-A-34d880,Company_207,Cybersecurity,AU,2024-04-11,ads,Enterprise,4,False,False
-A-508199,Company_208,FinTech,AU,2024-01-28,event,Basic,19,False,False
-A-f03140,Company_209,DevTools,IN,2023-11-22,event,Pro,27,True,False
-A-410e86,Company_210,FinTech,US,2024-11-10,organic,Basic,24,False,False
-A-fa2041,Company_211,HealthTech,US,2024-05-29,organic,Pro,15,True,False
-A-de58ca,Company_212,HealthTech,DE,2023-04-13,organic,Enterprise,15,False,False
-A-05d3b3,Company_213,DevTools,AU,2023-05-28,ads,Basic,9,True,False
-A-249769,Company_214,Cybersecurity,US,2024-04-25,event,Enterprise,4,False,True
-A-e43bf7,Company_215,Cybersecurity,AU,2023-03-24,other,Pro,44,False,False
-A-eb2fdc,Company_216,DevTools,AU,2023-11-21,organic,Enterprise,31,False,True
-A-e1462e,Company_217,FinTech,UK,2023-03-12,partner,Basic,15,False,False
-A-cab532,Company_218,DevTools,FR,2023-04-03,organic,Pro,11,True,False
-A-9123ac,Company_219,Cybersecurity,DE,2023-06-20,organic,Pro,9,False,False
-A-6e08f3,Company_220,Cybersecurity,US,2023-02-27,event,Basic,8,False,False
-A-d922bf,Company_221,HealthTech,US,2023-09-08,ads,Basic,5,True,True
-A-8ed5dd,Company_222,EdTech,UK,2023-06-29,event,Enterprise,5,False,True
-A-7c6b6b,Company_223,FinTech,US,2024-11-30,other,Basic,6,False,False
-A-3c1a3f,Company_224,DevTools,UK,2023-08-26,event,Pro,1,False,False
-A-b48f73,Company_225,EdTech,AU,2024-11-13,event,Pro,80,True,False
-A-76fa4d,Company_226,HealthTech,US,2024-11-24,event,Pro,69,False,False
-A-b2af2e,Company_227,Cybersecurity,UK,2024-08-24,event,Enterprise,5,False,False
-A-9bfc9f,Company_228,DevTools,CA,2023-09-14,ads,Pro,53,False,False
-A-4ae22a,Company_229,EdTech,US,2024-05-09,other,Pro,6,False,True
-A-fda07f,Company_230,Cybersecurity,FR,2024-08-11,partner,Basic,7,False,False
-A-de24d5,Company_231,DevTools,US,2024-11-05,other,Enterprise,5,True,False
-A-977ca0,Company_232,HealthTech,IN,2023-02-20,partner,Basic,6,False,True
-A-ab438f,Company_233,Cybersecurity,US,2024-09-13,ads,Enterprise,13,False,True
-A-e89151,Company_234,FinTech,UK,2023-09-14,organic,Pro,8,True,True
-A-40906c,Company_235,EdTech,US,2024-03-27,ads,Basic,92,False,False
-A-81edc3,Company_236,Cybersecurity,IN,2023-10-30,ads,Basic,5,False,False
-A-328bd0,Company_237,HealthTech,AU,2023-05-16,partner,Enterprise,18,False,False
-A-b3fe05,Company_238,Cybersecurity,CA,2024-05-28,partner,Pro,8,False,False
-A-09540c,Company_239,Cybersecurity,CA,2023-10-30,event,Basic,67,True,False
-A-e693b6,Company_240,FinTech,AU,2023-05-25,event,Enterprise,55,False,True
-A-2446e3,Company_241,EdTech,IN,2024-01-10,organic,Pro,27,False,False
-A-241e75,Company_242,EdTech,US,2024-07-03,partner,Enterprise,3,False,False
-A-922109,Company_243,Cybersecurity,US,2024-01-26,ads,Pro,3,False,False
-A-ff3c73,Company_244,HealthTech,AU,2023-01-26,other,Pro,21,False,False
-A-8b0451,Company_245,FinTech,UK,2024-09-16,event,Enterprise,41,False,False
-A-331424,Company_246,DevTools,US,2023-11-06,organic,Basic,11,False,False
-A-51ec1b,Company_247,DevTools,US,2023-11-08,ads,Enterprise,7,False,False
-A-bcf664,Company_248,DevTools,US,2023-05-19,other,Pro,5,False,False
-A-90a8c8,Company_249,FinTech,AU,2024-08-24,organic,Pro,15,False,False
-A-86cdb4,Company_250,DevTools,DE,2024-09-22,partner,Basic,2,False,False
-A-4bfa33,Company_251,Cybersecurity,US,2024-12-07,event,Basic,8,True,False
-A-dbc825,Company_252,EdTech,FR,2024-01-07,partner,Enterprise,19,False,False
-A-c70870,Company_253,Cybersecurity,US,2024-10-22,partner,Basic,31,False,False
-A-7c4956,Company_254,DevTools,US,2023-05-06,ads,Enterprise,5,False,True
-A-0651a4,Company_255,HealthTech,FR,2024-10-16,organic,Pro,16,False,False
-A-3ce5b8,Company_256,FinTech,IN,2023-09-07,ads,Basic,8,False,True
-A-bd4708,Company_257,FinTech,US,2024-07-21,ads,Pro,37,True,False
-A-993085,Company_258,HealthTech,US,2023-06-01,ads,Basic,31,True,False
-A-92a3af,Company_259,Cybersecurity,IN,2024-07-07,organic,Enterprise,25,False,False
-A-151c9a,Company_260,FinTech,US,2023-01-27,ads,Enterprise,23,False,False
-A-474ad4,Company_261,EdTech,US,2023-11-28,organic,Basic,8,False,False
-A-4ef964,Company_262,HealthTech,US,2024-03-07,organic,Pro,17,False,False
-A-fd9422,Company_263,Cybersecurity,US,2024-04-04,organic,Pro,58,False,False
-A-0baac2,Company_264,FinTech,DE,2024-05-30,organic,Enterprise,14,False,True
-A-bb1486,Company_265,HealthTech,US,2024-11-05,organic,Basic,41,False,False
-A-560d27,Company_266,DevTools,US,2024-05-05,organic,Pro,23,False,False
-A-0b0d6d,Company_267,DevTools,US,2024-12-30,organic,Pro,3,False,False
-A-2789e3,Company_268,FinTech,US,2024-09-14,partner,Enterprise,11,False,False
-A-b07346,Company_269,HealthTech,US,2024-10-10,partner,Pro,51,False,True
-A-902ef7,Company_270,HealthTech,US,2024-09-03,other,Enterprise,83,False,True
-A-20736a,Company_271,EdTech,IN,2024-03-16,organic,Enterprise,50,False,False
-A-e4bf56,Company_272,HealthTech,IN,2024-10-28,ads,Pro,17,False,True
-A-cea1f0,Company_273,FinTech,US,2024-04-07,event,Pro,8,False,True
-A-ef84cf,Company_274,EdTech,US,2024-03-01,partner,Enterprise,8,False,False
-A-d49cc5,Company_275,Cybersecurity,FR,2023-09-19,event,Basic,50,False,False
-A-67be94,Company_276,EdTech,US,2023-04-04,organic,Enterprise,26,False,False
-A-4e960a,Company_277,FinTech,US,2024-01-17,other,Enterprise,12,True,True
-A-c37cab,Company_278,Cybersecurity,UK,2024-07-29,event,Pro,13,False,False
-A-533452,Company_279,DevTools,AU,2024-11-12,organic,Pro,9,False,False
-A-443b7c,Company_280,Cybersecurity,US,2024-09-06,other,Enterprise,1,False,True
-A-1f7acb,Company_281,FinTech,UK,2023-08-06,ads,Basic,64,True,False
-A-f51f16,Company_282,HealthTech,US,2023-12-25,partner,Enterprise,1,False,False
-A-5a3eb9,Company_283,DevTools,CA,2023-08-20,other,Enterprise,18,True,False
-A-5f2961,Company_284,HealthTech,US,2024-11-22,partner,Basic,4,False,False
-A-417d2f,Company_285,Cybersecurity,IN,2023-07-04,partner,Pro,4,True,False
-A-e98302,Company_286,EdTech,US,2023-12-26,ads,Enterprise,16,True,False
-A-8bde0c,Company_287,DevTools,US,2024-11-04,organic,Basic,12,False,False
-A-bcf87c,Company_288,FinTech,US,2024-06-27,event,Pro,10,False,True
-A-54ecc2,Company_289,Cybersecurity,US,2023-06-11,partner,Enterprise,4,False,False
-A-625d0b,Company_290,EdTech,AU,2024-09-02,ads,Basic,9,False,False
-A-fce879,Company_291,EdTech,UK,2024-09-24,partner,Pro,10,True,True
-A-b07b56,Company_292,DevTools,US,2024-11-08,event,Pro,25,False,True
-A-6da850,Company_293,FinTech,IN,2023-10-07,organic,Pro,5,False,False
-A-342303,Company_294,EdTech,US,2024-03-16,other,Pro,1,True,False
-A-e7a1e2,Company_295,Cybersecurity,US,2024-06-23,event,Enterprise,3,False,False
-A-f1f639,Company_296,EdTech,US,2023-02-26,ads,Basic,2,False,False
-A-a865bd,Company_297,Cybersecurity,US,2023-09-19,organic,Pro,38,False,False
-A-4e631b,Company_298,FinTech,US,2024-03-16,other,Enterprise,22,False,False
-A-7f6b86,Company_299,HealthTech,US,2023-08-24,partner,Basic,45,True,True
-A-8adedc,Company_300,EdTech,US,2024-02-11,event,Basic,4,True,True
-A-2edab2,Company_301,HealthTech,US,2023-11-17,event,Enterprise,17,False,False
-A-149a69,Company_302,DevTools,US,2024-10-17,event,Basic,34,False,False
-A-a6d261,Company_303,FinTech,CA,2023-11-29,other,Pro,9,False,False
-A-443f6f,Company_304,Cybersecurity,US,2024-12-07,organic,Basic,19,False,False
-A-202b67,Company_305,HealthTech,US,2024-03-22,organic,Pro,11,False,False
-A-00bed1,Company_306,Cybersecurity,US,2023-11-14,ads,Basic,28,True,False
-A-ffc04f,Company_307,EdTech,US,2024-06-06,ads,Pro,13,False,False
-A-65c341,Company_308,FinTech,US,2023-12-26,ads,Pro,11,True,False
-A-dcc2f0,Company_309,FinTech,UK,2023-07-22,organic,Basic,15,False,False
-A-ced9aa,Company_310,DevTools,US,2024-10-05,other,Enterprise,3,False,False
-A-3d957b,Company_311,HealthTech,UK,2024-04-04,other,Pro,14,False,False
-A-89ee83,Company_312,Cybersecurity,US,2024-10-04,organic,Pro,1,False,True
-A-883b7d,Company_313,Cybersecurity,IN,2024-03-28,other,Basic,17,False,False
-A-dcc3f1,Company_314,HealthTech,US,2023-12-27,event,Pro,21,False,False
-A-c62e55,Company_315,EdTech,US,2023-02-08,partner,Basic,1,True,False
-A-e4144b,Company_316,EdTech,UK,2024-10-22,other,Pro,41,False,False
-A-e40f45,Company_317,HealthTech,US,2024-04-18,organic,Pro,21,False,False
-A-96215d,Company_318,FinTech,US,2024-08-08,event,Enterprise,10,False,False
-A-2b9d3e,Company_319,EdTech,US,2023-06-04,partner,Enterprise,1,False,False
-A-b7724f,Company_320,HealthTech,UK,2023-03-28,organic,Basic,1,False,False
-A-310452,Company_321,DevTools,FR,2024-12-25,other,Enterprise,9,False,False
-A-eb1312,Company_322,FinTech,US,2024-09-16,partner,Pro,25,False,False
-A-df1e44,Company_323,Cybersecurity,UK,2024-02-23,organic,Enterprise,12,False,False
-A-6a7c9d,Company_324,Cybersecurity,US,2024-10-24,organic,Enterprise,26,False,True
-A-cbd1a3,Company_325,DevTools,US,2024-11-25,other,Basic,6,False,True
-A-a8d89d,Company_326,EdTech,US,2023-12-08,ads,Pro,13,False,False
-A-600734,Company_327,DevTools,US,2023-11-14,organic,Pro,29,True,True
-A-86fc1d,Company_328,DevTools,UK,2024-07-26,partner,Basic,26,False,False
-A-78f02b,Company_329,HealthTech,US,2024-11-17,event,Enterprise,11,False,False
-A-acb7f7,Company_330,EdTech,US,2024-01-06,ads,Basic,32,False,False
-A-712f1c,Company_331,DevTools,US,2023-12-16,ads,Basic,17,False,True
-A-3793ee,Company_332,Cybersecurity,CA,2023-03-21,organic,Enterprise,49,True,False
-A-9a532a,Company_333,HealthTech,US,2024-07-06,partner,Enterprise,11,False,False
-A-2ebb4b,Company_334,HealthTech,US,2023-05-15,ads,Basic,41,False,False
-A-6843f2,Company_335,HealthTech,CA,2024-12-10,ads,Enterprise,21,False,False
-A-c9bb3e,Company_336,EdTech,US,2024-03-24,ads,Pro,5,False,False
-A-4814a3,Company_337,Cybersecurity,IN,2024-09-17,event,Basic,87,False,True
-A-b7b7b7,Company_338,FinTech,US,2024-06-30,event,Basic,24,False,True
-A-ccc747,Company_339,HealthTech,FR,2024-01-12,event,Pro,16,False,True
-A-bb3bd4,Company_340,HealthTech,US,2024-01-27,ads,Basic,23,False,False
-A-09316c,Company_341,FinTech,AU,2024-09-11,organic,Enterprise,70,False,False
-A-96bbc6,Company_342,Cybersecurity,US,2024-05-07,organic,Enterprise,39,False,False
-A-bc4d48,Company_343,EdTech,US,2024-06-12,ads,Pro,35,True,False
-A-b30291,Company_344,HealthTech,US,2024-04-05,event,Basic,5,True,True
-A-cdf020,Company_345,DevTools,AU,2023-08-16,organic,Pro,23,False,False
-A-e6afc1,Company_346,DevTools,US,2023-02-24,ads,Pro,1,False,False
-A-e3bd71,Company_347,Cybersecurity,US,2023-03-25,partner,Basic,31,False,False
-A-b179bf,Company_348,Cybersecurity,IN,2024-10-27,ads,Basic,43,False,False
-A-098560,Company_349,DevTools,UK,2023-10-21,ads,Enterprise,1,False,True
-A-82861f,Company_350,DevTools,UK,2024-04-25,organic,Basic,41,False,False
-A-94c3cd,Company_351,FinTech,CA,2023-09-20,other,Enterprise,32,False,False
-A-a33200,Company_352,HealthTech,US,2024-09-15,partner,Basic,29,False,False
-A-034368,Company_353,EdTech,US,2023-11-05,event,Enterprise,19,False,False
-A-b54c01,Company_354,DevTools,US,2024-09-29,event,Enterprise,29,False,False
-A-d82ef9,Company_355,EdTech,UK,2024-07-02,other,Basic,26,False,True
-A-bb2f49,Company_356,Cybersecurity,US,2023-05-28,other,Pro,8,False,False
-A-1f559b,Company_357,HealthTech,US,2023-09-04,organic,Enterprise,5,True,True
-A-5a215a,Company_358,EdTech,FR,2024-01-05,other,Enterprise,87,False,False
-A-3f9cc0,Company_359,HealthTech,US,2024-06-03,event,Basic,22,False,False
-A-f9cc74,Company_360,DevTools,FR,2024-10-12,partner,Enterprise,30,True,False
-A-ed510f,Company_361,Cybersecurity,IN,2023-01-17,partner,Basic,42,False,False
-A-5c9849,Company_362,EdTech,IN,2024-11-03,partner,Basic,19,False,False
-A-a7bd4b,Company_363,Cybersecurity,US,2023-02-15,ads,Enterprise,5,False,False
-A-d4ac0e,Company_364,DevTools,UK,2024-04-20,ads,Basic,18,False,False
-A-ffdfd5,Company_365,EdTech,US,2024-04-13,organic,Basic,3,False,True
-A-0dbdc6,Company_366,Cybersecurity,DE,2023-02-12,other,Pro,30,False,True
-A-7cfe77,Company_367,DevTools,US,2024-07-10,ads,Pro,69,False,False
-A-1f0636,Company_368,EdTech,AU,2024-01-01,partner,Pro,105,False,False
-A-40de06,Company_369,Cybersecurity,US,2023-05-08,event,Enterprise,28,False,True
-A-cb5333,Company_370,DevTools,US,2024-03-26,ads,Pro,33,False,False
-A-309e54,Company_371,DevTools,US,2024-12-09,other,Pro,15,False,False
-A-6e7827,Company_372,DevTools,US,2023-03-26,other,Basic,1,False,False
-A-50bb9f,Company_373,Cybersecurity,US,2024-07-12,organic,Pro,2,False,False
-A-5fe118,Company_374,Cybersecurity,US,2024-11-07,other,Enterprise,39,False,False
-A-5247b3,Company_375,FinTech,UK,2024-03-12,partner,Pro,16,True,False
-A-f44180,Company_376,Cybersecurity,UK,2023-02-13,event,Pro,9,False,False
-A-c16cf7,Company_377,EdTech,US,2024-10-16,event,Pro,13,True,False
-A-d42431,Company_378,FinTech,FR,2024-06-09,ads,Enterprise,22,True,False
-A-6965e1,Company_379,DevTools,US,2024-11-25,organic,Basic,13,False,False
-A-0354fe,Company_380,Cybersecurity,US,2024-10-22,other,Basic,34,False,False
-A-0a62f5,Company_381,FinTech,UK,2024-09-11,partner,Pro,16,False,False
-A-f5641b,Company_382,EdTech,US,2024-03-30,other,Pro,31,False,False
-A-b44e3e,Company_383,Cybersecurity,UK,2024-02-12,ads,Basic,40,False,False
-A-3b37d9,Company_384,FinTech,US,2023-01-27,event,Enterprise,23,False,False
-A-54d94a,Company_385,Cybersecurity,IN,2023-05-01,event,Basic,27,False,False
-A-7f29a7,Company_386,Cybersecurity,UK,2024-09-18,event,Basic,41,True,False
-A-089363,Company_387,FinTech,AU,2023-05-06,event,Basic,2,False,False
-A-524364,Company_388,DevTools,FR,2024-12-31,partner,Enterprise,3,False,False
-A-855a48,Company_389,EdTech,US,2023-12-22,partner,Pro,14,True,False
-A-756192,Company_390,FinTech,IN,2023-06-11,other,Basic,19,False,False
-A-49b828,Company_391,FinTech,IN,2023-05-05,ads,Pro,6,False,False
-A-c7ffc2,Company_392,Cybersecurity,US,2023-01-27,partner,Pro,30,True,False
-A-751c58,Company_393,FinTech,UK,2024-07-18,organic,Basic,15,False,False
-A-72799b,Company_394,DevTools,FR,2023-11-13,event,Enterprise,20,False,True
-A-812c5b,Company_395,DevTools,CA,2024-02-25,organic,Basic,55,False,True
-A-69b156,Company_396,EdTech,US,2023-11-21,other,Pro,7,False,True
-A-075038,Company_397,HealthTech,UK,2023-05-12,ads,Basic,17,False,False
-A-940b8b,Company_398,HealthTech,DE,2024-03-19,organic,Basic,1,False,False
-A-2d1036,Company_399,FinTech,US,2024-06-14,ads,Pro,69,False,True
-A-0f6450,Company_400,FinTech,US,2024-12-27,other,Pro,28,True,True
-A-9affe6,Company_401,Cybersecurity,US,2023-03-22,other,Pro,7,False,False
-A-80eeb6,Company_402,Cybersecurity,UK,2023-05-09,organic,Enterprise,22,False,False
-A-d4e0d4,Company_403,FinTech,US,2024-10-18,other,Basic,117,False,False
-A-c7e58b,Company_404,HealthTech,IN,2023-06-25,other,Pro,3,False,False
-A-016043,Company_405,EdTech,CA,2024-07-31,organic,Basic,4,True,False
-A-bbe56f,Company_406,HealthTech,US,2023-02-16,ads,Enterprise,21,False,False
-A-7c5768,Company_407,HealthTech,UK,2024-03-02,event,Enterprise,3,False,False
-A-751bd4,Company_408,Cybersecurity,UK,2024-07-12,partner,Pro,10,False,False
-A-4e0e85,Company_409,DevTools,US,2023-09-08,organic,Enterprise,6,False,False
-A-ad3abd,Company_410,FinTech,US,2023-03-03,event,Pro,44,False,False
-A-e19ff6,Company_411,Cybersecurity,UK,2023-07-28,partner,Enterprise,1,False,False
-A-7920cc,Company_412,Cybersecurity,FR,2023-11-23,ads,Pro,39,False,False
-A-5a92e7,Company_413,HealthTech,US,2024-06-11,ads,Pro,4,False,False
-A-fdfc91,Company_414,Cybersecurity,US,2023-05-06,ads,Basic,29,False,False
-A-1e50e0,Company_415,Cybersecurity,DE,2023-02-21,other,Pro,19,True,True
-A-1e1b80,Company_416,FinTech,CA,2023-09-12,other,Enterprise,50,False,False
-A-659280,Company_417,FinTech,IN,2023-11-17,event,Enterprise,13,True,True
-A-f6b2fb,Company_418,DevTools,AU,2024-04-23,event,Basic,23,False,False
-A-cb6cc6,Company_419,DevTools,US,2023-04-03,ads,Basic,13,True,False
-A-d62e02,Company_420,Cybersecurity,US,2024-08-20,partner,Pro,6,False,False
-A-d535f6,Company_421,DevTools,US,2024-09-03,organic,Basic,12,True,True
-A-39868b,Company_422,FinTech,AU,2024-03-17,partner,Pro,9,False,False
-A-3cc791,Company_423,EdTech,US,2024-01-10,other,Enterprise,6,False,False
-A-337bc1,Company_424,Cybersecurity,US,2023-07-19,organic,Pro,30,True,False
-A-58b9ff,Company_425,DevTools,IN,2024-05-31,partner,Enterprise,2,False,False
-A-bf7919,Company_426,HealthTech,US,2024-11-27,organic,Pro,3,False,False
-A-1d5444,Company_427,Cybersecurity,US,2024-01-18,partner,Basic,24,False,True
-A-0f3e88,Company_428,HealthTech,US,2023-07-23,other,Basic,7,False,True
-A-7641d3,Company_429,EdTech,US,2023-02-16,partner,Pro,8,True,True
-A-cd458b,Company_430,DevTools,US,2024-06-15,other,Basic,10,True,False
-A-c16b88,Company_431,HealthTech,US,2023-12-02,event,Enterprise,23,False,False
-A-59f724,Company_432,HealthTech,US,2023-11-03,other,Enterprise,3,True,False
-A-87aa7b,Company_433,HealthTech,US,2024-05-16,organic,Pro,24,True,False
-A-1e6fc3,Company_434,EdTech,FR,2023-12-06,other,Pro,1,False,False
-A-39ddf4,Company_435,EdTech,US,2024-12-05,partner,Enterprise,40,False,False
-A-34ea2f,Company_436,HealthTech,US,2024-08-15,organic,Enterprise,8,False,True
-A-716841,Company_437,FinTech,US,2024-05-06,other,Pro,45,False,False
-A-558c72,Company_438,FinTech,US,2023-06-01,organic,Basic,12,False,False
-A-b11cd0,Company_439,DevTools,US,2023-01-20,ads,Pro,26,True,True
-A-cc1d8d,Company_440,FinTech,US,2024-12-08,other,Pro,5,False,False
-A-7f4db3,Company_441,FinTech,US,2023-03-05,other,Pro,4,False,False
-A-db5e9e,Company_442,DevTools,US,2024-11-09,partner,Basic,4,False,False
-A-cc102e,Company_443,HealthTech,US,2024-04-15,partner,Enterprise,13,False,False
-A-82d8a6,Company_444,Cybersecurity,UK,2024-11-28,ads,Basic,5,False,False
-A-dec005,Company_445,HealthTech,US,2023-10-13,partner,Pro,21,False,False
-A-5790f4,Company_446,FinTech,UK,2024-12-22,event,Pro,1,True,False
-A-7c83a1,Company_447,Cybersecurity,US,2024-05-06,partner,Pro,12,False,False
-A-297a2d,Company_448,HealthTech,UK,2023-05-05,event,Pro,27,False,False
-A-4c56c9,Company_449,FinTech,US,2023-12-20,partner,Enterprise,9,False,True
-A-cbbe12,Company_450,Cybersecurity,DE,2023-03-22,partner,Enterprise,40,False,False
-A-4a267b,Company_451,FinTech,US,2024-05-05,other,Pro,25,False,False
-A-bcbe98,Company_452,Cybersecurity,US,2024-07-29,other,Enterprise,46,False,False
-A-427b69,Company_453,FinTech,US,2024-08-23,other,Basic,17,False,False
-A-0be015,Company_454,FinTech,US,2024-10-15,event,Pro,19,False,False
-A-054577,Company_455,EdTech,UK,2024-04-28,ads,Basic,2,False,False
-A-bc87bc,Company_456,FinTech,US,2024-07-17,event,Pro,3,False,False
-A-0f7d77,Company_457,FinTech,IN,2024-10-28,partner,Pro,3,False,False
-A-e7beab,Company_458,EdTech,DE,2023-10-20,organic,Enterprise,5,False,False
-A-a09355,Company_459,FinTech,US,2024-08-10,organic,Basic,14,False,False
-A-31ab9a,Company_460,FinTech,DE,2024-03-03,organic,Pro,3,False,False
-A-0158bb,Company_461,FinTech,DE,2024-05-22,partner,Basic,5,False,False
-A-f19b24,Company_462,Cybersecurity,US,2023-01-10,organic,Pro,29,True,False
-A-798a3f,Company_463,DevTools,FR,2023-10-19,other,Enterprise,12,False,True
-A-42b791,Company_464,FinTech,AU,2024-05-20,event,Pro,3,False,False
-A-068fc6,Company_465,EdTech,US,2023-07-17,event,Enterprise,35,False,False
-A-6f50ae,Company_466,FinTech,US,2023-09-21,partner,Pro,19,False,True
-A-a2485e,Company_467,FinTech,US,2024-08-04,event,Pro,3,True,False
-A-bb1eaa,Company_468,Cybersecurity,US,2024-06-11,organic,Basic,21,False,False
-A-cc98bc,Company_469,DevTools,US,2023-05-24,ads,Basic,32,False,False
-A-d77f4c,Company_470,DevTools,US,2023-09-25,partner,Pro,4,True,False
-A-ccabf0,Company_471,HealthTech,IN,2023-11-06,organic,Pro,1,False,False
-A-700ade,Company_472,Cybersecurity,UK,2024-10-31,organic,Enterprise,1,True,False
-A-4a4c2d,Company_473,DevTools,US,2023-05-02,event,Enterprise,54,False,False
-A-b7ef83,Company_474,Cybersecurity,UK,2024-05-29,partner,Pro,1,True,False
-A-e08cd3,Company_475,FinTech,US,2024-09-21,ads,Pro,67,True,False
-A-19b2c8,Company_476,DevTools,IN,2023-06-06,other,Pro,20,False,False
-A-970c97,Company_477,HealthTech,DE,2024-03-01,other,Enterprise,14,False,False
-A-6dee43,Company_478,FinTech,UK,2023-08-12,other,Basic,3,True,False
-A-5ed98d,Company_479,DevTools,US,2024-06-22,partner,Basic,24,False,False
-A-c58f49,Company_480,EdTech,US,2024-07-31,other,Enterprise,70,True,False
-A-9c18c4,Company_481,HealthTech,US,2023-07-27,ads,Pro,11,False,True
-A-cc8c8f,Company_482,DevTools,US,2024-06-16,ads,Enterprise,23,False,False
-A-5f7781,Company_483,DevTools,US,2024-08-20,other,Pro,22,False,False
-A-e1b9cd,Company_484,DevTools,US,2023-02-26,event,Pro,40,False,True
-A-ac85cd,Company_485,EdTech,US,2024-07-31,partner,Enterprise,53,False,False
-A-d792a6,Company_486,DevTools,US,2023-01-23,organic,Enterprise,4,False,False
-A-ac9111,Company_487,HealthTech,US,2023-08-12,event,Pro,21,True,False
-A-18793f,Company_488,EdTech,US,2024-12-18,organic,Basic,148,True,False
-A-9f0b68,Company_489,EdTech,US,2024-04-28,ads,Basic,10,False,False
-A-d3c88e,Company_490,DevTools,US,2024-10-18,event,Pro,16,False,False
-A-ccb686,Company_491,DevTools,US,2024-01-22,other,Basic,10,False,False
-A-118f1c,Company_492,Cybersecurity,US,2024-10-31,other,Pro,32,False,False
-A-0e966d,Company_493,FinTech,IN,2024-06-25,ads,Basic,11,False,True
-A-b9f5b1,Company_494,Cybersecurity,US,2023-01-24,other,Pro,15,True,False
-A-8ae3fc,Company_495,DevTools,CA,2024-06-28,ads,Pro,9,False,False
-A-55f257,Company_496,FinTech,US,2023-12-21,organic,Basic,9,False,False
-A-d26ab4,Company_497,DevTools,UK,2024-11-07,organic,Basic,9,False,True
-A-712533,Company_498,EdTech,US,2023-07-31,organic,Pro,18,False,False
-A-781cc0,Company_499,EdTech,US,2024-09-04,organic,Pro,12,False,False
+A_-2E4581,COMPANY_^0,EDTECH,U_S,2024-10-16,PARTNER,BASIC,NA,FALSE,FALSE
+A-43a%9!e3 ,.Company_1,Fi)nTech,IN,2023-08-17,other,B)as*i!c,18,FALSE,TRUE
+A-0a282f,C!ompany_2,D*ev&Tools,US,2024-08-27,org#anic,Basic,1 ,FALSE,FALSE
+A-1f0ac7,*Com&pany_3,(Heal&thTe@ch,UK,2023-08-27,ot$her,Basic,24,TRUE,FALSE
+#A-ce550d,Company_4,HealthTech,U%S,2024-10-27,event,Ent-erprise,35,FALSE,TRUE
+NA,compan%y_#5,edtech,+in,2023-10-12 ,ads,NA,4 ,false,false
+A-A0CA4E ,NA,CYBERSECURI^TY,US,2024-03-08,ADS,PRO,11,FALSE,FALSE
+A-e5d!6ab ,Compa#ny_7,EdTech,US,2023-04-15,partner ,P!ro ,3,FALSE ,NA
+a-7dac*ce,company_8,cybersecurity ,ca,2024-09-10,eve_nt,NA,12,false,true
+A-10B8_DA,NA,DEVTOOLS,US,2023-05-08,PARTNER,ENT.ERPRISE,14,FALSE,TRUE
+A-592832,NA,Cybersecu%rity,US,2024-09-25,organic,Basic,18,NA,TRUE
+A-d40bf7,Comp.any_1%1,Fi-nTech,IN ,2024-11-08,organi!c ,NA,NA,FALSE,FALSE
+A@-6c-0$93d,NA,%DevTools,US,2023-04-14,+partner,Bas_ic,7 ,TRUE,NA
+A-462d45,.Co$mpany_13,Cybersecurity,US,2024-01-15,part!ner,Enterpri*se,11,TRUE,FALSE 
+A-956988,Company_14,*EdT!ech,UK,2024-11-30 ,ads,Enterprise ,1,FALSE ,FALSE
+A-a*c1_4bb ,Com$pa#ny_15,Fi^nTech ,US,2023-09-08,par^tn#er ,Enterpri.se,21,FALSE,FALSE
+&A-463#db0,Company_1*6,Healt&hTech,%US,2024-12-05,part@ne_r,Ba)sic,15,FALSE ,FALSE
+A-ce66f8,C+ompany_17,EdTe#ch,C$A,NA,NA,P+ro,29,NA,NA
+A-c4ea60,Company_18,FinTech,D%E,2023-03-09 ,oth%er,Ent-erprise,NA,NA,TRUE
+A-832ec2,-Comp$any_19,FinTech ,UK ,2023-11-19,ev*ent,Enter-p(ris!e,4,TRUE,FALSE
+A-6842.55,Company_20,$Fi^nTech,US,NA,ads,Ent+e+rprise,9,FALSE,FALSE
+A-c42f1f ,Company_21,NA,US,2024-07-28 ,other,Pr#o,8,FALSE ,FALSE
+A-4e44e8,Company_22,NA,US,2024-08-20,ads,Enter@pris@e,3 ,FALSE,TRUE
+A&-30b4ca,NA,E+dTech,$I!N,2024-05-20,organi$c,Basic,86,FALSE,TRUE
+A-9f2731 ,Company%_24,FinTec)h,IN,2024-10-04,eve$nt ,_Enterprise,1,NA,NA
+A^-32fb14,NA,D!evTools,US,2023-03-07 ,e)vent,Enterp*rise ,NA,NA,TRUE
+A-00cac_8,Company_26,^Hea$lthTech,AU,2023-09-15,organi-c ,Enterprise,8,TRUE,FALSE
+NA,Company&_27,HealthTech,IN,2023-04-28,partner,Basic,19,FALSE,TRUE
+A-eb7fac,Company_28,NA,US,2023-10-28,orga#nic,Enterprise,7,FALSE ,FALSE
+!A-B20D99,&COMPANY_29,H^EALTHTECH,IN,2023-09-27,OTH(ER,BASIC,20,FALSE,NA
+A-396e5f,C$o.mpany_30,Cybersec-urity,CA,2024-10-02,o^ther,Enterprise,2,FALSE ,FALSE
+A*-45ce7a,NA,FinTech,US,2023-07-23,%ads,Ent!erprise,16,FALSE,FALSE
+A-0-8e34$e,Company_*3(2,EdT%ech,US,2024-06-27,ev+ent,Basic,14,FALSE ,TRUE
+A-_8145a0,NA,Cyber&security,*AU,2023-04-25,partn&e*r,Basic,2,TRUE,FALSE
+A-ba@d8c1,Company_34,FinT$ech,AU,2023-03-01,org-anic,!Basic,7,FALSE,FALSE
+A-44dc83,Comp*an@y_35,^EdTech,NA,2024-05-12,o$ther,Basi_c,5,FALSE ,FALSE 
+A-f446b*6,$Company_36,NA,NA,2023-05-12,a%ds ,Pro,5,NA,FALSE
+)A-a45270,Compa$ny_37,HealthT)ech,NA,2024-06-24,ads,.Enterpri@se,3,NA,FALSE
+A-85486%4,Company_38,FinTech,IN,2024-12-07 ,NA,Enterpris!e,20,FALSE ,FALSE
+A-1b7577,Company_39,Cybers$ecurity,US,2024-10-27,NA,Pr-o,4 ,FALSE,FALSE
+A-@05f0e5,NA,FinT_ec@h ,US,2023-05-04,par(tner,Basic,32,FALSE,FALSE
+A-%9077b0,*Company_41,H@ealthTech,NA,2024-08-25 ,(ads,Basi$c,2,FALSE,FALSE
+A-7f8241,Company_42 ,E*dTech,US,2023-03-14,organic,Pro,34,FALSE,TRUE 
+NA,Company_43,Healt_hTech ,US,2023-03-14,even&t,Basic,14,FALSE,FALSE
+A-f3f(f05,Company_44,)Fi!nT$ech ,IN,2024-07-06,NA,Ent_erprise,2,NA,FALSE
+_A-2d4@502,Company_45,Fin&Tech,IN,2024-04-29,event,Basic,7,FALSE,FALSE
+A-6a$4e2d ,@Company_46,Ed#Te!ch,&UK,2023-04-07,part@ner,Pro,9,FALSE,FALSE
+NA,^Co$mpan^y_47,DevTool_s,AU,2024-02-25,&organic ,Enterprise,5,FALSE,FALSE
+A-c37601,Co-mp(any_48,NA,US,2024-10-31,partner,Basic,6,NA,FALSE
+A-3b5cd1,Comp$any%_49 ,FinTech,US,2023-09-12,NA,Ba)sic,13,TRUE ,FALSE
+A-b222!5d,Compa^ny_@50,FinTech,US,2024-03-08,a^ds,&Basic,47,FALSE,TRUE 
+A-94f-8c9 ,Co#m+pa+ny_51,HealthTech,US,2024-03-29,other,Basi.c,13,FALSE,FALSE
+A-02fac$6,C+ompany_52,NA,NA,2023-04-06 ,event,Pro,22,FALSE ,FALSE
+A%-c1dfe1,Compan$y_53,D%evTools,NA,2023-08-07,ads,Pro,26,FALSE,FALSE
+A-327.28c,Co!mpany_5+4,DevT$ools,US,NA,event,Pro,20 ,FALSE,TRUE
+A-4c38bc,Co@mpany_55,Healt#hTe.ch,UK,2024-03-09,ev*e!nt,NA,36,FALSE,TRUE
+NA,Comp-an$y_56,+Cybersec(urity,US,2023-07-14,or-ganic,Enterpri.se,1,NA,FALSE
+A-!6f8ad2,Co+mpany_57,EdTech,IN,2024-07-09,organic,NA,1,NA,FALSE
+$A-4d1e7)5,Company_58,Dev)Tool$s,US,2024-08-21,other,Basic ,20,FALSE,FALSE
+A-9ee962,Compa@ny_59,Hea%lthTech,US ,2023-02-28,NA,Bas$ic,9,FALSE ,TRUE
+A(-378b99,NA,$E$d*T)ech,U!K,2024-09-01,ads,Pro,8,TRUE,FALSE
+A-94D3DA,CO+MPANY_61,HEALT*HTECH,US,2023-05-03,OTH(ER,BASIC,41,FALSE,FALSE
+%A-E351E1,%C.OMPANY_+62,ED(TECH,US,2024-09-26,OT)HE^R,ENTER-PRISE,33 ,FALSE,FALSE
+A-9)badbd,Company__63,Cy%bersecur^it%y,DE,NA,ads,Ent)erprise,NA,TRUE,NA
+a-7e0@a1_0,com_pany_64,fint#ech,us,2023-11-18,ads,en^terprise,46,false,false
+A-11%8d55,Company_65,Cy_ber-securi*ty,US,2024-10-22,organic,Basic,8,FALSE,FALSE
+a-52(6d93 ,com@pan@y_66,healthtech,fr,2024-04-14,organic,!basic,43,false ,NA
+A-f92792,Company_67 ,FinT(ech,US,2024-07-04,ads,Pro,1,FALSE,FALSE
+A-84ebe4,Comp_any_68,FinTech,US,NA,ads,Pro,18 ,TRUE ,TRUE
+A-5b4^ebb,Company_69,Cyb^e(rsecur&ity,UK,2024-07-10,other,Basic,21 ,TRUE,TRUE
+-A-2922b6,Company_70,HealthTech,&US,2024-11-14 ,o$rganic,Basi_c,NA,FALSE ,FALSE
+A-9b9+fe)9,Company_71,EdTech,AU,2023-09-28 ,*other,B@asic,5,FALSE,FALSE
+A-a8!b49c,Company_72,Cyb+ersecu!rity,UK ,2023-10-06,partner,NA,7,FALSE ,FALSE
+A-9!174e$0,C.ompany_73,Cy#ber-security,US,2024-12-04,partner,%Bas*ic,37,FALSE,FALSE
+*A-*a1b^bb6,Com#pany_7&4,DevTool.s,+CA,2023-04-05,+organic,Basic,1,FALSE,FALSE
+A-^c45b23,Com$pan#y_75,FinT(ech,UK,2023-12-08,partner,Basic,5,FALSE,FALSE
+A%-02cd81 ,Company!_76,NA,NA,2024-03-28,.other,Basic,44 ,FALSE,FALSE
+A-ee42db,Comp$any_^77,)EdTech,D_E,2023-04-25,ads,NA,13,FALSE,FALSE
+A-4-32483,%Com*pa*ny_78,Cybe.rse%curity,US,2023-02-06,a)ds,NA,4,FALSE,FALSE
+%A-$9208f0,NA,NA,US ,NA,org$anic,NA,1 ,FALSE,TRUE
+A)-98a59a,NA,FinTech,UK,2023-08-04,p)artner ,Enterpr#ise,NA,FALSE,FALSE
+A$-fe79_a5,(Company_81,HealthTech,IN,2024-02-21,ads ,Basic,9,NA,FALSE
+A-726c%fa,Co(mpany_82,D)evTo)ols,US,2023-07-01,pa+rtner,&Pro,11,FALSE,FALSE
+A-c43359 ,Company_83 ,FinTech ,US,2024-11-16,or*ganic ,Pro,38,FALSE,FALSE
+A-271f46,%Company_84,DevTool-s,US,2023-02-09,e&vent,NA,38,FALSE,TRUE
+A-15707&0,Com-pany_85,FinTech ,US,2023-11-09,ads ,Pro,16,FALSE,FALSE
+A-40a557,Company_86,Cybersecurity,AU,2023-12-03,partner,+Pro,16,TRUE,FALSE
+A-6622_4b,Company_87,HealthTech,US,2024-10-18,other,Pro,92,TRUE,FALSE
+A-91e948 ,C%ompany_88,EdTec-h,AU ,2023-01-29,partne&r,Ba!sic,41,FALSE,FALSE
+A-104f1a,NA,Cybersecurit%y,US,2024-08-17,other,%P-r+o,24,FALSE,FALSE
+A-7988d1,Co+mpany_90,Cybersecu(rit^y,US,NA,other,Ba!sic,33,FALSE,FALSE
+A-faa28c,Compa%ny_91,Heal.t+hTech,U@S,2024-01-30,NA,Enterprise,48,FALSE ,FALSE
+A-f255#09,Com.pany_92,EdTech,US ,2024-03-22,oth*er,Enterprise,32 ,FALSE,FALSE
+A-3a72*84,Com&pany_93,FinTech,US,2024-11-17,or@ganic ,E$nterp_rise,31,FALSE,FALSE
+A-^3a5(ad8,Company_94,Heal&thTech,U(S,2023-12-05,organic,Enterprise,9,TRUE,FALSE
+A-6&5a!46c,Company_95 ,HealthTech,US,2023-11-04,NA,Pro,1,FALSE ,FALSE
+NA,Compa-ny_9_6,Cybersecurity,US ,2024-02-17,ads,Pro,6 ,FALSE,TRUE
+A-fabe19,Comp+any_97,DevT(ool^s ,UK,2024-11-11,ads,!Enterprise,1,FALSE,NA
+A-adc1f3,Company_98 ,Cybers+ecu.ri^t!y,US,2024-08-05 ,organic,Pro,2,FALSE,NA
+NA,Company_99,FinT)e*c(h,US ,2023-10-21,other,NA,4,FALSE,TRUE 
+A-@fd7ad3 ,Com%pany_1#00,C+ybersecurity ,NA,2024-11-01,event,Enterprise,1,FALSE,FALSE
+A-186a44,Compan^y_101 ,He$althTe!ch,US,2023-08-07,ads,Enterprise,20,NA,FALSE
+A-e888@d1,Co@mpany%_10+2,Cyber&security,US,2023-03-28,other,Pro ,14,FALSE,FALSE 
+A-69fad4,Company_103,FinTech ,UK,2023-04-06,ads ,Basic,NA,FALSE,TRUE
+A-9289f6 ,Comp-any_104,EdTech,US,NA,+eve@nt,Enterprise,1,FALSE ,FALSE
+_A-$f19409,Company__105,^DevTools,US,2023-03-16,other,Basic,23,FALSE,TRUE
+A-#22f2df,NA,DevT#oo-ls,US,2024-12-14,a&ds,Bas*ic,3,FALSE,FALSE
+A-03972-7,Company_107,EdTech,AU,2024-11-02,organic,Pro,25,NA,FALSE
+A-*2e3bad,Company_108,F*inTech,CA,2023-08-13,other,NA,61,FALSE ,FALSE
+A-484819,C(ompa+ny_109 ,He-althTech,U(S ,2023-02-21,organic,Pr&o ,18,FALSE ,FALSE 
+a-425e7^6,company_110,#devtools,uk ,2023-05-17,NA,enterprise,8,false,true 
+A-e83-938,Company_111 ,DevTools,UK ,2023-11-21,other,Pro,2,TRUE,TRUE
+A-ad29*6b,Comp(any_112,DevTools,AU,2024-07-15,NA,Pro,38,FALSE,FALSE
+A-e5^1ec7,Company_113,.FinTech,CA,2023-09-23,partner,Enterprise ,2,FALSE,FALSE
+A-0aaf6e,NA,NA,US,2024-05-11,organic,Enterprise,3,NA,FALSE
+A-e61e98,Company_^115,FinTec#h,US,2023-10-20,partner,Ent_erpr*ise ,NA,FALSE,TRUE
+A-9.2a333,Company_116,F%inTech,US,2023-03-24,event,Enterprise,9,FALSE,FALSE
+A-95b24a,Company_117,FinTech,NA,2023-06-06,event,+Pro,38,FALSE,TRUE
+A-42e5e1 ,Company_118,DevT.ools,(US ,2024-07-09,@ads,NA,1,FALSE,TRUE
+A-7d*514c,NA,Health^Te#ch ,DE,2024-02-03,organic,E#nterpr%ise,NA,FALSE,FALSE
+A)-65a*eb.5,Com+pany_120,NA,U!S,2024-01-25,pa!rt)ner,Pr+o,9,FALSE,FALSE
+A-e2cd1b,Co+mpany_121,DevTo^ols,NA,2024-02-04,other ,E@nter$prise,15,FALSE,FALSE
+A-1_80abf,C!o*mpany_122,DevToo_ls,NA,2023-08-14,ev@ent,Pro,64,FALSE,TRUE
+(A-f1_7767,Com&pany_!123,DevTools,US,2023-01-30,even%t,Enterprise,NA,TRUE,NA
+A-5a_184f,Comp^a.ny_124,DevT_oo*ls,DE ,2023-06-19,other,Ent*erprise ,1,FALSE,TRUE 
+A-7df7a7,NA,DevTools,^US,2023-01-28,organic ,Basic,7,FALSE,TRUE
+a-1ac5e0 ,comp(any_126,#devtools ,us,2024-10-20,NA,basi-c,33,false,true
+A-5@2dd88,Compan!y_127,Cyber%securit@y,_US,NA,ads,Pro,NA,FALSE,FALSE
+A-b%ece89,Company_128,Cyb@ers@ecurity,!IN,2023-12-01,NA,Pro,26,FALSE,FALSE
+A-0)29f69,Com)pany_129,^Cybersecurity,CA,2024-03-07,event,Basic,3,FALSE,FALSE
+A-5C046D,COMPANY_130,)E!DTECH ,FR,2024-07-06,PARTNER,BA%SIC,93,FALSE,FALSE
+A-fb186e,NA,EdTech,IN ,2024-10-27,or.ganic,Basic ,29,FALSE,FALSE
+NA,Com)pany_132,FinTech,CA,2023-09-11,ot_her ,Basic,39,FALSE,NA
+A-9f9299,Comp+any_133,Fi-nTech,NA,NA,organ.ic,^Ente+r_prise ,28,TRUE,FALSE
+A-96e141,Company_^134,DevTools,U#K ,2023-08-12,NA,Basic,14,NA,FALSE
+A)-1-1717%1,Com*pany_135,HealthTech,FR,2024-09-12,or(ganic,Bas^ic,45,FALSE,TRUE
+A-313BE3,COM%PANY-_136,_EDTECH,US,2023-11-15,PARTNER,ENTERP%RI!SE,47,TRUE,FALSE
+A-671+f31 ,C+om&pany._137,DevTools,US,2024-11-24 ,@ads,Ba*sic,59,NA,FALSE
+A-bbc346,Company!_138,NA,US,2024-08-29,partner,Enterp(rise,19,FALSE,FALSE 
+A-c16101,Compan$y_139,NA,IN,2024-09-06,other ,Basic,7,FALSE,FALSE
+A-50f3f7,Company^_140,HealthTech,US,2023-12-22,#partner,Basic,NA,FALSE ,TRUE
+NA,Company_1%41 ,Cyber^sec&urity,U.S,2024-06-02,event ,Pr_o,13,TRUE,FALSE
+A-019*782,Company_142,Dev#Too)ls ,F%R,2023-04-19 ,e*ven*t,En#terprise,11,FALSE,FALSE
+A-df10db,Company_143,DevTools,US,2023-06-06,other,NA,2,TRUE,FALSE
+A-3932!db,Company._144,Healt-hTe_ch,CA,2023-10-04,ot#her,Pro,19 ,TRUE,TRUE
+A-4f18.f0,Comp^any_145,D^evTools,CA,2024-04-21 ,other,Pro,24,TRUE,FALSE
+A-&4c6f11 ,Com+pany_146,F%inTech,CA,2023-11-27,o!r&ganic,Pro ,24,TRUE ,NA
+A-8!ae05d,Co_m*pany_14@7,FinTech,IN ,2024-04-06,ot(her,NA,86,FALSE,FALSE 
+A-b78b(f8,Company_+148,NA,US,2024-11-15,event,NA,33,FALSE,FALSE
+NA,Company_149 ,DevT*o&ols ,US,2023-07-06,partner,&Pro,27,FALSE,TRUE
+A-37f969,Company_150,Heal#thTech,IN,2023-10-14 ,part+ne.r,Enterpri*s-e,30,FALSE,FALSE
+A*-10b8f2,Compan+y_151,He&althTe(ch,DE,2023-01-11,organic,Basic,47,TRUE,FALSE
+A-439b2f,Comp$any_152,DevTools,US,2024-02-21,@ads,Enterprise,1,FALSE,TRUE
+A$-544d0a,NA,DevToo*l$s,NA,2024-05-02,organic,Basic,NA,NA,FALSE
+A-_ba6516,Compan(y_154,FinTec.h,US,2023-10-29,ads,Pro,27,FALSE,FALSE 
+A-712&426,Company_#155,HealthTech,US,NA,other,E!nterprise,9,FALSE,FALSE
+A-03+80+89 ,Compa#ny^_156,D-evTo%ols,FR,2023-12-19,NA,Pro,5,FALSE,TRUE
+A-afa505,Company_1)57,DevTools,US,2023-12-27,p!artn)er,NA,70,TRUE,FALSE 
+A-d5a319 ,Company)_158,FinTech,US,NA,other,Enterprise ,NA,FALSE ,TRUE
+A-F97B9A,C$OMPANY_159 ,FI#NTECH,U-S,2023-07-09,EVENT,_PRO,16,FALSE,FALSE
+A-2f6@a^32,Com(pany_1-60,H%e*a$lthTech,US,2024-08-26,organic,Basic,19,FALSE,FALSE
+A%-856b1e,Comp!any_161,_Fin.Tech,US,2023-10-31,partner,Ba+sic,19,FALSE,NA
+A-^17939a,Company_162,NA,US ,NA,or&ganic,B$asic,1,FALSE,FALSE 
+A-d$27f5)0,Compa_ny*_(163,NA,$UK ,2024-07-20,ads,Ent&erp%ri&se,44 ,FALSE,FALSE
+A-e3$6807,Compa(ny_.164,EdTech,NA,2024-05-17,NA,Pro,6,FALSE,FALSE
+NA,NA,DevTools,US,2024-04-25,ads,Basic,8,NA,TRUE
+A-5b1bcd,Comp%any_$166,Dev.Tools,US,2023-09-16,organic,Pro,73 ,FALSE,FALSE
+A-7161_5e ,Company_167,EdTech,US,2024-05-18,orga@nic ,Basic,15,FALSE,FALSE
+A-794a+0b,Co-mpany_168,HealthTech ,DE,2023-06-02,or.ga@nic,Basi%c,23,FALSE ,FALSE
+A-_86902E,NA,HEALTHTECH,IN,2023-05-02,O(T_HER ,E$NT)ERPRISE,34,FALSE,NA
+A-!0532a9,C^om$pany_170,FinTech,IN,2024-09-25,event,Pro,19,FALSE,FALSE
+A%-9%779A*D,*COMPA#NY_171,C%YB*ERSEC$URITY,AU,NA,EVENT,PR%O ,40,TRUE,TRUE
+A-f45426,Co(mpa.ny_172,Healt&hTech,US,2024-08-05,NA,Basic,9 ,NA,FALSE
+A-c1e51e,Company_173,Fi(nTech ,US,2024-10-02,organic,Basic,3,FALSE,FALSE
+A-fa3095,+Company_17#4,+FinTech,US,2023-09-03 ,NA,Basic,70,FALSE,FALSE
+A-ad6_4c6,Company_175,DevTools,UK,2024-02-23,eve!nt,Pro ,12,NA,FALSE
+A-39b@19f,Company_17!6,FinTech,US,2023-02-03,partner,Enterprise ,1,FALSE,FALSE
+A-56962b,#Co#mpany_#177,EdTe#ch,UK,2024-04-09,partne@r,Enterpr_ise,163 ,FALSE,FALSE
+A-e60f9d,C^o!m!pany&_178,Fi-nTech,US,2024-08-26 ,other,NA,29,NA,NA
+A-88c6ca,Co_mpany-_179,FinTech,DE ,2024-10-25,NA,Bas.ic,5,FALSE,TRUE
+NA,Company_180,FinTech,IN,2023-03-03,NA,Enterprise,61,FALSE ,FALSE
+a-5b051a,co&mpan.y_181,cybe+rs*ecurity ,us,2024-08-05,even.t,enterprise,22 ,false ,false
+%A-296d7c,Company_-182 ,D_evTool_s,_DE,2023-11-08,ot@h+e@r,Enterprise ,2,FALSE,FALSE 
+a-^1619f8,co(mpa*ny+_183,devtoo-ls,us,2024-05-20,&organ-i-c,^pro,29,false,false
+A-a%1b80b,Co@mpany_184,Health*Tech,US,2023-11-27,NA,Basic,16,FALSE,NA
+A-139c3&b,Com+pany_185,Heal!thT.ech,US,2024-11-21,organic,Enterprise ,10,TRUE,NA
+NA,Company_186,NA,US,2023-10-03,ads,+Pro,NA,FALSE,FALSE 
+A-7A0D69 ,COMPANY_187,DEVTOO#LS,DE,2024-06-15,)AD@S,ENTERPRISE,NA,TRUE,TRUE
+A-22*d9-d2,Company_-18#8,.De^v@Tools,F^R,2024-03-22,(event,Pr(o,8,FALSE,FALSE
+A-b$9+eed8,NA,Cybersecu)rit*y,US ,2024-02-23,NA,Bas+ic,11,FALSE,FALSE
+A-dfbd(31,$C^o)mpany_190,NA,UK,NA,^partner,En@t%er*pri.se ,14,NA,FALSE
+A-8e4$7ca,Company_191,NA,US,2024-02-15,organic,Pro,19 ,FALSE,FALSE
+A-44_37e4,-Co!mpan_y_1-92,Cybers&e#curity,US,2023-09-16,event,E^nterpri!se,3,FALSE,FALSE 
+A-779e4e,Company@_193,HealthTech ,US,2023-01-02,org^ani_c,Basic,5,FALSE ,FALSE
+a#-53f4e3,company_194,cybersecu_r(ity,uk ,2024-06-14,event,NA,13,false,false
+A-#692&f18,Company_195,EdTech,&U$S,2024-03-28,other,Basic,NA,TRUE ,NA
+A-1.3466$a,C^omp%a$ny_196,DevTools,AU,2023-10-22,e&v$ent,Basic,2,FALSE,TRUE
+A-1$986ca,Company_197 ,HealthTech ,IN,2023-01-30,-ads,Pro,20,FALSE,FALSE
+A-0cc442,Compan-y_198,EdT-ech,US,NA,NA,Bas&ic,45,FALSE,FALSE
+)a-c608c.8,)company_199,de@vtools,de,2023-04-27,ads,NA,3,false,true
+NA,Company_200,@HealthTe&ch,!IN,2023-10-26,event,NA,3,FALSE ,TRUE
+NA,Company_2)01,NA,U+S,2024-04-28 ,ads ,NA,1,TRUE ,FALSE
+A-68f37c,Company_202,HealthTech ,US,2023-07-15,ad^s,Basic,4,FALSE,FALSE
+A-aa95_11,Comp)any_203 ,De^vTools,US,2023-10-10,other,Pr*o,23,TRUE,FALSE
+A-af0cd2,#C.ompany_2!04,Cybersecurity,IN,2023-01-03,other,NA,19,TRUE,FALSE
+A-bd4513,NA,NA,AU,2024-11-06,.e.vent,Enterpr%ise,50,TRUE,FALSE
+NA,Company_206,Cybersecur&ity,NA,2024-05-10,NA,Pro,32,FALSE,TRUE
+NA,NA,!Cybe$rsecurity,+AU,2024-04-11,ads,NA,4,NA,FALSE
+A-508199,Compa)ny_208,FinTec(h,AU,NA,_even.t,Bas.ic,19,FALSE,FALSE
+^A-f03140,NA,DevTo(ols,NA,2023-11-22,e@vent,Pr-o ,27,TRUE ,FALSE
+NA,Company_210,FinTech,US,2024-11-10,or)ganic,B&asic,24 ,FALSE,FALSE
+A-fa2041,Company_211,HealthTech,US,2024-05-29,organic,NA,15,TRUE,FALSE
+A-.de58$ca,Co@mpany(_$212,^Health_Tech,DE,2023-04-13 ,^organic,NA,15,FALSE,FALSE
+A-05d3b3,!Comp.any_213,DevTools,AU,2023-05-28,ads,Basic,9,TRUE ,FALSE
+A_-249769,Compa^n%y%_#214,NA,U#S,2024-04-25,event,Enterp@rise,NA,FALSE,TRUE
+A-e43bf7,Company_215,+Cybersecu_ri+ty,AU,2023-03-24,other,Pro,44,FALSE,FALSE
+A-eb2fdc,C$o^mpany_216,DevTools,AU,2023-11-21,organic,Enterp-rise,31,FALSE,TRUE
+A-e1+462e,Company_$217,NA,NA,2023-03-12,partner,Basic ,15,FALSE ,FALSE
+A-cab532,NA,D%evTools,FR,2023-04-03,organic,(Pro,11,TRUE,FALSE
+a-9123ac,company_219,cybersec)urity,de,2023-06-20,NA,pro,9,false,false
+A@-6E08F3,COM&PANY_220,NA,U+S,2023-02-27,E!VENT ,BASIC,8,FALSE,FALSE
+A-d922bf,Company_221,Hea^lthTec$h,US,2023-09-08,ads,NA,5,TRUE,TRUE
+A-8$ed.5dd,Compan_y_222 ,&EdTec*h,UK,NA,_event,Enterpr*is^e,5,NA,TRUE
+A-7c$6b6_b,Company_223,NA,US,2024-11-30 ,ot-her,NA,6,FALSE,FALSE
+A-3c1a3f,$Company_224,DevTools,UK,2023-08-26,event,Pro,1,FALSE,FALSE
+NA,Company_225,EdT-ech,AU,2024-11-13,event,Pro ,80,TRUE,FALSE
+a-76fa4d,com^pany_&226,he^althtech,us,2024-11-24,event ,+pro ,69 ,false,false
+A-b2af2e,NA,Cybersecurity,UK,2024-08-24,NA,NA,5 ,NA,NA
+A!-9BFC9F ,NA,NA,CA,2023-09-14,ADS,PRO ,53,FALSE,FALSE
+A)-4&ae2-2a,Company_229,EdTe+ch,US,NA,other,Pro,6,FALSE,TRUE 
+A-FDA07F,COM*P+ANY_230,CYB@ERS)ECURITY,FR,2024-08-11,PARTNER,BASIC,7,FALSE,FALSE
+a-de24d5,company_231,NA,us,NA,ot&her,NA,NA,true,false
+A-977ca0,Compan!y_23.2 ,HealthT-ech,IN,2023-02-20,@partn(er,Basi+c,6,FALSE,TRUE
+A-a.b.438f,Company_233,Cy*bersec*urity,US,2024-09-13,ad&s,NA,13,FALSE,TRUE
+A-e89!151,$Comp.any_234,FinTech,UK,2023-09-14,NA,NA,8,TRUE,TRUE
+NA,Com)pa_ny_2.35,EdTech,US,2024-03-27,ads,%Bas*ic,92,FALSE,FALSE
+A-81edc3,Comp#any_236,Cybe$r!secu^r&i@ty,IN,2023-10-30,ad%s,Basic,5,FALSE,FALSE
+A-328bd0,Compan@y_2%37,HealthTec$h,AU,2023-05-16,^partner,Enterprise,18,FALSE,FALSE 
+A-b3@fe!05,Company_*238,Cybe&rsecurity ,CA,2024-05-28,part(ner,Pro,8,FALSE,FALSE
+A-09540c,Company_23%9,Cybersecurity ,CA,2023-10-30,event,Basic,67,TRUE,FALSE
+A-e693.b6,Company_240,NA,NA,2023-05-25,event,En.te&rprise,55,FALSE,TRUE
+NA,Com*pany_.241,Ed.T$e(ch,IN ,2024-01-10,organic,Pro,27,FALSE,FALSE
+A-241e75,Company_242,EdTech,US,2024-07-03,NA,E$nterpri)se,3,FALSE,FALSE
+A-922109,Company_243,Cybersecur#ity,US,2024-01-26,ads,Pro ,3,NA,FALSE
+A-ff3$c73,Company_244 ,He$althT_ech,&AU,NA,NA,P$ro,21,FALSE,FALSE
+A-8b^045$1,Com-pany_24*5,FinTech,U^K,NA,NA,E&nterprise,41,FALSE,FALSE
+A-331424,Company_&246,DevTools,US,2023-11-06,org.anic,NA,11,FALSE,FALSE
+A-51ec1b,Company_247,DevTo_ols,U-S,2023-11-08,ads,*Enterpris.e,7 ,FALSE,FALSE
+A-bcf66^4,Co)mpany_248,DevTool*s ,US,2023-05-19,other,Pro,5,FALSE,FALSE
+A-90_a8c8,Comp$any_249,FinTech,AU,2024-08-24,!o)r!ganic ,Pro,15,FALSE,FALSE
+A-86cdb4,Com.pa%n#y_250,DevTools ,DE,2024-09-22,par*tner,B)a@si.c,2,FALSE,FALSE
+NA,Company_251,Cy%bersecurity,NA,2024-12-07,event,B(as!i+c,NA,TRUE,NA
+A-dbc)825,Company)_252 ,EdTech,FR,2024-01-07,partner,Ente)r@prise,19,FALSE,FALSE
+A-c70870,Com_pany_253,.Cybersecurity,US,2024-10-22,partner ,Basic,31,FALSE,NA
+A-7c4(956,NA,DevTools,US,2023-05-06,a!ds,Enterprise,5,FALSE ,TRUE
+(A-0651a*4,Com)pany_255,HealthTech,FR,2024-10-16,organic,Pro ,16,FALSE,FALSE
+A-3ce5b8,Comp^a#ny_256,NA,NA,NA,ads,Basic,8,FALSE,TRUE
+A-&BD(4@708,COMPANY_257,FINTECH,US,2024-07-21 ,ADS,PRO,37,TRUE,FALSE
+NA,Com-p$any_&258,HealthTech,US,2023-06-01,ads,Basic,31,TRUE,FALSE 
+@A-92a3af,Company_259,Cyberse-curity,I+N,2024-07-07 ,o+rganic,Enterprise,25,FALSE,FALSE 
+A-151(c9a,Company_260,@F_inTech ,US ,2023-01-27,ads ,Enterprise,23 ,NA,FALSE
+A-474ad4,&Compan#y_261,$EdTech,U+S,2023-11-28,organic,Basic,8,FALSE,FALSE
+NA,Company_26^2,HealthTech,US,2024-03-07,or+gani*c,Pro ,17,FALSE,FALSE
+A-FD9@422,C#OMPANY_263,CYBERSECUR^ITY,US,NA,ORGAN%IC,PRO,58,FALSE,FALSE
+!A-0baac2,C)ompany_264,FinTech,DE,2024-05-30,organic,Enterpris@e,14,FALSE,TRUE 
+A-bb1486,Company%_2&65,Hea#lt(hTech,NA,2024-11-05,organic,Basic,41 ,FALSE ,FALSE
+NA,Company$_266,.D^evTools,US ,2024-05-05,.organic ,Pro,23,FALSE ,FALSE
+a-0@b0d6+d,company_2$67,dev@tools,u@s,2024-12-30,organic,pro,3,false,false
+A-2_78$9e3,Company_268,%FinTec&h,US ,2024-09-14,partner ,En%terpris%e,11 ,FALSE,FALSE
+A-b07346,Co)mpany_269,NA,!US,2024-10-10,p%a)rtner,Pro,51,FALSE,TRUE
+A-902ef-7,NA,Heal.thTech,US,NA,other,@Enterpr+is_e,83,FALSE,TRUE
+a*-20736a,company_271,edtech,in,2024-03-16,or@ganic,en-terprise,50,false,false
+A-e4bf5%6,Company_272,Health!Te&ch,IN,2024-10-28,ads,Pro,17,FALSE,TRUE
+A-cea1f0,Compa&ny_2&73 ,FinTech,.US,2024-04-07,ev(ent,!Pro,8,FALSE,TRUE
+A-ef84cf ,C_ompan_y_274,NA,US,2024-03-01,partner,Enterprise,8,FALSE,FALSE 
+A^-d49cc5,Comp.any_275,Cybersecurity,FR,2023-09-19,event,Basic,50,FALSE,FALSE
+A&-67be94,Company_27$6,NA,&US,2023-04-04,organic,Enterpr!ise ,26,FALSE,FALSE
+a-4e96@0*a,company_27$7,fintech,us,NA,other,en@terprise,12,true,NA
+A-c37cab,C(ompa&ny._27-8,C)ybersecurity,NA,NA,event,Pro,13,FALSE,FALSE
+A-533452 ,Company_279,DevTools,AU,2024-11-12,or@ganic,Pro,NA,FALSE,FALSE
+A-443b7c,C!ompa(ny_2$80,Cybersecurity,US ,2024-09-06,oth@er,Enterprise,1,FALSE,TRUE 
+A-^1f7acb,Company_28@1,NA,UK,NA,ads,Bas#i$c,64,TRUE ,NA
+*a-f51f16,compa$ny_282,healthtech,NA,2023-12-25,p!artner,@ente_rp-ris-e,1,NA,false
+A-5a3eb9,Company_283,D$evT@ools,CA,2023-08-20,NA,Enterp$rise,18,NA,NA
+A-.5f2961,NA,Hea_lthTech,NA,2024-11-22,partner,Basic,4,FALSE,FALSE
+A-417d2f,NA,Cybersecurity,I&N,2023-07-04 ,partner,Pro,4,TRUE,NA
+A-e98302,Company_286 ,EdTech,US,2023-12-26,ads,Enterprise,16,TRUE,FALSE
+A-&8bd.e0c,C.ompa+ny_28&7,DevToo_ls,US,2024-11-04,organ#ic,Bas.i$c,12,FALSE,FALSE 
+A-bcf8*7c,Comp)any_28)8,FinTech,NA,2024-06-27,NA,Pro,10,FALSE,TRUE
+a-54ecc2,compan-y_+2!89,cybersecuri^ty,us,2023-06-11,pa_rtne&r,(enterprise,4 ,false,false
+a-625d0b,com@p)any_290,edtech,-a(u,2024-09-02,.ads ,basic,9,false,false
+*A-fce879,Company_291,E!d*Tech ,UK,2024-09-24,p)artner,Pro,10,TRUE,TRUE
+A-b07b56,Company_2*92,DevTools,US,NA,e^vent ,Pr!o,25,FALSE,TRUE 
+A-6da8(50,Company_.2-93 ,F%i_nTec!h,.IN,2023-10-07,organic,NA,5,FALSE,FALSE 
+A-342303,+Company_294,Ed^Tech,US,2024-03-16,ot.her,)Pro,1,TRUE,FALSE
+NA,Com.p+any_295 ,-Cybersecu.rity ,US,NA,event,E&nterprise,3 ,FALSE,FALSE 
+A-f)1f&639,Company_296,EdTec(h,_US,2023-02-26,NA,Basic,2,FALSE ,FALSE
+A-a865bd,NA,C.ybersecurity,US,2023-09-19,org%anic ,Pr(o,38 ,FALSE,FALSE
+A-4e6%3#1b,Company_298,FinTech,-US,2024-03-16,othe)r,(Enterp(rise,22,FALSE,FALSE
+A-7f6b!86,C!omp_any_299,HealthTech,U)S,NA,p@artn.er ,Basic,NA,TRUE,TRUE
+A-8ad%edc,Compa_ny_-300,EdTech,US,2024-02-11,eve!nt,B.asi-c ,4,TRUE,TRUE
+@A-2!ed#ab^2,Compan*y_301,He%althTec.h,@US,2023-11-17,event,Enterpr.ise,17,FALSE ,FALSE 
+A-149a69,Company_302,DevToo@ls,US,2024-10-17,event,Basic,34,FALSE,FALSE
+A-a6^d261,NA,F)inTech ,CA,2023-11-29,other,&Pro,9 ,FALSE,FALSE
+A-443f6f ,Com)pany_3^04,-C_ybersecur#ity,US,2024-12-07,NA,B#asic,19,FALSE,FALSE
+.A-202-b67,Company_305,HealthTech,NA,2024-03-22,organic,Pro,11,FALSE,FALSE
+A@-00bed1,#Company_306 ,Cybe+rsecuri-ty,US,2023-11-14,ads,Ba&sic,28,TRUE,FALSE 
+A-ffc0*4f,Com!pan$y_307,EdTech,US,2024-06-06,ads,Pro,13,FALSE,FALSE
+A*-6+5C341,COMPANY_308,FINTECH,NA,NA,ADS,_PRO ,11,TRUE,FALSE
+A%-dcc2f0,Company_309,NA,UK,NA,organic,Basic ,15,FALSE,FALSE
+A-ced9aa,Company_31-0,DevT#ools,US,NA,other,Ent_erprise,3,FALSE,FALSE
+NA,NA,Healt+hTe*ch,UK,2024-04-04,o_ther,Pro,14,FALSE,NA
+A-89ee83,Compan%y_312,NA,US,2024-10-04,organic,Pro,1,FALSE,NA
+#a-883b7d,com^pany_313,cybersecurity,in,2024-03-28,other,basic ,17,false,false
+A-DCC3F!1,CO_MPA)NY_314,HEALTHT!ECH,US,2023-12-27 ,EVENT,PRO,21,FALSE ,FALSE
+A-c62)e55,Comp*any_31_5,E^dTech,US,2023-02-08,pa+rtner,Basic,1,TRUE,FALSE
+A-e(4%144b,Company_31!6,%EdTech,UK,2024-10-22,o!ther,NA,NA,FALSE,FALSE
+NA,Compan#y_317,HealthTech,US ,2024-04-18,organic,Pro,NA,FALSE,FALSE
+A-96_215d,Compan&y_318,F)inTech,US,2024-08-08,.event,Enterpris+e,NA,FALSE,FALSE 
+A-2b9d3e ,Com-p^any%_319,EdTech,U&S,2023-06-04,*p-artner,Ent$erprise ,1,FALSE,NA
+A@-b7724f,Compa*ny_320,HealthTech,UK,2023-03-28,NA,Basic,1,FALSE,FALSE
+A-310.452 ,C(om#pany_32(1,DevTool*s,FR,2024-12-25,other,Enterprise,9,NA,FALSE
+$A-eb1312 ,Company_322 ,@FinTech,US,2024-09-16,partne(r,Pro,25,FALSE,FALSE
+A-df1e44,NA,Cyber*se)curit)y,UK,2024-02-23,organic,Enterprise,12,FALSE,FALSE
+A-6a^7c9d,NA,Cy!bers$ecurity,US,2024-10-24,organic,Enter-p%ri+se,26,NA,TRUE
+@A-cbd!1a3,NA,DevTools,NA,2024-11-25,other,Basic,6,FALSE,TRUE
+A-a8d89d ,Company_326 ,EdTech,US,2023-12-08,ads,&Pro,13,FALSE,FALSE 
+A-6007%3@4,C@ompany_3%2.7,De*vTools,US,NA,organic,Pr!o,29,TRUE,TRUE
+NA,NA,devt!ools,uk,2024-07-26,partner ,basic,26,false,false
+A*-78f$02%b,Compan)y_329,Hea-lthTech,US,2024-11-17,ev%ent,Enterprise,11,FALSE,FALSE
+!A-acb7f7,Co#mpany_330,EdTech,US,2024-01-06,ads,Basic,32,FALSE,FALSE
+.A-712f1c,Com&pany_331,DevTools,US,2023-12-16,ads,Basic,17,NA,TRUE
++A-(3793ee,$Com+p)any_^332,Cyberse&c&urity,CA,2023-03-21,organic,E*nte+rpri*se ,49 ,TRUE,FALSE
+A*-9a532a,&Company_333,HealthTech ,US,2024-07-06,&partner,Enterprise ,11 ,FALSE,FALSE
+A-2ebb4b,C(o*mpany_334,HealthTech,US,2023-05-15,_ads,Basic,41,NA,FALSE
+A$-68#43f2,Co.mpany_335,HealthT(ech,CA,2024-12-10,ads,En-terpris%e,21,FALSE,FALSE
+A-c9bb3e,Company_336,Ed$Tech,US,2024-03-24,ads,Pro ,5,NA,FALSE
+A-4(814A.3,COMPANY_337,CY(BERSECURITY,IN,2024-09-17,(EVENT,BA(SIC,87,FALSE,TRUE 
+A-B7B7*B7,NA,NA,US,2024-06-30,NA,NA,24,FALSE,TRUE
+A-ccc747,Comp%any__3+39,_Heal#thTech,NA,2024-01-12,event,NA,16,FALSE,TRUE
+A-bb3bd4,Company_340,Hea-lthTech,US,2024-01-27,ads,Basic ,23,NA,FALSE
+A-)09316c,@Company_341 ,Fi_nT*ech,AU,2024-09-11,organic,Enterp(rise ,70,FALSE,FALSE
+A$-96bbc6,Company_342,&Cyberse!cur^ity,US,2024-05-07,o-rgan*ic,!Enter_prise,39,FALSE,NA
+A-b(c4d48,Com(pany_#34-3,&EdTech ,&US,2024-06-12,ads,Pr+o,35,NA,FALSE
+A.-B30291,COMPANY_344,HEALTHTECH,US,2024-04-05 ,NA,BASIC ,NA,TRUE,TRUE
+A-cdf020,NA,NA,AU,2023-08-16,organi-c,P.ro,23,FALSE,FALSE
+!A-e6afc1,Comp-any_346,.D(evT@ools,US,2023-02-24,NA,Pro,1,FALSE,FALSE
+A-e3bd71,%Company_347,NA,U!S,2023-03-25,partner,B_asic,NA,FALSE,FALSE
+A-b179bf,Compan!y_348,Cybersecu#rity,!IN,2024-10-27,ads,NA,43,FALSE,FALSE
+A-0)98560,Company_349,DevTools,UK,2023-10-21,NA,E-nter@prise,1,FALSE,NA
+NA,Compan$y_35!0,DevTools,_U)K,2024-04-25,%organic,(Basic,NA,FALSE,NA
+A-94c3cd,Company_351,.FinTech,CA,2023-09-20,NA,En#terprise,32,FALSE,FALSE
+A-a33200 ,Compa)n!y&_35$2,Health)Tech,US,2024-09-15,partner,Basic,29,FALSE,FALSE
+A-034&368,Compan#y#_%3%5_3,EdTe*ch,US,2023-11-05 ,event,E!nterprise,19 ,FALSE,FALSE
+A-b54c0%1,Comp(a+ny_35&4,NA,#US ,2024-09-29,event,Ent)erprise,29,FALSE ,FALSE
+A#-d82e^f9,Company_355,EdTech,UK,2024-07-02,other,Basic,26,FALSE,NA
+A)-bb2$f49,Co!mpany_356,Cyber)security,.US ,2023-05-28 ,other,NA,8,FALSE,FALSE
+$A-1f(559#b,Com&pany_35&7,Hea+lthTech,US,2023-09-04,organic,Enterprise,5 ,NA,TRUE
+A-_5a215*a,Company_35@8,EdTech,FR,2024-01-05,othe_r,Enter&p+rise,NA,FALSE,NA
+#A-3f9-cc0,Compa#ny_359,Healt@hTech,US,2024-06-03,NA,Basic,22,FALSE ,FALSE
+A-f9cc74,Compan)y_#36*0,D$evTools,FR,2024-10-12,partner,En&terprise,30,TRUE,FALSE 
+NA,COMPANY_361,CYBERSECURITY,IN,2023-01-17,PARTNER,NA,42,FALSE,FALSE
+NA,%Company_3(62,EdTech,IN,2024-11-03,partne%r,Basic,19,FALSE,FALSE
+A%-a7bd4b,Com_pany_363,Cy.bersecurity,NA,NA,ads,Enterprise,5,FALSE,FALSE
+A-d4ac0e ,Company_36)4,DevTo*ols ,-UK,2024-04-20 ,ads,Basic,18,FALSE,FALSE
+A.-ffdfd5,NA,EdTec*h ,US,2024-04-13,^organic,Basic,3 ,NA,TRUE
+A-0DBDC6,$COMP)ANY_366 ,)CYBERSECUR!ITY,DE,2023-02-12 ,O@THER,P$RO ,30,FALSE,TRUE
+A-7cfe7(7,Company_367,DevTools,US ,2024-07-10,ads,@P@ro,NA,FALSE,FALSE
+A-1f063*6,Company_.3$68,E$dTe(ch ,_AU,NA,partner,P#ro,105,FALSE,FALSE
+A-40de06,Company_369,Cybe^rsecurity,US,2023-05-08,event,Enterprise,28,FALSE,TRUE
+A-c%b5333,Company#_&370,DevT!ools,.US,2024-03-26,a(ds,NA,33,NA,FALSE
+A-309e54 ,Company^_371,DevTools,US ,2024-12-09,o*the!r,&Pro,15,FALSE,FALSE
+_A-6-e7827,Co+mpan)y_372,DevTools,US,2023-03-26,oth+er,Basic,1 ,FALSE ,FALSE 
+A-50bb9$f ,Company_373,Cybersecurity,US,NA,NA,Pro,NA,FALSE,FALSE
+$A-5fe1.18 ,Co#mpany_374,NA,NA,2024-11-07,other,Enterp&rise,39,FALSE,FALSE 
+A-52#47b3,Company_375,FinTech,UK,NA,partner ,*Pr@o,16,TRUE,NA
+NA,C.ompany_376,Cyber@security,UK ,2023-02-13,^eve.nt,Pro ,NA,FALSE,FALSE
+%A-c16cf7,Company_377 ,EdTech ,US,2024-10-16,NA,Pro,13,TRUE,FALSE
+NA,Compa&ny_378,Fin$Tech,FR,NA,ads,Enterprise ,22,TRUE,FALSE
+NA,Company_379,De%vT+o-ols,US,NA,organic,Basic ,13,FALSE,FALSE
+a-0354fe,company_38)0,cybersecurity,us,2024-10-22 ,other,#b&asic,34,false,false
+NA,Com+pany_38#1,FinTech,NA,NA,partne@r,Pro,16,FALSE,FALSE
+A-f5641b,Company_382,EdTech,US,NA,other,Pro ,31,NA,FALSE
+A-b44e3e,Company_383,NA,%UK,2024-02-12,NA,Bas*ic,NA,FALSE,FALSE
+A-3b37d9,C*ompan_y&_384,FinTec-h,US,2023-01-27 ,event ,Enterp!ri&se,23 ,NA,FALSE
+A-54#d94a,!Company_385,#Cyb&ersecurity,IN,2023-05-01,NA,NA,27,FALSE,FALSE
+A-7f29a7 ,NA,C_ybersecurity,UK,NA,ev*ent,Basic,41,TRUE,FALSE
+(A-089363,Company_38$7,FinTe^ch,NA,2023-05-06,even*t,Bas-ic ,2,FALSE,FALSE
+A-524364,Comp%a%ny_38!8,DevTools,FR ,2024-12-31,partner,NA,3,FALSE,FALSE
+A-85$5a48,Company!_38+9,NA,US,NA,partner,Pro,NA,TRUE,FALSE
+A-7561(9+2 ,Com.pany_390,FinTech,IN,2023-06-11,other,B.asi@c,19,FALSE,FALSE
+A#-4$9b8*2^8,Company_391 ,FinTech,IN,NA,ads,Pro,6,FALSE,NA
+A$-c7f+fc2,Company_&392,NA,US,2023-01-27,partner,Pro,30,TRUE,FALSE
+A-751c58,Company_39_3,F_inTech,UK,2024-07-18,or)ga%n+ic,Basic,15,FALSE,FALSE
+A-72799B,COMPANY_394,DE-VTOOLS,FR,2023-11-13,EV&ENT,&ENTERP#R^ISE,20,FALSE,TRUE
+NA,Company+_3@95,De!vTools,CA ,2024-02-25,orga+nic,Basic ,55,FALSE,TRUE 
+A-69b#156 ,Co#m.pany_-396,#EdTech,US,2023-11-21,+other ,Pro,7,FALSE ,TRUE
+)A-07@5038,Co-mpany_397,HealthTec)h,UK ,2023-05-12,ads,Basic,17,FALSE,FALSE
+A-940b8&b,Com)pany_398 ,NA,DE,2024-03-19,organ-ic,Basic,1,FALSE,FALSE
+A-2+d1&036,Company_399,FinTech,US,2024-06-14,ads,Pro,NA,FALSE,TRUE
+A-0)f6450,+Company-_^400,FinTe-ch,US,2024-12-27,other,P#ro,28,TRUE,TRUE
+A-9affe.6,^Company_)401,Cy+ber.securi)ty,US,2023-03-22,other,NA,NA,FALSE,FALSE 
+A-80eeb6 ,Comp*any_4_0&2,Cybersecur@i&ty,UK ,2023-05-09,organic,Ent$erprise,NA,FALSE,FALSE
+A-!d4e@0!d4,Company_4^03,Fi%nTech,US,2024-10-18,NA,B^asic,117,FALSE,FALSE
+A-c7e58b,NA,Healt)hTech,-IN,2023-06-25,o-ther,Pr)o,3,FALSE,FALSE
+A-(01604(3,Company_405,NA,CA,2024-07-31,orga+nic,Basic,4,TRUE,FALSE
+NA,NA,Healt@hTech,US,2023-02-16,#a*ds,NA,NA,FALSE,FALSE
+*A-7*c5768,Co*mpany_4_07,HealthTech,NA,2024-03-02 ,event,E!nterprise,3 ,FALSE,FALSE
+A-751bd4,Compan*y_408,Cyberse@cu*rity,NA,2024-07-12,partner,Pro,10,FALSE,FALSE
+&A-+4e$0e85,Company_!409,DevToo$ls,US,2023-09-08,organic,NA,NA,FALSE,FALSE
+A-ad3abd,Com!pany_410,FinT(ec+h,US,2023-03-03,event,Pro,44,NA,FALSE
+A-e+19ff6,Company__411,Cy&bersecu@rity,UK,2023-07-28,NA,Enterprise,1,FALSE,FALSE
+A-7920cc,C!ompan!y_412,Cybersecurit*y ,F#R,2023-11-23,#ads,Pro,NA,NA,FALSE
+A-5a92e7,Company_(413,H_e!althTech,U!S,2024-06-11,ads,Pro,4,FALSE ,FALSE
+A#-fdfc9!1,Comp%any_414,Cyb&ersecurity,US,2023-05-06,ads,B!a.sic,29,FALSE,NA
+A%-1E50E0,COMPANY_415 ,!CYBER)SECURITY,DE,2023-02-21,O@T%HER,PRO,19,TRUE,TRUE
+A-1e1b80,Company_416,NA,CA,2023-09-12,oth_er ,Enterpr^ise,50,FALSE,FALSE
+a-6592!80,company_417 ,f_intech,in,2023-11-17,NA,enterprise,13,true,true
+A-f6b2fb,Com-pany_418,DevTo@ols,AU,2024-04-23 ,event,Basic,23,NA,FALSE
+A#-cb6$cc6,Company_419 ,NA,$US ,NA,!ads,Basic,NA,TRUE ,FALSE
+A-d6@2e02,Company_420,NA,US,2024-08-20,partner,Pro ,6,FALSE ,NA
+A-d535f6,Compa%ny_421,DevT.oo@ls,US,2024-09-03,or%ganic,Basic,12,TRUE,TRUE
+A-398&68b,Compan^y_422,FinTech,AU,2024-03-17 ,partner,P&ro,9,NA,FALSE
+A-3cc791,Company_423,EdTech,US,2024-01-10,.other,Ent&erp-rise,6,FALSE,FALSE
+A-337bc1,*Co(mpany_424,Cybersecur+ity,US,2023-07-19,o!rganic,NA,30,TRUE,FALSE
+A-58b9ff,Company_425 ,NA,I&N,2024-05-31,p!artner,Ent!erprise,2,FALSE,FALSE
+A-^b(f7919,C_ompany_426,NA,NA,NA,organic,&Pro,NA,FALSE,FALSE
+A-#1D)5444,COM(PA-NY_427,CYBERSECURITY,US,2024-01-18,P#ARTNER ,BASIC,24,FALSE,TRUE
+A-(0^f3e88,C.ompany+_428,HealthTech,US,2023-07-23,oth(er ,Bas_ic,7,FALSE,TRUE 
+A-%7641d3,Company_429,EdTech,US,2023-02-16,NA,Pro,8,TRUE,TRUE
+A-%cd458b,!Comp&any)_!430,DevTools,US,2024-06-15,other,!Basic,10,TRUE,FALSE
+A-c16b88,Company_431,H(ealthTe-ch,US,2023-12-02,event,Enterprise,23,FALSE,FALSE
+A-59f7(24,Company_432,Health!T&ech,US,2023-11-03,other,Enterprise,3 ,NA,FALSE
+A-87aa7b,Company^_433,HealthTech,US,NA,organi&c ,Pr)o,24,TRUE,FALSE
+A-1e*6f)c3,Comp-any_434,EdTech,FR,2023-12-06,o#ther,Pro,1,NA,FALSE 
+A-39ddf4,Com-pa.ny_435,Ed*Tech,&US,2024-12-05,partner,Enterprise,40,FALSE ,FALSE
+NA,+Co@mpany_@436,HealthTech,US,2024-08-15,organic,Ente)rprise,8,FALSE,TRUE
+A-7168_41,Company_437,Fi$nTech ,US,2024-05-06,NA,P(ro,45,FALSE,FALSE
+A-.558c72 ,Company_438,^FinTec.h,US,2023-06-01,organi+c,B&asic,12,FALSE,FALSE
+A-b11cd0,Company_+43@9,DevTools,US,2023-01-20,NA,Pro,26,TRUE,TRUE
+A-+cc1d8d,Company_440,NA,NA,NA,ot*her,Pro,5,FALSE,FALSE
+A-7f4db3,NA,Fi&nTe_ch,US,NA,NA,Pro,4,FALSE,FALSE
+A-db5e9e,Company_4_42,)De#vTool)s,US,NA,p&ar^tner,Basic,4,NA,FALSE
+A-cc102(e,NA,HealthTec@h,US,2024-04-15,partner,(Ente(rpri!se,13,FALSE,NA
+A-82d8a6,Company_444,Cy#ber#sec!ur!ity,UK,2024-11-28,ads ,Basic,5,FALSE,NA
+A-dec00^5,NA,HealthTec*h,US,2023-10-13,NA,Pr%o,21,FALSE,FALSE
+#A@-579!0f4,Co(mpany_446,NA,UK,2024-12-22,eve+nt,NA,1 ,TRUE,FALSE
+NA,Compa#ny-_447,_Cyb*ersecurity,US,2024-05-06,pa#rt-ner ,Pro,12,FALSE ,NA
+A-297a2d ,Co$mpa*ny%_44*8,!He%althTe-ch,NA,2023-05-05 ,event,Pro,27,FALSE,FALSE
+A-4c56c#9 ,Company_449,NA,NA,2023-12-20,partner,Enterp@ri.se,9,FALSE,TRUE
+$A-cb^be12,Com+pany_450,Cyb&erse!curit-y,DE,2023-03-22,.p$artner,Enterprise,40,FALSE,FALSE
+A-4^A267)B,NA,FINTECH,US,2024-05-05,OTHER,PR!O,25,FALSE,FALSE
+A-b*cbe98,Company-_452,Cybersecurity,US,2024-07-29,!oth)er,En-terpri%se,46,FALSE,NA
+A-427#b69,Company._4-53,FinTech,#US ,2024-08-23 ,+othe(r,NA,17,FALSE ,FALSE
+A-0BE015,COM!PANY_454,FINTECH,US,2024-10-15,EVENT,.PRO,19,FALSE,FALSE
+A-054577,Co.mpany_455,EdTech,UK,2024-04-28 ,NA,Basic,2,FALSE,NA
+@A-^bc87bc,Company_%456,FinTech,US,2024-07-17 ,-event,Pro,3,FALSE,FALSE
+a-0@f7d77,company_45+7,fintec+h,in,2024-10-28,(partner,pro,3,false,false
+A-e7b&eab,Compa+ny_458,EdTec!h,DE,2023-10-20,org(a&nic,Enterprise,5,FALSE,NA
+A-a09355,NA,FinTech,US,NA,organic,Basic ,14,FALSE ,FALSE
+A-3!1ab9a ,+Company_#4(60 ,F&inTech,.DE,2024-03-03 ,organic,Pro,3,NA,FALSE
+A-01!58bb,Company_461 ,FinTe&ch,DE,2024-05-22,partner,Basic,5,FALSE,FALSE
+A-f1-9b24,NA,Cyb_ersecurity,US,2023-01-10,orga#nic,Pro ,29,TRUE,FALSE
+A-798a3f,Company_463,_DevTools,F+R,2023-10-19,other,Enterprise ,12,FALSE,TRUE
+A-42b791,Com*pany_46.4,!FinTech,AU,2024-05-20,even%t,Pro,3,FALSE,FALSE
+#A-068fc6,Company_465,EdTech,US,2023-07-17,event,Ent)erprise ,35,FALSE,FALSE
+A-6f50ae,Company-_466,NA,US ,2023-09-21,NA,Pro,19,FALSE,TRUE
+A-a2485e,C-ompany_467,FinTech,NA,2024-08-04,event,Pro,3,TRUE,FALSE
+#A-b_b1*eaa,Company_(468 ,Cybers#ecurity,U%S,2024-06-11 ,NA,Ba@s#ic,21,FALSE,FALSE
+A-c$c9&8b^c,Company_469,@D@evTool(s,US,2023-05-24 ,ads,Bas_ic,32,FALSE,FALSE
+A-d#77f4c,NA,NA,US,2023-09-25,partner,Pro,4,NA,FALSE
+A-cc&abf0,Comp^any_471,HealthTech,#IN,2023-11-06,organ&ic,Pro,1,FALSE ,FALSE 
+NA,NA,Cybersecur*ity,UK,2024-10-31,organic,Enterpris&e,1,TRUE,FALSE
+A-4A4C2D,COMP(ANY_473,NA,$US,2023-05-02,EVENT,ENTER#PR#ISE,54,NA,NA
+A-b7ef83 ,NA,Cybersecur-ity,U_K,2024-05-29,pa.rtne^r,Pro,1,TRUE ,FALSE
+a-e08cd3 ,company$_475,NA,NA,2024-09-21,NA,pr#o ,67,true,false 
+A-19B2C8,COMPANY_476,DEVTOOL!S,IN,2023-06-06,OTHER ,NA,20,FALSE,FALSE
+A-)9)7(0c97,Company_477,He-althTech,DE,2024-03-01,other,Enterp.rise ,14,FALSE,FALSE
+A@-6dee43,Company_478 ,FinTech,UK,2023-08-12,other,Ba%s_ic,3,TRUE,FALSE 
+A!-5e$d98d,C#ompany_479,DevTools,US,2024-06-22,NA,Basic,24,FALSE,FALSE
+A-c58f49,Comp$a-ny_#4%80,NA,U)S,2024-07-31,other,Enterpris.e,70,TRUE,FALSE
+A-9c18c4,Company_481 ,HealthTech,_US,2023-07-27,ad_s,Pro,11,FALSE,NA
+A-cc8c8f,Company_482,Dev@T+ools,US,2024-06-16,ads,Ente(rpri_se,23,FALSE,FALSE
+A-5f778)1,Com.pany_483 ,DevTools,US,2024-08-20 ,other,Pr%o,NA,NA,NA
+A-e1b9cd,Compan@y_484,DevTools,US,2023-02-26,event,Pro,40,FALSE,TRUE 
+.A-ac85cd,NA,EdTech,US,2024-07-31,@partne$r,Enterp*rise,53,FALSE,FALSE
+A-d792a6,-Company_486 ,Dev@Tools,!US,2023-01-23,NA,Enterprise,4,FALSE,FALSE
+A@-ac9111,Co#mpany_487,HealthTech,US,2023-08-12,event,Pro,21,TRUE,FALSE
+A-18793f,Com!pan^y_488,EdTech ,US,2024-12-18,organic,NA,148,TRUE,FALSE 
+A-9f0&b68,Company_489,EdTech,US,NA,ads,Basic,10,FALSE,FALSE
+a-d3c88e,company_4$90 ,devtools,u)s,2024-10-18 ,ev.e^nt,pr)o,16 ,false,false
+A-ccb686,Company_491,DevTo-o$ls,US,2024-01-22,NA,Basic,10,FALSE,FALSE
+A.-118f1c,Company_49)2,Cybersecurity,US,2024-10-31,other,Pro,32,FALSE ,FALSE
+A-0e^966d,Compan_y_493 ,Fi$nTe.ch,.IN,2024-06-25,ads,Basi^c,NA,FALSE,TRUE 
+%A^-b9f5b1,Company__494,Cybe)rsec^urity,US,2023-01-24,o@ther,Pro,15,TRUE,FALSE
+A-8ae3fc,Com.pany_495,DevTools,CA,2024-06-28,ads,.Pro,9 ,FALSE,FALSE
+NA,compa_n!y_496,fintech,us,2023-12-21 ,organ.ic,NA,9,false ,false 
+A-@d-26ab4 ,Company_497,NA,UK,2024-11-07,organ&ic,Basic,9,NA,TRUE
+A-712533,Company_498,EdTech,U%S ,2023-07-31 ,organic,Pro,18,FALSE,FALSE
+a-#781cc0,company_499,NA,u$s,2024-09-04,^orga(n@ic,pro ,12,false,false
