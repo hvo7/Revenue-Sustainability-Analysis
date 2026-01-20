@@ -11,7 +11,7 @@ An analysis was thus conducted to:
 
 
 Data was collected from 3 kaggle datasets:
-* [B2B Saas Dataset](https://www.kaggle.com/code/oxyjen/b2b-saas-customer-churn-modeling-retention-analy)
+* [SaaS Subscription & Churn Analytics Dataset](https://www.kaggle.com/datasets/rivalytics/saas-subscription-and-churn-analytics-dataset)
 
 Then data quality defects were introduced to mimic realistic data using the messy package from:
     
