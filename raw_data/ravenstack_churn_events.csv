@@ -1,601 +1,601 @@
 churn_event_id,account_id,churn_date,reason_code,refund_amount_usd,preceding_upgrade_flag,preceding_downgrade_flag,is_reactivation,feedback_text
-C-816*288 ,A-c37cab,2024-10-27,pri.cing ,4.03,NA,FALSE,FALSE,switched( to c!ompetito%r
-C-5a81e7,A-37f96(9,2024-06-25,supp(or-t,96.45,TRUE,FALSE,FALSE,NA
-C-a1$74b*e,$A-b0!7346,2024-11-12,budget ,0,FALSE,NA,FALSE,-missing features 
-C-accb39,A)-1e50e0 ,NA,budg@et,54.94,FALSE,FALSE,FALSE,NA
-*C-92f889,A-956-988,2024-12-30,unknown,0,FALSE,TRUE,TRUE ,NA
-C-a8*ac26,A%-b20d99,2024-03-04,fea-ture!s,0,NA,FALSE ,FALSE,%missing f^eatures
-C-2e2%966 ,NA,2024-07-10,features ,34.4,TRUE,FALSE,FALSE,NA
-#C-EE531-B,NA,NA,.B&UDGET,NA,NA,NA,FALSE,NA
-C-e6a0f@0,A--c#ca+bf0,2024-10-31,NA,NA,FALSE,FALSE,FALSE,_to%o expensive
-C-93!28ba,A-0(a62f5,2024-10-10,feature!s,0,NA,FALSE,NA,switc!he#d to co)mpetitor
-NA,A-3ce5b8 ,2024-09-18,features,261.49,FALSE ,FALSE,NA,too ex(pensive
-NA,A-3b5+cd1,NA,NA,77.87,NA,FALSE ,FALSE,miss^ing f%eatu@res
-C-bb35_56,A-bcf664,2024-08-08,competitor ,0,FALSE,FALSE ,FALSE,NA
-C-875dc5,A-b9f5b1,2023-07-21,features,0,NA,FALSE,FALSE,NA
-C-c8_f7b4,#A-0dbdc6,2024-04-14,pric$ing ,175.02,NA,FALSE,FALSE,t%oo expensive 
-+C-865f19,$A-c9$b*b(3e,2024-07-29,pricing,0,FALSE,FALSE,FALSE ,NA
-C-102614,A-96e141 ,2024-07-22,.budget,43.53,FALSE,FALSE,FALSE,NA
-C-4ab0e2,A-e7a1e2,2024-09-08,support,0,TRUE,NA,FALSE,missin)g features
-C!-7+42(a59,A-812c5b,2024-05-11,supp)o&rt,11.83,FALSE,FALSE,FALSE,m_issin*g f.eat-ures
-C-1f9cf2,A^-1e50e-0,2024-04-26,*pr$i.ci&ng,0,FALSE,FALSE,FALSE,swi&tched$ &to competitor
-C-5d5a64,A-c708^7^0,2024-12-13,comp$et*itor,0,FALSE,NA,FALSE ,switched to competi-tor
-C-f81!01%7,A-271f46,2024-08-09,features,NA,FALSE,FALSE,TRUE,missing features
-NA,A-592832,2024-10-04,support,22.66,FALSE,FALSE,FALSE,NA
-C.-e^58!2ea,A-180abf,NA,s.upp$ort,0,FALSE,FALSE,NA,NA
-(C-100b97 ,A-0a2^82@f,NA,features,0,FALSE ,FALSE,FALSE,switched to comp@etitor
-C-8843d4,A-e51$ec7,2024-01-29,s_upport,0,FALSE,FALSE,FALSE,miss.i(ng features
-C-8b3048,A-0343@68,2024-08-29,features ,0,TRUE,FALSE,FALSE,NA 
-C-48!f456 ,NA,2024-11-28,features,0,FALSE,FALSE,FALSE,miss-ing featur_es
-C-dcdebc,A-08e3$4e,2024-07-13,)competi(tor,225.18,FALSE,FALSE,FALSE,switched to co(mp(etit$or 
-C-8b229b ,A-44dc83,2024-11-29,unknown,98.48,FALSE,TRUE,FALSE,missing features
-C-7d13bf,A)-78%f02b,2024-12-02,NA,0,FALSE,NA,FALSE,missing -featu(res
-C-78a2bb,#A-fce$879,2024-12-03,fea%tures,0,TRUE,FALSE,FALSE,swi*t&ched) to competitor
-C-9)35f4#8,A-_34ea&2f,2024-10-05,NA,0,TRUE,FALSE,FALSE,NA
-_C-366a49,NA,2024-12-24,_unknown,68.65,FALSE,FALSE,FALSE,swi(tched to+ co.mpetitor
-*C-62e7a3,A-a-c85cd,2024-10-20,f.eatures,83.94,NA,FALSE,FALSE,NA
-C-f3aca2,A-439b2f,2024-11-18,features ,0,FALSE,FALSE,NA,switched to competitor
-NA,A-0f6450 ,2024-12-29,c&ompetitor,0,FALSE,FALSE,FALSE,missing f*eatures
-C-73(6)efa,A(-(b(78bf8,2024-12-06,unknown,NA,FALSE,FALSE,FALSE,NA
-C-f6e873,A-3b5c-d1,2024-07-24,NA,35.3,FALSE,FALSE,FALSE,too_ e#xpensive
-NA,A-7df%7a7,2024-07-10,budget,0,FALSE,FALSE,FALSE,NA
-C-762dd4,A-%39^6*e5f ,2024-11-30,fe.at-ures ,0,FALSE,FALSE,FALSE,too ex-pensive
-NA,A-32fb1@4,2023-08-19,budget,0,NA,FALSE,FALSE,switched to@ compet-itor
-C(-@0e273+d,A-4e0!e85 ,2024-03-14,NA,0,FALSE,FALSE,FALSE,NA
-C-345bbc,A-922109 ,2024-08-03,supp^ort,0 ,NA,TRUE,FALSE,too expen.si@ve
-C#-555f55,A-794a0b,2024-09-09,budget,0,FALSE,TRUE,FALSE,swit*ched& to _comp-etitor
-C-a26_ce8,A-5a18^4f,NA,sup(port,NA,FALSE,TRUE,FALSE,.missing feat^ures
-C-86a4$46,$A-ccb686,2024-06-22,budg-et,0,TRUE,FALSE,FALSE,NA
-C-10ce^15,A-*029f69,2024-12-14,competitor,32.73,FALSE,FALSE,FALSE,too (ex.pensive 
-C-26_98c2,A-9208f0,2023-11-18,features,NA,FALSE,FALSE,FALSE,switc(hed to co)mpetito^r
-C-48906a,A-5a9+2e7,2024-11-11,budget,0,TRUE,FALSE,FALSE,missin*g features
-C-4f7342,A-f$45426,2024-11-13,pr@icing,0,FALSE,FALSE,FALSE,switche+d +to c@ompet.itor
-NA,A-2446e3,2024-07-29,u^nknow.n,47.06,FALSE,FALSE ,NA,NA
-C-7f9!09a,A-d535%f6,2024-11-26,NA,0,FALSE,FALSE,FALSE,swit$ched t_o+ competitor
-C-f208d4,A-6d(a850 ,2024-10-25,competitor,0,FALSE,FALSE,FALSE,mis^sing@ features
-C_-acbc2b,A-249769,2024-12-16,bud&get,0,FALSE,FALSE,FALSE,NA
-C--859615,NA,NA,com(petitor,0,FALSE,FALSE,FALSE,missing fe-atur%es
-C-0359^85,A-6da.850,2024-01-15,pricing,0,FALSE,FALSE,FALSE,too expensive
-C-7cace4,A!-4!84819,2023-12-29,su@pport,0,FALSE,FALSE,FALSE,NA
-C-06a2e6,A-bbc346,2024-10-31,comp%etit%or,0,TRUE,FALSE,FALSE,too ex_pensive
-NA,^A%-eb(1312,2024-09-28,unknown,0 ,FALSE ,FALSE,FALSE,switc#hed to com+petito!r
-C!-a45909,A-bf7919,2024-12-06,s&upport,0 ,FALSE,FALSE ,FALSE,NA
-C-7f+85f4,A-bece8!9,2024-07-27,unknown,53.61,NA,FALSE,FALSE,switc@hed to competitor
-)C-234aa7,A-832e%c2,2023-12-19,unknown ,0,FALSE,FALSE ,FALSE,too e%xpensive
-C-0#ba0a0,NA,2024-10-17,pric-ing,0,FALSE,FALSE ,FALSE,NA
-C-d05e-42,A-3^2728c,2024-06-22,support,0,FALSE,FALSE,FALSE,NA
-NA,NA,2024-12-12,competitor,NA,FALSE,NA,FALSE,NA
-NA,A-1b960#9,2024-11-16,unknown,0 ,FALSE,FALSE,FALSE,NA
-C-1cea.52,A-(310452,2024-12-25,NA,0,TRUE,FALSE,FALSE,NA 
-C-1e0b1a,A-&016043,2024-08-11,competitor,84.75,FALSE,FALSE,FALSE,sw$itched+ to competitor
-%C-c4e7a7,NA,2023-10-19,feat(ures,0,FALSE,FALSE,NA,missing features
-C-915973,NA,2024-09-26,budget,0,FALSE,FALSE,FALSE ,missing %fe.atures
-C-a4#03fc,A-6a7c9d ,2024-11-21,s%upport,0,FALSE,FALSE,FALSE,(to&o expe#n-sive
-C-02+50&44,A-0985%6^0,2024-09-04,pricing ,0,FALSE,FALSE,FALSE,too *e_xpensive
-C-a545_97,A-9f9299,2024-03-24,features,0,FALSE,NA,FALSE,missing features
-C-7ab794,A-ef84c$f,2024-11-20,NA,0,FALSE,FALSE,FALSE,too expen.sive
-C-7c%d070,A-13466a,2024-04-18,NA,6.51,FALSE,TRUE,TRUE,.switched to _competitor 
-NA,A-6)5!aeb*5,2024-02-27,pricing,NA,NA,FALSE,FALSE,NA
-NA,A--659280,NA,pricing,27.75,FALSE ,FALSE,FALSE,NA
-NA,A-d49cc5,2024-04-12,competitor,0,FALSE,NA,FALSE,missing f(eatures
-C-(64@ba8a ,A^-cc8c8f,2024-09-12,budget,0,TRUE,FALSE,FALSE,missing featu.res
-NA,NA,2024-09-12,NA,0,FALSE ,FALSE,FALSE,$NA
-C-872bcf,A-6@da850 ,2024-09-07,b^udget,0,FALSE,FALSE,FALSE,^swi$tc$hed t.o compet!itor
-_C-_4.80232,NA,2024-09-23 ,competitor,0,FALSE,FALSE,TRUE,too expensive
-C-^108b%2a,NA,2024-09-21,co+mpetitor,0 ,FALSE,NA,FALSE,switched to competit*o%r
-C-775d4e,A-0.651a(4,NA,suppor@t,0,FALSE,FALSE,FALSE,NA
-NA,*A-b2%225_d,2024-06-27,b_u(dget,0,FALSE,FALSE,NA,!NA
-C-2dbe71,A-c222ab,NA,bud-g_et,4.52,FALSE,FALSE,FALSE,too expens%ive
-c-b60-cf.0,&a@-a6+d261,2024-03-10,u%n.kn(own,99.94 ,true,false,false,m(issing featur(e_s
-C-f24343,A-425e7#6,2023-09-03,budget,0,FALSE,FALSE,TRUE,missing fe#atures
-NA,A-c222ab,2024-06-10,fe(atures,27.62,TRUE,FALSE,FALSE,missi.n^g feat$ures
-(C-9D.36D*A,A-BCF$664,2024-08-17,!COM)PETITOR,0,NA,FALSE ,TRUE,NA
-C%-b-4b58^e,A-$96e141,2024-09-22,budget,NA,FALSE,FALSE,FALSE,too expe#nsive
-C-5cd282 ,A-df1e4$4,2024-11-20,budget,0,FALSE,NA,FALSE,missing fea*ture@s
-NA,#A.-7f29a!7,2024-10-09,un&known,23.97,TRUE,NA,FALSE,switc*he%d to competitor
-C-bd5b55,A-b07.b56,2024-12-24,budge%t,0,FALSE ,FALSE,FALSE ,switched to competitor 
-C-b8&127e,A-d79*2a6,2024-08-13,sup+po-rt,0,FALSE,FALSE,FALSE,missing *f-ea_tures
-#C-815@3B7,A-7CFE77,2024-12-19,*FE+ATURES,0,FALSE,TRUE,FALSE,MISSING FEATUR!ES
-C-b6*b828,NA,2024-06-17,support,0,FALSE,FALSE,FALSE ,NA 
-*C-a666a4,A_-4bfa33,2024-12-28,u.n$known,7.26,TRUE,NA,NA,switched to competito*r
-C-72d074,A-cc1d8d,2024-12-17,features,0,FALSE,FALSE,FALSE,too +expensive
-C-ced436,A-7f4%db3,2023-03-21,#s@upport,0,TRUE ,FALSE,FALSE ,missing *fea!tur^es
-C-2cccb0,A-%692f18,NA,suppo%rt,0,TRUE,FALSE,FALSE,switched to competitor
-c-b08dda,a-7a0d69,NA,features,28.95,false,false,false,na
-c-66d447,a-fda%07f,2024-09-13 ,$support,17.34,false,false,false,NA
-C-8_6%05!74,NA,2024-10-11,budg%et,0,FALSE ,FALSE,TRUE,switch)ed_ to co!mpetitor
-C_-a4f797,$A-c#d458b,2024-11-07,budge!t,0,FALSE,FALSE,FALSE,swit^ch!ed% to competitor
-C-4dfeb8,A-5_6962b,2024-07-27,unknown,45.83,FALSE,FALSE,FALSE,switched& to co-mpetitor
-NA,NA,2023-08-10,PRI+C(I#NG,0,FALSE ,FALSE,FALSE,MISSI+NG. FEATURES
-C-1a5a14,A-104f1a ,2024-09-06,^support,0,FALSE,FALSE,FALSE,too* !expe-nsive
-C&-6c63bc,A-2e3bad,2024-03-30,+features ,0,NA,FALSE,FALSE,missing f#eatures
-C-_1*f5828,A-2edab2,2023-12-21,unknown,NA,FALSE,FALSE,FALSE,switch+ed to competitor
-C-8203$f3,A-3be56b,2024-06-20,pricing,0,NA,FALSE,FALSE,switched to_ c!ompetitor
-C-f518d9,NA,2024-02-10,competit#or,0,FALSE,FALSE,TRUE,NA
-C.-97432(2,A-712533,2024-07-18,UNKNOWN,NA,TRUE,FALSE,NA,MISS#ING !FEATUR$ES
-C-6b610a,NA,2024-07-12,NA,0,FALSE,FALSE,FALSE,missing featur(es
-C-6&1c*ed5,A-acb7f7,2024-03-21,&competitor ,0,TRUE,NA,NA,missi-ng features
-(C!-bb8317,-A-5334$52,2024-11-19,features,0,FALSE,FALSE,FALSE,NA
-C-576ecc,_A-99308&5,2024-01-21,^feat_ures,0 ,FALSE,FALSE,FALSE,NA
-C-26^08a3 ,A-.bf7919 ,2024-12-17,features ,0 ,FALSE,TRUE,FALSE,too e!xpensive
-NA,A-bb1486 ,2024-11-21,-budg%et,0,FALSE,FALSE,FALSE,switched %to com-petitor
--C-BC6F4@8,A-EA^FC6E,2023-07-31,NA,0,FALSE,FALSE,FALSE,NA 
-$C#-8052a7,A-faa28c,2024-08-20 ,features,0 ,FALSE,FALSE,FALSE,NA
-C-3b3+99f,A-_7dacce,2024-12-08,feat@ures,0,TRUE,FALSE,FALSE,NA
-C-a761a8,A-50bb9f,2024-09-12,NA,0,FALSE,TRUE ,TRUE ,too %expe@nsive
-C-192e1d,A-716841,2024-11-13 ,$unknown,0,FALSE ,FALSE,FALSE,*too expensi+ve
-C!-494a1@6,A-5a184f,2024-09-11,support,NA,FALSE,FALSE,FALSE,switched to comp(etitor
-C_-3@db212,A-e40f4+5,2024-11-09,bud!get,101.23,FALSE,FALSE,FALSE,missing f@eatures
-C-47c%da^a,-A-9aff$e6,2024-01-12,features,83.06,FALSE,FALSE,FALSE,miss_ing) fea%ture+s
-C-ac853d,A-0354f#e,2024-11-26,support,0,FALSE ,NA,FALSE,sw-itched to competitor
-C-%a2&4d30,#A-%f1f%639,2024-04-07,.bu@dg)et,0,FALSE ,FALSE,NA,NA
-C-23a03*1,A-5247b3,2024-10-16,pricing,0,NA,FALSE,NA,NA
-NA,A-337bc1,2023-10-21,NA,0,FALSE,FALSE,FALSE,&too expensive
-C-70de89,A-_039727,2024-12-22,pricing,46.49,FALSE,FALSE,FALSE,sw(itched #to comp!etitor
-C-*49de12,A-5c9849 ,2024-11-13,unkno#wn,0,FALSE,TRUE ,FALSE,too e.xpens+ive
-C-97ab4+b,A-82d8!a6,2024-12-29,fe!atures,0 ,NA,FALSE ,FALSE,NA
-^C-23df_1e,A-18793f,2024-12-30,support,25.41,TRUE,FALSE,FALSE,NA
-C-1b0bb3,A-81edc3 ,2024-09-21 ,p)ric%ing,10.91,FALSE,FALSE,FALSE,too expe_nsive
-C-48)c0&c8,A-5)3f4e3,2024-12-06,co!mpetit#or,0,FALSE,TRUE,TRUE,too expensive
-C-eaa652,NA,2024-06-03,NA,0,TRUE,FALSE ,FALSE,missing features
-C-75e1*7_f ,A-ed510f,NA,budg)et,0,FALSE,FALSE,FALSE,too exp%ensiv)e
-C-3)d^be46,@A-76fa4d,2024-11-26 ,un.known,1.55,FALSE,FALSE,FALSE,too expensive
-C-4d517#f,A-13466a,2023-11-18,support,NA,FALSE,FALSE,FALSE,s^wi$tched@ to c*ompetitor
-C-50$db^ff,A-31ab9a,2024-08-09,bu&dget,0,FALSE,FALSE,FALSE,swit-ched t.o competi.tor
-C-2d03%fc,A-.e43bf7,NA,prici.ng,0,FALSE,FALSE,FALSE,NA
-C-8bf15d,NA,2024-03-19,comp%etitor,64.98,FALSE,FALSE,FALSE,too expensive
-_C-c6998d,A-956988,2024-12-08,bud!get,0 ,TRUE,FALSE,FALSE,missing featu*res
-C-f8d1!5f,A-c9bb3e,2024-10-03,un#known,0,FALSE,FALSE ,FALSE,NA
-C-8eba65,A-dcc3f1,2024-10-10,features,0,FALSE,FALSE,FALSE,#swi.tched to competito&r
-NA,A-462.d45,2024-05-17,comp%etitor,0,FALSE,NA,FALSE,missin+g features
-C(-^1e4b49,A-e$5d6ab,2023-04-24 ,feat_u%r.e#s,0,FALSE,FALSE,FALSE ,sw!itched to compe#titor
-C-35479-0 ,A--37f969 ,2024-02-12,pricin!g,NA,FALSE,FALSE,FALSE,NA
-NA,A-^0a62f5,2024-09-27 ,#pricing ,90.9 ,FALSE,FALSE,FALSE,swi$tched +to comp(etito)r
-NA,A-0be015,2024-12-13,unknown,74.68 ,FALSE,NA,NA,too e$xpensive
-C-7*6793^b,A-e888d1 ,2023-09-24 ,NA,0,FALSE,FALSE,FALSE,missing( fe#at*ures
-C-!0_33d73,A-ffc04f,2024-08-03,u#nknown,0 ,FALSE,FALSE,FALSE,NA
-C--2b7d9b,A.-180#a%bf,2024-03-09,su*pp*ort,NA,NA,TRUE,FALSE,NA
-&C(-6e6bcf,A-7c6b6b,NA,bu&dg&et,0,NA,FALSE,FALSE ,too& expensive
-C-e(26b7f,A-781cc0,2024-12-09,bud+g@et,0,TRUE,NA,FALSE,too expensive
-C-626_a5c,A-!e19ff6,NA,unknown,0,FALSE,FALSE,FALSE,mi-ss+ing features
-C-fd2fe4,^A-78f02b,2024-12-09,budget ,0,FALSE ,FALSE,FALSE ,too expensive 
-C-049f1^0,A-271f#46,2023-03-04,suppor+t,0,FALSE,FALSE,NA,NA
-C-57871b,A-6a.4e2d,2024-07-19,budget,0,FALSE,FALSE,FALSE,NA
-C-fafb3&1,A-5a&92e7,2024-06-18,featu(res,0,TRUE,FALSE,FALSE,missing features
-NA,A-3b37d@9,2024-10-13,support,0,FALSE,FALSE,FALSE,switch^ed to competit*or
-C-8f9053,A-c1e51)e,2024-11-09,pricing,0,FALSE,FALSE,FALSE,mi*ssing& *fea*tur$es 
-C-7690f5,A-4&c5+6c9,2024-04-05,budget,44.23,NA,NA,NA,-mi)ssing fe$a^ture_s
-C-fb91%f8 ,A-96bbc6,2024-06-24,compe_titor,0,TRUE,FALSE,TRUE,NA
-C&-02!604c,A-@9208f0,2024-11-09 ,features,0,FALSE,FALSE,TRUE ,t*oo expen)s-ive
-C-8*5E84B,A-4814A3,2024-11-25,PRICING,0,FALSE,FALSE,FALSE,TOO EXPENS*IVE
-C-&df72bb,A-dcc2f0,2024-04-10,features,0 ,TRUE,FALSE,FALSE,NA
-C-a41660,A-3cc791,2024-10-09,-feat_ures,0,FALSE,FALSE,NA,NA
-C-3e764b ,A-d792a6,2023-09-11,competitor,0,FALSE,FALSE,NA,t^oo expensi!ve
-C+-f46a9e,A-6e7827 ,2024-04-09 ,features,0,FALSE,NA,FALSE,mi.ssing_ features
-C-864f6f,A-e19^ff6,2024-01-08,pri(c.ing,0,NA,TRUE,FALSE,switched to com%petitor
-C-2#cec1c,A-712f(1c,NA,)budget,68.99,FALSE,FALSE,FALSE,%NA
-C*-bc276+1,A-68f*37c,2024-02-08,competitor,0,FALSE,FALSE ,FALSE,too expensive
-C-c82861,NA,2024-10-24,bu)dget ,0,FALSE,FALSE,FALSE,switch)ed to competit%or
-C-7e1bbd,A-0a62f5,2024-12-18,budget,0,TRUE,NA,FALSE ,$switc)hed to competitor
-C-6cbc28,NA,NA,unknown,0 ,FALSE,FALSE,FALSE,switched to -competitor
-c-13f&833,a-4d1e75,2024-09-05,budget,0,false,false ,false ,NA
-C-@49&9165,&A-8ae3fc,2024-08-10,budge$t,NA,FALSE,FALSE,FALSE,_NA
-C-5d5768,A-bb1eaa,2024-08-15,pric*in%g ,0,NA,TRUE,FALSE,too ex$pensive
-C-8ab4-4a ,A-(c*5.8f49,2024-08-27,co+mp#eti)t*or,0,TRUE,TRUE,FALSE,too expe+nsive
-NA,A-67be94,2024-06-30,com@p$eti)to%r,13.72,FALSE,NA,FALSE,NA
-C%-b38!b%8a,A-cdf_020,2023-12-08,budget ,NA,FALSE,FALSE,FALSE,#too expensive
-C-e601dc,A-aa9511,2023-10-17,competitor,0,FALSE,NA,FALSE,NA
-C-bc80*5f,NA,2024-09-08,un&known,0,FALSE,FALSE,FALSE ,t-oo expe&nsive
-C-8d2bf5,A-b9+e%ed8,2024-04-23,pr)icing,0,TRUE,FALSE,TRUE,s.w*itched to competito&r
-NA,A-1.49a6@9,2024-12-04,p(ri)cing,0,TRUE,FALSE,FALSE,#NA
-C-D20!B00,_A&-4EF964 ,2024-06-19,BUDGE$T,NA,TRUE,FALSE,FALSE,NA
-C-0baa74,A-558c72 ,2024-11-28,sup(port,43.01,FALSE,FALSE,NA,#switched to competitor
-C-77)62fe,A-54ecc2,2024-09-12,u)nknown,0,TRUE,FALSE,FALSE,missin&g feat$ure.s
-C-70ab02 ,A-3b5cd1,2024-01-21,pricing,0 ,TRUE,FALSE,FALSE,(missing fe+atures
-C-4c2a9f,A-ff3c73,NA,c@omp%et.itor,0,NA,FALSE,FALSE,missing features
-C-5b6094,A-296d7c,2024-11-04,budget,0,FALSE,NA,FALSE,too expe.nsive
-C-c5e09(3,A-c16101,2024-11-13,+features,0,FALSE,FALSE,TRUE,$too expensive
-C-94eeb&e,A-9779a!d,2024-04-17,unknow^n,NA,TRUE,FALSE,FALSE,switched) to( competitor
-NA,A-39ddf4,NA,support,0,FALSE,FALSE,FALSE,NA
-C-ebc01c,A-bd4513,2024-12-07,fea%tures,0,FALSE,TRUE,FALSE,swit*ched+ to competitor
-C-ae15f4,A-37%93ee,NA,unknown,0,FALSE,FALSE,FALSE,NA
-.C-26576c,A-dbc825,2024-01-14,fe_a.t.ures,0,FALSE,FALSE,FALSE,too expensi-ve
-c-f6fb-a0,.a-f92792,2024-11-03,NA,0 ,false,NA,true,NA
-C-cfa54b,A-e#b7c38 ,NA,NA,6.26 ,FALSE,TRUE,FALSE,NA
-NA,NA,2024-09-14,prici+ng,9.28,FALSE,FALSE ,FALSE,NA
-c^-947b6b,a-5a3eb9,2024-04-28,pricing,0,false ,false,false,missing f#eatures 
-C-0af764,A-ccabf0,2024-05-05,c_o*mpetitor,0,TRUE,NA,FALSE,too expensive
-C-e91d-a6,A-2d4502 ,2024-05-07,NA,0 ,NA,FALSE,FALSE,NA
-.C-+2d8e22,A-fce879,2024-10-07,support,0,FALSE,FALSE,FALSE,(s(witche.d t!o competitor
-C-47694c,A-0c%c442,2024-10-23,b+udget,NA,FALSE,FALSE,FALSE,NA
-C-b6549a,NA,2023-11-04 ,#support,35.6,FALSE,FALSE,FALSE,NA
-C-#2.58ade,%A-5$f29%61,2024-11-28,)pr_ici$ng,6.6,FALSE ,FALSE,FALSE,swi-t)ched to compet!itor
-^C-8e%da0%6 ,A-a865$bd,2024-03-18,unkn$own,0,FALSE,FALSE,NA,NA
-#C-0$7be44,NA,NA,NA,0,NA,FALSE,NA,mi*ssing features
-C-62daa0,A-b2225d,2024-03-31,pricing ,0,FALSE,FALSE,FALSE,too expensive
-c-7d6220,a_-2edab2,2024-06-23,features,0 ,NA,NA,NA,too expensive
-C-a65f7c,A-09.8560,2024-05-30,NA,34.35,FALSE,FALSE,FALSE,too expens(ive
-C-02a354,A+-ccb686,2024-11-24,competi*tor,25.92,FALSE,NA,FALSE,NA
-C-)5f)43c3,A-d!b5e9e,NA,pricing,0,FALSE,FALSE,FALSE,mis^sing featu&re(s
-C-36a955,A-96bbc6,NA,compet*itor ,0,TRUE,FALSE,FALSE,sw.itched to c#ompet%itor 
-C-7074f9,A-dcc3f1,2024-07-16,su@pport,0,FALSE,FALSE,FALSE ,too expensi%ve
-C-*7*b+e$fdc,$A-9)779ad,2024-08-11,+featu$res,0,FALSE,FALSE,FALSE,t(oo expensive
-C-a72f7f,A-15@8f4e,2023-03-05,b)udge!t,0,FALSE ,NA,FALSE,switched to co*mpetitor
-NA,_A-c1+6cf7,2024-12-07,support,0,FALSE,FALSE ,FALSE,too expensive
-C-17044c,A-bcf664,2024-10-04,features,NA,FALSE ,FALSE,TRUE,to^o expen.sive
-C-d716@da ,*A_-96bbc6,2024-12-21,budget,125.6,FALSE,FALSE,FALSE,mi+ssing features 
-C$-#dd2ad2,A-30b4ca,2024-09-01,features,0,FALSE,FALSE,NA,NA
-C-2c41@0a,NA,2024-12-23 ,(featu!res,NA,TRUE ,FALSE,TRUE,missing features
-C+-5f93ed,A-337bc1,2023-12-16 ,unkno&wn,0,FALSE,FALSE,NA,missing -features
-C)-^f79e5e,A-!7da^cce ,2024-09-18 ,un+k#no*wn,0 ,FALSE,FALSE,FALSE,s#witched t*o comp^e#t%itor
-C-c-9b84b,NA,2024-12-04,f#e&atures,0,FALSE,FALSE,FALSE,NA
-NA,A-1d5444,2024-06-01,sup)p*or(t,0,FALSE,FALSE,FALSE,too. expensive
-C-CC8DE6,A-$526D93 ,2024-09-25,SUPPORT,0,TRUE,FALSE ,FALSE,M!ISSING FEAT!URES
-C-f1773a,A-68f37c,2024-05-15,_support,0,NA,FALSE,FALSE,NA
-C-fe3853,A-f51f16,2024-12-07,compet.itor,0,TRUE,TRUE,FALSE,too expensive
-C)-770_06&6,A-84e!be*4 ,2024-01-05,*budget,0 ,FALSE,FALSE ,NA,switched to com%petitor
-C&-449318,A-5a184f,2023-07-23,#features,0,FALSE ,FALSE,NA,NA
-C+-e2ecb7,A-e7a1e2 ,2024-12-11,features,0,FALSE,FALSE,NA,NA
-C-211@191,+A-781cc0,2024-10-12,su)p!port,0,TRUE,FALSE,FALSE,NA
-C-55f4ec,A-0cc442 ,2024-07-20 ,pricing,0,FALSE,FALSE,FALSE,too expensive
-c-695fcd,a-2e4581,2024-11-23,NA,0,false,false,false,switc%he+d to competitor
-C-92133!5,A--6#59280,2024-07-23,features,0 ,FALSE,FALSE,FALSE,NA
-C-%9(776B7,)A-40A557,2023-12-08,BUDGET,0,FALSE,FALSE,FALSE,SWITCHED# $TO $COMPETITO.R
-C*-b3d895,A-0a62f5,2024-12-27,support,43.6,FALSE,FALSE,FALSE,t#oo expensi)ve 
-C-1965c1,A$-9f92$99,2024-10-08,compe%tito#r,0,FALSE,FALSE,FALSE ,NA
-NA,a!-e839(38,2024-02-19,fea(ture+s,0,false,false,false,too expe$nsive
-C-08d3b3,A-3f9cc0,2024-12-21,bu&dge^t,0,FALSE ,FALSE,TRUE,sw#itc%hed to competitor
-c-466a70,a-e&e42db,2023-06-23,pr!icing,0,true,false,false,too expensive
-.C-02f4fa,A@-ae052e,2024-11-13,unknown,0 ,FALSE,FALSE,FALSE,too$ ex*pens)ive
-C-ac34$ca,A-a.b438f,2024-12-02,budget,0,NA,TRUE,FALSE,NA
-.C-92f5c@b,A-90a8c8 ,2024-08-29,sup-port,0,FALSE,FALSE ,FALSE,missing feat*ur^es
-C-08b126,A-0c.c442 ,2024-09-26,NA,NA,TRUE,FALSE,TRUE,too expensive
-^C-9cc7a5,A-8e47ca,NA,compe)tit-or,0,FALSE,NA,FALSE,$too e^x)pensive
-C-C5B.2E8,NA,2024-06-04,SU$PPORT ,0,FALSE,FALSE,FALSE ,TOO EXPE)NSIVE
-C.-.be&8018,A-684255,2024-07-03,unknown ,0,FALSE,FALSE,FALSE,too ^expensive
-c-23ca8f,a-d77f4c,NA,un$known,0,false,true,NA,na 
-_C-2d056^9,NA,2023-11-11,feat!u^re_s,NA,FALSE,FALSE,FALSE,@missing features
-C-4c$523f,A-05d3b.3,2024-03-12,unkno!wn,0,NA,FALSE,FALSE,switc(he#d #to comp+e.titor
-C-57a76$8,NA,NA,features,10.5,FALSE,FALSE,FALSE,switched to compe)tit@or
-C%-573a5c ,A-de#c005 ,2024-11-23,support,NA,FALSE,FALSE,FALSE ,missing features
-C-b7dfcd,A-726cfa,2024-08-08 ,suppor&t,122.11,FALSE ,FALSE,NA,too expe_nsi&ve
-C-8c9a9a,A-9f0b68,2024-08-10,f-eature.s ,0,TRUE ,FALSE,FALSE,too .expens-iv+e
-C-2ce12e,A-712^426,2024-11-26,pricin&g,0,FALSE ,FALSE,TRUE,.NA
--C-18b303,A-764)1d3 ,2024-06-07,^unknown,96.35,FALSE,FALSE,FALSE,mis_sing features
-C-_b6bc!5f,A+-bb1486 ,2024-11-23,competitor,0,FALSE,TRUE,TRUE,switched +to &c!om!petit-or
-C-8cce4c,A-f+a3095,2023-12-23,s^u(ppor^t,NA,FALSE,FALSE,FALSE,missing! f&eatu-res
-C-&8fcdf5,A-310452,2024-12-27 ,budget,0,FALSE,FALSE ,NA,t-oo expensive
-C-ddade1,NA,2024-12-30,fea*t#ures,0,FALSE,FALSE,TRUE,NA
-C-5689de,A-00bed1,2024-01-03,!unknown,21.17,FALSE,FALSE,FALSE,NA
-C-2f61e8,A-ad3abd,2023-07-12,co^mpetitor,0,FALSE,FALSE,FALSE,NA 
-C-4dc992,NA,2023-03-11,unknown ,0,FALSE ,FALSE,FALSE,NA
-NA,A-cc$1d@8d,NA,unknown,217.22,FALSE,FALSE,FALSE,too expensive
-C-21efb6,A-fa2041,2024-07-13,competitor,0,NA,FALSE,FALSE,switched to +c.o&mpetitor
-C-.486194,A-2ebb_4b,2024-12-29,features,0,TRUE,FALSE,TRUE,NA
-NA,A-eb-1312 ,2024-10-03,unknown,0,FALSE,FALSE ,FALSE,NA
-C-b37401,A-dfbd31,2024-12-19,unknown,0,FALSE,FALSE,FALSE,too expensive
-C-c_93006,A-4e0e85,NA,competitor,0,FALSE ,TRUE,FALSE ,too# exp@ensive
-&C-cea92d,A#-2*e4581,2024-12-05,competi.tor,0,TRUE,FALSE ,FALSE,NA
-C-f7846a,A-11717(1,2024-10-13,b!udget,NA,FALSE,NA,FALSE,switched to compet$ito#r
-C-f5a8%63 ,A-e7a1e2,2024-09-30,budget,6.2 ,FALSE,FALSE,TRUE,NA
-C-056c32,A-1e6fc3,2024-03-20,NA,0,FALSE,NA,FALSE ,switche(d to comp(e&tito)r
-C-75abb3,A-ac9111,2024-06-25,budget,0,TRUE,FALSE,FALSE,#missing featu.re#s
-C-1(7377e,A-ee42db,2024-03-07,pricing,0,FALSE,FALSE,FALSE,missing features
-C-d84a6d,A-$a45270,2024-11-12,pr$icing,0,FALSE,NA,FALSE,missi#ng features
-C-%66b3fa,A-378b99,NA,p@rici!ng,0,FALSE,FALSE,FALSE,switched to c(o.mpeti^tor
-NA,A-9e%e!962,2024-10-03,suppo*rt ,0,FALSE,TRUE,FALSE ,NA
-+C-7aa94d,A-038089 ,NA,feat_ures,19.34,FALSE,FALSE,NA,#too expe)nsive
-*C-c6a403,A-684255,2024-05-04,&budget,0,NA,FALSE,TRUE,NA
-C-D3E2AB,NA,2023-10-18,COMPET@ITOR,0,FALSE,NA,TRUE,.MISS$ING !FEATURES 
-C+-+b3c3ce,A-9f2731,2024-10-15,NA,NA,FALSE,FALSE,FALSE ,NA
-C-d7de9d,A-8b0-451,2024-12-29,budget,0,FALSE,FALSE,FALSE,too expe*nsive
-C@-2!447b3,NA,2024-03-24,support,0 ,FALSE,FALSE,TRUE,missing &feat$ures
-)C-155feb,A-^82861f,2024-05-17,^support,0,FALSE,FALSE,FALSE,NA
-NA,A-C^1E51E ,NA,SU_PPORT,0 ,FALSE,FALSE,NA,SWITC(HED+ TO !CO%MPETITOR
-C-7217@38,A-d4@2431,2024-06-26,pricing,0,FALSE,NA,FALSE,mis-sing fea.ture%s
-C$-3^3fc6a ,A-c16101,2024-12-19,NA,0,NA,NA,FALSE,NA
-C&-4691e$b,NA,2024-05-19,unkn#own,0,TRUE,FALSE,FALSE,(NA
-C-2ce.c7e,)A-ce550d,2024-12-28,budget,0,TRUE,FALSE,FALSE,too& ex@pens_i!ve
-C-71_FF03,A-F19409,2023-05-25,NA,0,FALSE ,TRUE,FALSE,NA
-C-2a*64c7,A-029f)69,2024-06-17,budget ,0,FALSE,FALSE,FALSE,NA
-C)-5899b9,NA,2023-06-29,NA,0,TRUE,NA,FALSE,NA
-C-7e5a22,A-6965e@1,2024-12-09,features,0,FALSE,FALSE,NA,NA
-C-c3815e,A-^6965e1,2024-12-04,unknown,0,FALSE,FALSE,FALSE,switched to co_mp_etitor
-NA,a-5fe!1!18,2024-12-16 ,fe#atu(r&es,114.86,false,false,false,na
-NA,NA,2024-07-10,support,0,TRUE,FALSE,FALSE,too exp+ensiv-e
-)C-3b6b00,A-9289f6,2023-08-24,suppo^rt,17.93,FALSE,FALSE,FALSE,too exp.e)nsi!ve
-C-42)c$a6e,A@-1_b9609,2024-02-02,pricing,0,TRUE,NA,FALSE,too e)xp+ensive 
-)C-d9a*1)f3 ,A@-118f1c,2024-12-17,budget,0,FALSE,FALSE,FALSE,NA
-C@-21.7360,A-76fa4d,2024-12-03 ,prici(ng,31.49 ,FALSE,FALSE,NA,too expensive
-C-aa3075,NA,2024-12-27,budge)t,0,FALSE,NA,FALSE,missi*ng f#eatur+es
-C-3f2f59,A-a8.b49.c,2024-06-17,features ,0,FALSE ,FALSE,FALSE,missing fea*tures
-C-4f6(e40,^A-cb5333,2024-08-11,NA,0,FALSE,FALSE,FALSE,too expensive
-c-2f.95d$d,a-f1@9409,2023-03-26,competitor,0,false,NA,false,sw$itched to competitor
-C-38b77f,A-a8d89d,2024-01-18,features,0,FALSE,FALSE,FALSE,swit%ched to- c^o&mpetitor
-C-58deed,_A-81+e@dc3,2024-12-16,suppo#rt,0,NA,FALSE,FALSE,too exp%ensi)ve 
-C-86f8a+6,A-cc!c747,NA,bud#g_et,0,FALSE,FALSE,FALSE,swi&tched to com*petitor
-NA,A-3f9cc0 ,2024-08-09,&features,0,FALSE ,FALSE,FALSE ,NA
-C-bfcee5,A-8e4)7c_a,2024-12-31,support,0,FALSE,FALSE,NA,m#issin+g featur$es
-C-450!4)14,A#-%87aa7b,2024-12-26,bud.ge_t,0,TRUE,FALSE,NA,switched to competito-r
-C-dd4207 ,A-f45426,2024-08-05,com+petitor ,47.17 ,FALSE,FALSE,NA,missing fea&tures
-C-d4c^4.c6,A-09540c,2024-03-05 ,*unknown,71.44,FALSE,FALSE,FALSE ,NA
-C-149fc9,A-e1^462e ,2024-12-05,competito.r,0,FALSE,NA,NA,switc(hed @t&o *comp#etitor
-C-de3fd0 ,A-1+9b2%c8,2024-08-16 ,pricing,0,FALSE,FALSE,FALSE,missing features
-C-577ffa,A-10b8f2,2024-06-04,support,0,TRUE,FALSE,NA,too exp*ensive
-C)-A7707+5,A)-32728C,2023-01-25,PRI(C(ING,0,TRUE,FALSE,FALSE,S+WIT(CHED TO COMPETITOR
-C-4cdb6f,A-f25509,2024-06-15,pric!ing,0,FALSE,NA,FALSE,missing fea%tures
-C-a9e0c4,A&-94d3da,2024-04-12,compet*itor,0,FALSE,FALSE,FALSE,$switc*hed to compe.tito&r
-C-0f0*386,A-75$1c58,2024-09-17,budget,64.22,FALSE,FALSE,FALSE,switched to competitor
-C-3c8ea9,A-7641d3,2023-11-10,support,35.05,TRUE,FALSE,FALSE,mis*sing! f-eatures
-C-66c9fe ,A-86902e,NA,f%eat-ures,0,FALSE,FALSE,FALSE,NA
-C-53^3d1.c,.A-16(19f8,2024-07-19,competi.t#o-r,0,FALSE,FALSE,FALSE,NA
-$C-02719d,NA,2024-10-12,support,28.84,FALSE,TRUE ,FALSE ,missing features
-C-16ef52,A-9b9&fe9 ,2024-09-04,fea%tures,0,FALSE,FALSE,FALSE,switch)ed &to) competit+o@r
-C-6d80a6,A-02fac6,2024-08-21,NA,0,NA,FALSE,NA,missing fea)ture-s
-NA,A-54e+cc2,NA,p+r^ic@ing,0,FALSE,FALSE,FALSE ,too expensi!ve 
-c-2e9b$9%2,a-855a48 ,2024-08-01,@unknown,7.92,false,false,false,t)oo exp)ensive
-C-a8e84b,A-c)1@d-fe1,2024-06-06 ,features,0,FALSE,FALSE,FALSE,*missing features
-NA,A-^a7bd4b,2024-10-15,featur)es,NA,FALSE,FALSE,FALSE,t^oo expensive
-C-92e7a2,A-d535f6,NA,unkn_o!wn,0,TRUE,NA,FALSE,mis*sin.g features
-C-990050,NA,NA,features,0,NA,FALSE,FALSE ,miss#ing feature!s
-(C-e49&016,A-b77@24f,2024-09-01,comp!e#titor,111.42,NA,FALSE ,TRUE,switched $to competitor
-C-151$fb1,A-fd7ad3,2024-12-19,.suppor+t,0,TRUE,FALSE,TRUE,miss*ing *featur&es
-+C-9b229e,NA,2024-06-12,pr*icing,0,FALSE,FALSE,TRUE,NA
-C-@d33+672,NA,2024-07-11,budget,12.99,FALSE,FALSE,TRUE,switched to competitor
-NA,A-a)c14bb,2024-10-01,NA,0,FALSE,FALSE,NA,to$o expe!nsive
-C-d8d1&fd,A-5b1b-cd,2024-08-07,_co.mpetitor,NA,FALSE,FALSE ,FALSE,NA 
-C-f918d7,A-202b67,NA,features ,69.59,FALSE,FALSE,FALSE,NA
-C-a)77cbf,A-bad8c1,2023-10-04,unknown,0,FALSE,FALSE,TRUE,too expensive
-C)-f5dfda ,NA,2024-07-20,comp(etitor,34.87,TRUE,TRUE,TRUE,missi_ng #features
-C-9b80de,A-^533452 ,2024-12-01,pr-i!cin^g,132.32,FALSE,FALSE,FALSE,)miss_ing featur@es
-+C-51+5343,NA,NA,NA,0,TRUE,FALSE ,NA,too expensive
-c-)da7_b^0d,a-2ebb4b,2023-08-04,pric+i%ng,0 ,false,false,false ,missi.ng fe(atures
-C*-efed73,A%-9123ac,2024-10-23,competitor,0,TRUE,FALSE,FALSE,NA
-C-8d2855,A-8bde0c,2024-12-30 ,pric_ing,0,FALSE ,FALSE,FALSE,)NA
-C-992@f28,&A-)f44180,2023-04-29,c%ompetitor,38.15,FALSE ,FALSE,FALSE,too expe!nsive
-C-d+4+7c85,A-c376*01,2024-12-17,supp#ort,0,FALSE,FALSE,FALSE,switc+hed +to compe#tit*o.r 
-C-*ad8-b54,A-a0@9355 ,2024-09-13,supp-ort,0,TRUE,FALSE,FALSE,$NA
-c-89198d,a-0@38089,2024-10-21 ,-co.mpetit^or,0,false,false,false,na
-NA,A-@8ED5DD,2024-10-30,!SUPP+O.RT,0,TRUE,TRUE,FALSE,!SWITCHED T&O CO%MPE#TITOR
-C-13ca#3a,A-313be(3,2024-03-23,f#eatures,43.03,FALSE,FALSE,FALSE,too expensive
-c-0+7f6e3 ,a-e888d1 ,2023-06-06,budge$t ,0,false,NA,false,too expensive
-.C-65b589,A-7a0d69,2024-12-05,_competitor,0,FALSE,TRUE ,FALSE,sw)i(tch#ed to competitor
-(C-ea6df1,#A-e51ec7,2024-04-07 ,bu#dg#et,0,FALSE,NA,FALSE,switched+ to competitor
-C-f78d*c9,A-(1619f8,2024-09-21,bud#get,0,FALSE,NA,FALSE,NA
-C-9d9#bff ,A-f5641b,2024-06-17,fe@atu-res,0,NA,FALSE,FALSE,too expensive
-C@-9d8799,NA,NA,features,0,NA,FALSE,FALSE,+too expensive
-NA,A-0532a9,2024-10-09,NA,2.4,FALSE,FALSE,FALSE,t#oo exp-e)nsive
-C-3bac1&1,A-f5641b,2024-04-20,pricing,0,FALSE,FALSE ,FALSE,too expe&nsive
-C-49$868d ,A-309%e54 ,NA,^su%pport,106.67 ,FALSE,FALSE,FALSE,-missing fea.tur^es
-C-27770c,A-7&988d1,2024-06-19,competitor,16.89 ,FALSE,FALSE,FALSE,too expensive 
-C-118be@a,A.-^65-aeb5,2024-12-02,budge-t,0,TRUE,FALSE,TRUE,missi+ng &f#eatures
-C-cf!17c&a,A-e08cd3,2024-12-17,NA,0,FALSE,FALSE,FALSE,NA
-C-25c0d2 ,A!-e69)3b6 ,2024-10-10,NA,0,NA,TRUE,FALSE ,mis.si_n)g feature&s
-C-052-2_4#a,A(-f17767 ,2023-05-03,prici.ng,0,TRUE,FALSE,FALSE,NA
-C-fe7ee&4,A-b44e3e,2024-04-14,u^nknown,0,FALSE,FALSE,NA,s!witch#ed to compet%itor
-c-14ac^13,a-68f37c,2024-12-18,NA,0,false ,false ,true,NA
-C-fa1c-8!7 ,A-342303 ,2024-03-20,features,0,FALSE,FALSE,FALSE,switched to competit+or
--C-@29B7F7,A-8A%E05$D,2024-08-30,UN+KNOWN,0,FALSE,FALSE,FALSE,MISSING FEA)TURES
-C-22b92e,A-32f!b14,2024-04-03,@feat&u.res,0,FALSE,FALSE,FALSE,too exp%ensive
-C-465#80a,A-81edc3,NA,unknown,0,FALSE,FALSE,FALSE,missing .features
-C-ef9abf,A-a33200,NA,features,21.61,NA,FALSE,FALSE,too expe-nsive
-C-88a176,A-d922bf,2024-12-06,support,11.13,FALSE,TRUE,FALSE,)too ex.pens@ive
-NA,A#-ff3c73,2024-05-09,$compet!itor,2.42,FALSE,NA,FALSE,missing. featur^es
-C-ca19+41 ,NA,2024-11-03,p&ricing,0,FALSE,FALSE,FALSE,to&o expensive
-C(-7fcce6,A-4bfa33,NA,unk(nown,0,FALSE,FALSE ,NA,mis_sing (feat@u)res 
-C-5328d6 ,$A-0b0d6d ,2024-12-31,competit-or,0,FALSE,FALSE,FALSE,NA
-C-CD7797 ,A-A8^D89D,2024-08-26,PRICING,0,FALSE,FALSE,FALSE,NA
-C-7f!0644,NA,2024-10-17,budg_et,NA,FALSE,FALSE ,FALSE,too@ expensive
-C-2d4533,A&-117171,2024-10-22,features,102.86,FALSE,FALSE ,FALSE,switched to competi!tor
-C-d&9410c,NA,2024-06-19,pricing,NA,FALSE,TRUE,FALSE,mis!si%ng f*eatures
-NA,A-0f7d77 ,2024-11-09,competitor,0,FALSE,FALSE,TRUE,mis$sing features
-C-3018d4,A-34ea2f,2024-10-19,u+nknown,1.85,TRUE ,FALSE,NA,too expen-sive
-C-fcb%d$6+e,NA,2024-11-13,features,0,FALSE,FALSE,NA,switched to competitor
-C)-799+99b ,A*-58b9ff,2024-10-10,pricing,0,FALSE,FALSE,NA,too expensive
-C-62ad35,A(-$6965e1 ,2024-12-02,bud!get,0,FALSE ,NA,NA,NA
-C-f0bd80,A&-117171,NA,pricing,0,FALSE,FALSE ,FALSE,NA
-C-f4)9d4c,A-65c341,2024-12-16,unkno_wn,0,FALSE,FALSE,FALSE,switched to competitor
-c-462222,a-ae052%e,2023-10-07,support,0,false,false,false,too e*xpensive
-C-F68651,A-EAFC+6E,2024-12-12,UNKNOWN,0,NA,FALSE,FALSE,NA 
-C-9c+460!3,A-#c58f49,2024-09-21,support,7.6,NA,FALSE,NA,swi+tched to com(petitor
-C-c&179a+3,A-e7beab,2024-04-25,featur(es ,0,FALSE ,NA,FALSE,NA
-NA,A-b179bf,2024-11-25,f_e+atures,0,FALSE,FALSE,FALSE,NA
-C-2c86b1,A-@a*fa505 ,2024-03-02 ,support,0,TRUE,FALSE,FALSE,NA
-C-1172f^e,A-4a267b,NA,su#pport,64.54,FALSE,FALSE,FALSE,missing featur(es
-_C-4f6d(90,A-6a7c9d,2024-11-15,featur_e%s,178.84,NA,FALSE,FALSE ,missing feat(ures 
-C-f$51f1^d,A-32fb14,2024-04-28,_competitor,0,FALSE ,FALSE,FALSE,too ex_pen@si)ve
-(C-bd5e5e,NA,2024-12-09,NA,35.14 ,FALSE,FALSE,FALSE,too@ expensive
-NA,NA,2024-07-22 ,unknown,0,FALSE,FALSE,FALSE,swit#ch@ed to competitor
-*C-d+cbfa4,NA,2024-08-25,features,35.48,NA,FALSE,FALSE,too exp(ensive
-C-f1268a,A-32728.c,2024-07-19,NA,7.58,TRUE,FALSE,TRUE,*missing features
-C-0b2d8c,A-1b+9609,NA,u^nkno_wn,0 ,FALSE ,FALSE,FALSE,switched to c!ompetitor
-NA,@A-854_864,NA,supp#ort,8.47,TRUE,FALSE,NA,sw%itc_h&ed to competitor
-C-)fba952,NA,2024-12-27,NA,0,FALSE,FALSE,FALSE,too expensive 
-C!-e4261#a,A-417d2f,2024-12-30,bu^dg+et,0,FALSE ,FALSE,FALSE,NA
-C.-ab36fc,A-f031@4$0,2024-10-03,competitor ,0,FALSE,FALSE,FALSE,missin*g features
-C&-fdb715,NA,2024-10-11,NA,0,FALSE,FALSE,FALSE,NA
-C-fcfc3c ,A-98a59a,2024-09-11,NA,NA,TRUE,FALSE ,FALSE,swi!tched& t$o competit.or
-C-a11*9b0,A-9f2731,2024-12-09,unknown,136.94,FALSE,NA,FALSE,m-i@ssing f+eatures
-!C-cdb4d0,A-c222$ab,2024-10-05,support,NA,NA,FALSE,FALSE,NA
-c-d08588,a-e51ec7,2024-01-15,%b.ud!get,0 ,false,false,false,too expensive
-C-1&eead2,@A-5790f4,2024-12-26,support,51.18 ,NA,FALSE,FALSE,too expe.nsive
-C-9b6151,A-2bc93d ,2024-08-15,competi^tor,99.1 ,FALSE,FALSE,TRUE ,s$wi(tch*ed to competitor 
-C-cfb464,A-eb2fdc,NA,competitor,0,FALSE,FALSE ,FALSE ,NA
-C-249af9,A-ac14bb,2024-08-29,NA,128.79,FALSE,FALSE,FALSE,sw*i#tched (to competitor
-C--19342*6,A-7988d1,2024-12-24,unknown,0,FALSE,FALSE,FALSE,mis^sing f)e*atures
-C-6a6704,A-18@0&ab_f,2024-05-08,support,0,FALSE,FALSE ,FALSE,switched to- c*ompetitor
-C-e41103,A-1*80abf,2024-05-04,NA,0,FALSE,NA,FALSE,NA
-C)-53546c,NA,2024-10-19,featu%res,0,NA,TRUE,FALSE,swi(tched to competitor
-C-f6f!8a5,A-2d1+036,2024-10-28,pr.icing,39.09,TRUE,FALSE ,NA,NA
-.C-&551bc8,A-87*aa7b,2024-06-07,budget ,0,NA,FALSE ,FALSE,#NA
-C-31A49A ,A-9123$AC,2024-04-05,&SUPPORT,0,TRUE,FALSE,TRUE,)TO$O EXPENSIVE 
-C-ef2329,A-0f6450,2024-12-30 ,.comp*etitor,0,FALSE,TRUE,FALSE,NA 
-C--88877a,A-3%13be3,2023-12-09,competit_or,0,TRUE,FALSE,FALSE,NA
-C-28085c,A-4bfa33,2024-12-21,budget,NA,FALSE,FALSE,FALSE,NA
-C-*5f203c,A-80eeb6,2024-02-09,budget,0,FALSE,FALSE,FALSE,too expe&nsive
-C-a6d0e1 ,A-b179bf,2024-12-05,fea%tures,0,FALSE,FALSE,FALSE,+m-issing featur#es
-C-95a18e,NA,2024-12-19,fe&atures,0 ,NA,NA,FALSE,switc(hed$ to competitor
-C&-b0b16c,A-a.e052e,2024-12-14,NA,0,FALSE,FALSE,FALSE,too* expensive
-C-d*fe189,A-%05f0e5,2024-11-25,features,72.19 ,NA,FALSE,FALSE ,NA
-C+-9fe(257,A-157070,2024-12-27,featur!es,0,FALSE,NA,FALSE,too expe^nsiv%e 
-C-(c1bc7e,A-993085,2023-09-20,NA,0,FALSE,FALSE,FALSE,NA
--C-27e9c1,A-c16b88,2024-06-01,c!ompetitor ,0,TRUE,FALSE,NA,switched to competitor
-C-8f8593,NA,2024-09-09,unk)no-wn,NA,FALSE,NA,NA,s*witched to competitor
-C^-9775db,A-331424,2024-02-21,competitor,0,FALSE,FALSE,FALSE,swi*tched to competitor
-&C-3efa9b,NA,2024-11-07,@supp%ort,0,FALSE,NA,TRUE,too expensive
-C-917c1d,A-39868b,2024-05-24,NA,0,TRUE,FALSE ,TRUE,too expensive
-c-2d6!5!9a,a-72799b,2024-05-05,pric.ing,0,NA,false,false,switched to -competitor
-C-5d9db3,#A-39868b ,2024-05-06,-unkno(wn,0,FALSE,NA,NA,NA
-NA,A-c7ffc2,2023-04-15,budget,0,FALSE,FALSE,NA,to&o exp#ensive
-C-83b55f,A-5790_f4,2024-12-25,features,392.92 ,FALSE,FALSE,FALSE,switched to competitor
-C-FA6149,A_-3D957B,2024-05-05,BUDGET,NA,FALSE,FALSE,FALSE,TOO EXPENSIVE
--C-76.d762,A$-51ec1b,2023-12-09 ,unknown ,NA,TRUE,FALSE ,TRUE,$too expensive
-C-(4b(071b,A-1$18d55,2024-11-25,unk@nown,0,NA,TRUE,FALSE,missin&g ^f_eatur_es 
-C-b3431e,A-e3bd71 ,2023-12-30 ,supp-ort,0,NA,TRUE,FALSE,NA
-C.-9a1cc.c,A-b2af2e,2024-11-14,pricing,0,FALSE ,FALSE,FALSE,NA
-C(-cb924-b,A-089363,NA,pricing,0,FALSE,FALSE,FALSE,switched) t$o competitor
-C-a47-d71,A-f51f16,2024-07-07,fea_tu@res,0 ,FALSE,FALSE,FALSE,switched to competitor 
-C-33c706,%A--ffdfd5,2024-08-08,features,0,FALSE,FALSE,FALSE,missin+g_ features
-C-901_c1a,A-42+5e7#6,2023-08-10 ,co$mpetitor,0,FALSE,FALSE,FALSE,to.o expens(ive
-C-48183.8,A-af0cd2,2023-10-26,unk(n&own ,0 ,FALSE ,TRUE,FALSE,@switche#d t-o competit#o&r
-C-ff002d,#A-8ed5dd,2024-11-02,unknown ,0,FALSE,FALSE ,FALSE,NA
-C$-.1cf079,NA,2024-09-19,competitor,0,FALSE,TRUE,FALSE,m#issing features 
-!C-f17b79,A-6%5c341,NA,support,0,FALSE,FALSE,FALSE,too expensive
-C-020446,A-)0cc442,2024-10-06,un_known,0 ,TRUE,FALSE ,TRUE,sw)itched #t$o competitor
-C-9f95&d3,A-157070,2024-01-06,features,0,FALSE,FALSE,NA,NA
-C)-54)993f,A-c43359,2024-12-19,suppor^t,8.92,FALSE,FALSE,FALSE,m^issing_ fe@atures
-NA,A-425e76 ,NA,competit.or,0,FALSE,NA,FALSE,NA
-C-D7DED6,NA,2024-11-29,FE+ATURES,6.38,FALSE,FALSE,FALSE,NA
-NA,&A@-bb3bd4,2024-06-30,unknow_n ,0 ,FALSE,FALSE,FALSE,NA
-C-811879 ,NA,2024-07-29,unkn(o!wn,0,TRUE,FALSE,FALSE,NA
-C-6736e4,A-3be5@6b,2024-01-10,competitor,NA,TRUE,FALSE ,FALSE,NA
-C-$0f75)be,A-0!b@aac2,NA,fea_tures,30.73 ,FALSE,FALSE,FALSE,too expensive 
-C-59D(7BD,A-0F_3E88 ,2024-08-11 ,BUD#GET,0,FALSE,FALSE,FALSE,MISSING FEATURES
-C-d0f6d8,A-6e78)27,2023-09-19,support,0,FALSE,FALSE ,FALSE,NA
-NA,a-1^e1b8_0,2024-10-14,competitor,0,false,false,false,na
-NA,.A-d77f4c,2024-12-03 ,unknown,0,FALSE ,FALSE,FALSE,.too e%xpensive
-C-07ec1f,A-bbc346,2024-11-03,com$petitor,15.46,FALSE ,NA,FALSE,switched to co_mp!etitor
-C.-15%6544,A-d42431 ,2024-10-12,(b*udget,17.42,TRUE,FALSE,NA,switched to compe(titor
-C-!e11abb,A-cc.1+02e,NA,$unkno#wn,50.06,FALSE,FALSE,FALSE,sw&itc(hed to competitor
-C-$D85C26,A-42E5E1,NA,PRICING ,0,FALSE,FALSE,TRUE,NA
-C-d28d0e,A-1e1%b#80,2023-10-04,co$mpetitor,0,FALSE,FALSE,FALSE,missing. features
-NA,A-e19ff6,2024-06-27,compet.i&tor,0,FALSE,FALSE,NA,swit(ch%ed to competitor
-C-326d32,NA,2024-12-20,NA,10.4,FALSE,FALSE,FALSE,missin$g features
-NA,+A-9208f0,2024-09-15,unknown,0,TRUE,FALSE,TRUE,$too e(xpensive 
-C%-cf246e,A-7f6b86,2024-07-10 ,pricin!g,NA,FALSE,FALSE,FALSE,NA
-C.-e20cc6,A-cc10@2e,2024-11-19,pricing,0,FALSE,NA,FALSE,too expensive
-C-1f4c(c0,A-5%6962b,2024-08-26,pricing,0,TRUE,FALSE,FALSE,NA
-C*-0d4_70e ,A-7.a0d69,2024-12-29,budget,NA,TRUE,FALSE,FALSE,NA
-C@-56(2e14,A-c1!6cf7,2024-11-08 ,+bu!dget,0,TRUE,FALSE,FALSE,NA
-NA,NA,2023-08-19 ,pricing,0,FALSE,FALSE,FALSE,mis!s#in$g features
-NA,a-c(37cab,2024-11-16,compe%titor,0,NA,false,false,.m)issing @features
-C-$8e5*c25,%A-9b9fe9,2023-12-27,feat-ures,27.92 ,FALSE,FALSE ,FALSE,too expensive
-C-8a2d9d,A-0651a(4,2024-11-22,features,0,FALSE ,TRUE,FALSE,missing features
-C*-D39!666,A-3B3_7D9 ,2023-12-26,BUDG-ET ,0,FALSE,FALSE,FALSE,NA
-C-ed4dcb,A-5a(3-eb9,2024-06-12,competit!or,58.37,FALSE,FALSE,FALSE,NA
-C-105c4c,^A-0a62_f5,2024-12-07,budget,21.95 ,FALSE,TRUE,FALSE,NA
-C-c3.b1e4,A-df1e44 ,2024-10-17,budget,0,FALSE,FALSE,FALSE ,too# e.xpensive
-C-%b$6997d,A-4ae22a,2024-07-20,pricing,0,FALSE,FALSE,FALSE,&NA
-NA,A-ac*85cd,2024-12-13,pricing,102.39,FALSE,FALSE,TRUE,NA
-c-5cfad3,a-b(ec)e89,2023-12-16,budget,56.15,false,false,false,NA
-C-5$6b504,A-ef84cf,2024-08-14,unknown,18.81,NA,FALSE,NA,swit)ched to competitor
-C-2bf465,A-84ebe4,2024-01-20,support ,0 ,FALSE,FALSE,FALSE,missing fe.at$ures
-C-54CE4F,A-+6DEE43,2024-01-14,PRICING,143.8,FALSE,FALSE,FALSE,SW#ITCHED TO COMPE+TITOR
-C-BB53CB,A-94(F8C9,2024-05-02,BUDGET,0,FALSE,FALSE,NA,NA
-C-c4e0b+8,A-b179bf,2024-10-31,support,0,FALSE,FALSE,FALSE,too% expe!nsive
-C-ba801a,A-7cf!e77,2024-09-09,unkn_own,0,FALSE,TRUE,FALSE,NA
-%C!-1f8fd5,A-e351e1,2024-12-04,su&pport,0,TRUE,TRUE,TRUE ,NA
-C-f477c9 ,A-3f9c^c0,2024-07-18,_prici!ng,0,FALSE,FALSE,FALSE,t%o@o e&xpen(si#v$e
-C-4b854f,NA,2024-09-28,pricing,0,TRUE,FALSE,NA,NA
-C-1124ed,A-439b2^f,2024-08-02 ,NA,17.06,FALSE,NA,TRUE,NA
-c-^3+70962,a-0^75038,2024-09-05,featu*r-es,6.38,false,false,false,na
-C-CC9%0(BE,NA,2024-08-06,BUD(GET,74.94,NA,FALSE,FALSE,SWITCHED TO C(OMPETITOR
-)C-#89af4e,A-d77f4c,2024-08-06,*budget,0,FALSE,TRUE,FALSE,too expensive
-C-e_73b7f,A!-e.1462e ,2023-10-05,NA,NA,NA,FALSE ,TRUE,too. expens!ive 
-C-5E0998,A-+FAA#2#8C,2024-05-24,FEATU*RES,0,FALSE ,FALSE,FALSE ,#M_ISSING FEATURES
-NA,A-08e34+e,2024-09-01,NA,3.57,FALSE,FALSE,FALSE,missing features 
-C-2)299d7,A-fd7ad3,2024-11-23,support,0,FALSE,FALSE,FALSE,too expensive
-C-6%7d3e1,A.-86fc1d,2024-08-12,suppo!rt,0 ,TRUE,FALSE ,FALSE,NA
-C-ca5f4b,A-8(32ec#2,2024-09-15,pricing,0,TRUE,FALSE,FALSE,switched to competitor
-C-0340^b2,A-0$29f69,2024-10-31,com*petito$r ,0,FALSE,FALSE,FALSE,switched to competitor
-C-5368b0,A-e8-3938,2024-08-11 ,pricin@g,NA,NA,FALSE,FALSE,sw.itched to competito)r
-C-ca(81a1,A-ccc747 ,2024-09-02,competi%t-or,NA,FALSE,FALSE,FALSE,@switched_ t^o com_petitor
-)C-$ad7ea+3,A-8145a0,2023-07-12 ,feat+ures,0,FALSE,FALSE,NA,missing fea(tures 
-C-864169,A-5+26d93,2024-08-05,s^upport,6.77,FALSE,FALSE,FALSE,swi^tche#d to compe)titor
-C+-4-8.8b42,A-1b707d,2023-07-21,competitor,0,NA,FALSE,TRUE ,^miss-ing features
-C-ce47da,A&-cc102e,2024-11-19,pricing,61.1,FALSE ,FALSE ,FALSE,switched to co@mpet@itor 
-C-fb2a^95,A*-@9!02ef)7,2024-09-26,pricing,0,FALSE,FALSE,FALSE,too expensi&ve
-NA,A-7#98a3f,2024-07-19,support,0,FALSE,FALSE,FALSE,NA
-c&-9e8172,a-ad64.c6,2024-07-03,support,19.08,false,false,false,missing fea-tures
-C-474d36,A!-6f50a_e ,2024-02-26,fea(tures ,0,FALSE,FALSE,TRUE,NA
-NA,)A_-9208F0 ,2024-05-24,B%UDGET,66.37,FALSE,FALSE,FALSE,TOO E-XP&ENSIVE
-NA,A-0354fe,2024-11-15,unk$n_o*wn,0,FALSE,FALSE,FALSE,switche@d to competitor
-C-a#1bcf0,A-5ed98d,2024-09-27,fe$atu%res,0,FALSE,FALSE,FALSE ,missing featu%res
-C-675+c0a,A-a*09355,NA,support,135.11,FALSE,NA,FALSE,&NA
-C-4(58075,A-4437e4,NA,fe-atures,0,FALSE,FALSE,FALSE,too expensive
-C-*300#3bc,A)-!c58f49,2024-09-03,unk*nown,NA,FALSE,NA,FALSE,t*oo expensive
-$C-6#AC144,NA,2023-11-06,UNKNOWN,0 ,NA,FALSE,FALSE,MISS(ING FEATURES
-$C-9bb1b6,A-5ed98d,2024-10-02,competitor,NA,FALSE,TRUE,FALSE,missing fea*tures
-C-07fd#6b,A-e351e1,2024-10-30,unknown,113.84,FALSE,TRUE,FALSE ,missi$ng features
-C-2e2@f04,A-2d1036,2024-10-19,budge_t,0,TRUE,FALSE,FALSE,missin!g fe+at+ures
-C-2fc9c)4,A-b30291,2024-09-03,!competito^r,277.54,NA,TRUE,FALSE,too( %expensive
-C_-109d%03,A-1f)0ac7,NA,support,0,TRUE,FALSE,NA,missing! feature_s
-C-a#f7968,(A-71^2426,2024-11-21,pricing,0,NA,NA,FALSE,m.issing) feat#ures
-C-785e(8e,A-f25509,2024-11-10 ,features,0,FALSE,FALSE,FALSE,NA 
-C-%2886ac,A-bcbe98,2024-11-25,competi)tor,0,FALSE,FALSE ,FALSE,mis^sing $feature^s
-C-a40f!a4,A-4c6f11,2024-06-29,competitor,0,FALSE,FALSE,FALSE,t+oo expen#sive
-C-96_5d90 ,&A-@df.10db,2024-05-19 ,competitor,0,FALSE,NA,FALSE,missing fea_tur&es 
-C-6a6ed3,A-c1dfe1,2023-09-21,prici+ng,0,TRUE,FALSE,FALSE,missing fea&tu.res
-C-9c89ca,A-3a7$284,NA,$unknown,0,FALSE,FALSE,FALSE,missing fea@ture)s
-C-1dce6d,A-751c5&8,NA,budge-t,NA,FALSE,FALSE,FALSE,too expensive
-C-0d5e^9#9,NA,2024-06-29,unknown,0,FALSE ,FALSE,TRUE,NA
-C+-^05$bc#56,A-53$34$5)2,2024-11-17,*fe-atures,0,FALSE,TRUE ,TRUE ,missing fe*atures
-NA,A--0baac2,2024-07-15,unknown,NA,TRUE,NA,FALSE,m&issing feature-s
-C-84f039,A-b7724f,2024-01-01,(support,78.25,TRUE,FALSE,FALSE,missing features
-C&-aad0f+7,A-0dbdc6,2023-11-26,suppo)rt,0,FALSE,TRUE,FALSE,mis(sing f&eat#ures
-NA,A$-4c6f11,2024-10-18,competitor,0,FALSE,FALSE,FALSE,NA
-C-4a3e8_e,NA,2024-11-23,support,0,TRUE,FALSE,FALSE,NA 
-C$-&f67026,NA,2024-07-24,b#u#dget,60.25,TRUE,FALSE,FALSE,missing@ featu%res
-C-c)6f6fe,A-$922109,2024-12-17,support,0,FALSE,FALSE,FALSE,NA
-C-374d5d,A-c43359,2024-12-12,unknown,0,TRUE ,FALSE,FALSE,too !expensive
-C-8.ae2f5,NA,2024-05-17,fea&tures,0,FALSE,FALSE,NA,NA
-C)-c66a6(c,A+-02cd81,NA,-pricing,0,FALSE,FALSE,FALSE,NA
-NA,A-67be94,NA,support,74.55,FALSE,NA,FALSE,NA
-c&-b4^11ad,a-ba6516,2024-03-17,budget,0,false ,false,false,!na
-_C-ca13+79,A-ee42*db,2024-11-12 ,unknown,23.52,FALSE,FALSE ,FALSE,NA
-+C-615769,A-ccb686,2024-11-08,unkno(wn,0,FALSE,FALSE,NA,switched to competitor
-NA,NA,2023-08-25,unknown,52.88,FALSE,FALSE,FALSE,missing fea_tures
-C_-ed73ea,A$-5a3eb9,2024-04-14,features,0,TRUE,FALSE,FALSE,NA
-C-e20d3)0,NA,2024-12-31,unknown,0,TRUE ,FALSE,FALSE ,!NA
-C-e42d29,A-a865bd,2023-11-26,NA,0,NA,FALSE ,FALSE,missing featur$es
-C-cd_8fba,A-b7ef83,2024-06-01,unknown,0,FALSE,FALSE,TRUE,too exp#ensive
-C-2de339,A-e83938,2024-12-29,bu&d%get,13.5,FALSE ,FALSE,FALSE,NA
-C-ec714a,A-5%33452,2024-12-16 ,sup#po.rt,15.23,FALSE,FALSE,FALSE,NA
-#C-a6aa23 ,A-ee_42db,2023-10-13,&support,0,FALSE,TRUE,NA,mis_sing features
-C-3b4085 ,A-4f18f0,2024-05-27,features,0,TRUE,FALSE,FALSE,NA 
-C-437da0,A--f6b2fb,2024-07-11 ,-support,0 ,TRUE,FALSE,FALSE,NA
-C-92da55,A-d26a$b4,2024-12-26,pricing,86.02 ,NA,FALSE,FALSE,too* expens_ive
-C-30+7676,A-05f0e5 ,2024-01-14,unknown,0,TRUE,FALSE,FALSE,missing- features 
-C-22d30d,A-d3c88-e,2024-11-18,support,0,FALSE,FALSE ,FALSE,too expensive
-C-a4a4a7,A-10@4f1a ,2024-09-09,f$eatures,0,FALSE,FALSE,FALSE,switched -to com$p+etitor
-C-16ddba,A-b2225d,2024-05-16,support ,0,TRUE,FALSE,FALSE,switched to c#ompetitor
-C%-e+8f3f5,A-5790f4,2024-12-31,c@omp.et!i_tor,0,TRUE,FALSE,FALSE,+too expensive
-NA,A-104f1a,2024-12-11,unknown,0,NA,FALSE,FALSE,m-issing features
-C-65cf#f3,A-ccc747,2024-08-07,budget,104.25,NA,FALSE,FALSE,NA
-C-a86#0c5,)A--5f(7781,2024-12-25 ,NA,0,FALSE,FALSE,NA,NA
-C.-3(7.929d,A)-^e1&b_9cd,2024-10-01,NA,0,FALSE,FALSE,FALSE,switched to competitor 
-C-efe5bb,A-7988d1,2024-01-06,budget,0,FALSE,FALSE,FALSE,too e#xpensive
-C-2(48550,A-29%22b6,2024-12-25,competitor,0,FALSE ,NA,FALSE,missing fea+t(ures
-C-38ef8e ,A-0baac2,2024-09-30,pric)ing,0,FALSE ,FALSE,FALSE,to_o exp&ensive
-C-+885a34 ,%A-71615e,2024-07-16,pricing,0,TRUE,FALSE,FALSE,missing featu_res
-c-c458(2f,a-9f0b68,2024-11-01 ,pricing,0,true,false,false,na
-C-370+175,*A-9+7#79AD,2024-08-03,COMPETITOR,0,FALSE,FALSE ,FALSE,MISSIN*G FEA.TURES
-C-@a5%29cf,A-bb3bd4,2024-05-30 ,NA,0,TRUE,NA,FALSE,NA
-C-cc005(8 ,A-f3ff_05,2024-10-20,unk*nown,0,NA,FALSE ,FALSE,too expensive
-C-ae4$7d1,A-425e76,2024-10-22,competitor,0,FALSE,FALSE,NA,switc$hed t#o %competitor
-C-59499c,NA,2024-11-12,pri.cing,70.03,FALSE,FALSE,FALSE,switc^hed to c&ompetitor 
-_C-b56a35,+A-702032,2024-06-14,competitor,0 ,FALSE,FALSE,FALSE,switched to c(ompetitor
-C-7e7822,A-dbc825,2024-02-03,bu+dget,0,FALSE,FALSE,FALSE,NA
-C-484fba,A-0a2@82f,2024-12-31,suppo.rt,NA,FALSE,TRUE,FALSE ,too #expens*ive 
-C-22f^536,A-e5d6+ab,2024-05-11,(co.mp&etitor,0,TRUE,FALSE,FALSE,NA
-c-5e0b68,NA,2024-09-28,NA,0,false,false,false,na
+C-816288,(A-c3.7cab,2024-10-27,pricing,4.03,NA,FALSE,FALSE,s)witched to c#ompe^titor
+C-5a8*1e7,A-37%f969,2024-06-25,support,96.45 ,TRUE,FALSE,NA,NA
+C-a174be,A-b)07346,2024-11-12,budget,NA,FALSE,FALSE,FALSE,mis+sing features
+C-accb39,A-1e50e0,2023-11-01,b-udge-t ,54.94,FALSE ,FALSE,FALSE,s#witche_d to c#ompetitor
+C-*92f)889,A(-95&6988,2024-12-30,unknown,0,FALSE,TRUE,TRUE,too ex*pensive
+C-a8ac#26,A-b20d99,2024-03-04,fe*atur)es,0,FALSE,FALSE,FALSE,missing features
+C-2e2966,A-#5-26d93,2024-07-10,features,34.4,TRUE,FALSE,FALSE,.NA
+C-&ee5-31-b,A-751bd4,2024-09-22,b^udget ,0,FALSE,FALSE,FALSE,NA
+C-e6a0f0,A-ccabf0,2024-10-31,features,0,NA,FALSE,FALSE,too expensive
+C-9328BA ,A-0A62F5,2024-10-10,)FEATURES,0,FALSE,FALSE,FALSE,SWITCHED TO COMPET@ITO+R
+C-c89493,A-3ce)5b8,2024-09-18,features,NA,FALSE,FALSE,FALSE,too expe.nsive
+C-c54e^f0,A$-3b5cd1,2024-08-30,NA,77.87,FALSE,FALSE,FALSE,missing features
+C-b+b3%556,.A-bcf664,2024-08-08,compe+titor,0,FALSE,FALSE ,NA,)NA
+C-875dc5,A-b9f5b1,2023-07-21,fea%tures,0,FALSE,FALSE,FALSE,s^wit@c)hed %to compe@titor
+C-c8f7b4,A-0dbd^c6,2024-04-14,pricing,175.02,FALSE,FALSE,FALSE,NA
+_C-865f19,A-c9bb3e,2024-07-29,pr*icing,0,FALSE ,FALSE,FALSE,switched# to^ comp^etitor
+C-102614,A-96e141,2024-07-22,budg*et,43.53 ,FALSE,FALSE,FALSE,too expensiv$e
+C-4ab0e)2 ,A-e7a-1e2,2024-09-08,support,0,TRUE,FALSE,FALSE,_missi!ng _feature@s
+C_-742A5#9,A-!812C5B,2024-05-11,SUPPORT,11.83 ,FALSE,FALSE,FALSE ,MISSIN.G F!E.ATU^RES 
+c-1f9cf2 ,NA,2024-04-26,pric%ing ,0 ,false ,false,false,NA
+C-5d5a64,NA,2024-12-13,co@mpetitor ,0,FALSE,FALSE,FALSE,switch-ed@ to competitor
+C-f81017,A-.271f-46,2024-08-09,NA,NA,FALSE,FALSE,NA,missing featu*res
+C-3292)be,NA,2024-10-04,sup^p^ort,22.66 ,FALSE,FALSE ,NA,switched t^o competitor
+C-e582^ea,A-180a%bf,2023-12-04,NA,0 ,FALSE,FALSE,FALSE,NA
+C-100B97 ,A-0A282F,2024-10-06,F.EAT%URES,0 ,FALSE ,FALSE,FALSE,S)WITCHED @TO COMPE-TITOR
+C-88)43d4,A-e51ec7,2024-01-29 ,sup_por^t,NA,NA,FALSE,FALSE,m)iss_ing featu&res
+C-*8.b3048,A-034368,2024-08-29,features,0 ,TRUE,FALSE,FALSE,NA 
+C-!48f45_6,A(-8b_de0c ,2024-11-28,featu!res,NA,FALSE,FALSE,NA,missing f$eatur$e#s
+C-dc(debc,A-08e-34e,2024-07-13,compe+titor,225.18,FALSE,FALSE,FALSE,switch-ed t&o competitor
+C-8b229b,A-44dc83,2024-11-29,unknown,NA,NA,TRUE,NA,missing features
+C-_7d13bf,A-78f02b,2024-12-02,unknown,0 ,FALSE,FALSE,NA,miss@ing %feature#s
+C-78a2#b#b,A-fce)879,2024-12-03,_features,0 ,TRUE,FALSE ,FALSE,NA
+NA,A-34ea2f,2024-10-05,unknown,0,TRUE,FALSE,FALSE,NA 
+C)-366a49 ,A-0baac2,2024-12-24,NA,68.65,FALSE,FALSE,FALSE,@sw+itc-hed to #competitor
+-C-62&e7a3 ,NA,2024-10-20,feature*s,83.94,FALSE,FALSE,FALSE,NA
+C-f!3aca2 ,NA,2024-11-18,f*eatures,0,FALSE,FALSE,FALSE,switche+d to competi*tor
+@c-3b7c&60,a-0f6450,2024-12-29,competitor,0 ,false ,false ,false,(miss.in@g features
+C-736efa,A-b^78bf8,2024-12-06,unk#now(n,0,FALSE,FALSE ,FALSE,NA
+NA,A-3b5cd1,NA,s$upport,NA,FALSE,FALSE,FALSE,too e_xpen!sive
+C-2E2A3F ,-A-7DF7A7,2024-07-10,B*UDGET,0,NA,NA,FALSE,MI&SS-IN%G# FEA@TURE^S
+C-762DD4,NA,2024-11-30,FEATURES,0,FALSE,FALSE ,FALSE,TOO- .EXP*ENSIVE
+NA,A-32fb14,2023-08-19 ,bu+dget,0,NA,FALSE,FALSE,s%witched to competitor
+C-0e273$d,A-4e0e85,2024-03-14,pricing,0 ,FALSE,FALSE,FALSE,NA
+C-345bbc ,A-_922109,2024-08-03,support,0,TRUE ,TRUE,FALSE,too expensive 
+.C-555f55,A-794a0-b,2024-09-09,budget,0,FALSE,TRUE,FALSE ,switched to competitor
+C-a26ce8,NA,2024-03-19,suppo$rt,0,FALSE,TRUE,FALSE,NA
+C-86a446,A--ccb686,2024-06-22,NA,0,TRUE,FALSE ,FALSE,NA
+c-10_ce15,a$-029f69 ,2024-12-14 ,co.mpetitor,32.73,false ,false,NA,too -ex!pensive
+C-2698(c2,A-9208f0,2023-11-18,fe#at*ures,0,FALSE,FALSE ,FALSE,switched to !competitor
+C-48906a,A-5a92e7,2024-11-11,budget,0,TRUE,FALSE,FALSE,missing featur&es 
+C-4F7342,NA,2024-11-13,PR_IC-I&NG,0 ,FALSE,FALSE,FALSE ,S-WITCHED TO CO_MPET&ITOR
+NA,A-2446e3,2024-07-29,NA,47.06,FALSE ,FALSE,FALSE,NA
+C-7f909a,A-d535f6,2024-11-26,featur$es,0,FALSE,FALSE,FALSE,NA
+C-(f208d4,A-6d@a850,2024-10-25,competitor,0,FALSE,FALSE,FALSE,missing features
+C-acbc2b,A-249769,2024-12-16,budget,0,NA,FALSE,FALSE,NA
+C-8-59615,A-^8e47ca,2024-06-01,competitor,0,NA,FALSE,FALSE,mis)sing featur.es
+.C-0%3+5985,A-6da85_0,2024-01-15,+pric#in(g,0,FALSE,FALSE,FALSE,too $expensive
+C-7cace4,A-484819,2023-12-29,NA,0,FALSE,FALSE,FALSE,NA
+C-06a2e6,A-bbc346,2024-10-31,competit@or ,0,NA,FALSE,FALSE,too% expensive
+C-e$b9d5e,A-eb1312,2024-09-28,NA,0,FALSE,FALSE,FALSE,+switched to compet.itor
+C-&a_45909,A-bf7*919,2024-12-06,support,0,FALSE,FALSE,FALSE,NA
+C-7f85f4,A-bece89,2024-07-27 ,unk*n-own,53.61,NA,FALSE,FALSE,switched to (competitor
+NA,A-8-32ec2,NA,unkn$own,0,FALSE,FALSE,FALSE,too e%xpensive
+C-0ba0a0,NA,2024-10-17,p#ri%c_i#n*g ,0,FALSE,FALSE,FALSE,NA
+C-d05e(4^2,A-3272#8c,2024-06-22,support,0,FALSE,FALSE,FALSE,NA
+C-8d3540,A-37f969,2024-12-12,competitor ,50.41,FALSE,NA,NA,NA
+C-bedd(8c,A-1b96(0.9,2024-11-16,unk!nown,0,FALSE ,FALSE,FALSE,NA 
+C-1cea52,A-3104%52,2024-12-25,(budget,0,TRUE,FALSE,FALSE ,NA
+C-1e0b1a,NA,2024-08-11,comp(etitor,84.75,FALSE,FALSE,FALSE,s_w_itched to competitor
+C-c4e7a7,A-80@eeb6 ,2023-10-19,NA,0,FALSE,NA,FALSE,mi+ssing f!eatures
+C-91%5&973,A-7-E0@A!10,NA,BUDGET,NA,FALSE,FALSE,FALSE,MISSING! FEA_TURE+S
+)C-a403f.c,A-@6a7c9)d,2024-11-21,supp.o$rt,0,FALSE,FALSE,FALSE,too e&xpensiv&e 
+-C-@025044,NA,2024-09-04,@PRIC^ING,0,FALSE,FALSE,FALSE,NA
+C-A54597 ,A-9F92#9(9,2024-03-24,FEATURES,0,FALSE,FALSE,FALSE,MISSING FEATUR$ES
+C-7ab794,A-e^f84cf,2024-11-20,support ,NA,FALSE,FALSE ,FALSE,NA
+C-7cd070,A-_13466a,2024-04-18,pr(ici_ng,6.51,FALSE,TRUE,TRUE,swit.ch.ed@ to competitor
+C$-1%727c8,A-65+aeb5,2024-02-27,p-ricing,0,NA,NA,FALSE,NA 
+C-bb9db4,A-6(59280,2024-11-22,pricing ,27.75,FALSE,FALSE,FALSE ,(switche&d to- co$mpet-itor
+C-0a0bf7,NA,2024-04-12,competi%t.or,NA,FALSE,FALSE,FALSE,miss%i@ng featu&res
+C_-64ba8a,A-cc8c8f,2024-09-12,bu$dget,0,TRUE,NA,FALSE,mi*ssing fea#t.ures
+C-fab4@29,NA,2024-09-12 ,support ,0,FALSE,FALSE,FALSE,NA
+C-872bcf,A-6da85-0,2024-09-07,budget ,0 ,FALSE,FALSE,NA,switched$ #to% competit)or 
+C-4-8023_2,A-!31ab9a,2024-09-23,NA,0,FALSE,NA,TRUE,too e^xpensiv^e
+C-108_b2a,NA,NA,NA,0,FALSE,FALSE ,FALSE,switched to compe&ti(tor
+C-775d4e,A%-0+6%5.1_a4,2024-12-25,_suppo-rt,0,FALSE,FALSE ,NA,to!o ^expen&sive
+@C-04#3665,NA,2024-06-27,bu(dget,0,FALSE,FALSE,TRUE ,NA
+c-2dbe71,NA,2024-06-14,+budget,4.52,false ,false,false ,NA
+NA,A-a6d261,2024-03-10,unknown ,99.94,NA,FALSE,FALSE,mi-ssing& features
+C-f24343,A-425e76,2023-09-03,budget,0,FALSE ,NA,TRUE,missing features
+C-a1d45c,NA,2024-06-10 ,featur*es,27.62,TRUE,FALSE,FALSE,missi@ng features 
+C-9d36da,A-bcf$664,2024-08-17,competitor ,0,FALSE,FALSE,TRUE,NA
+c-b4b58e,*a-96e141 ,2024-09-22,b)udget,0,false,false ,false ,to#o expensive
+C-5cd282,A-df1e44,2024-11-20,NA,0 ,FALSE,FALSE,NA,#mis_sing feature*s
+C-.95-f_56e,A-7f2!9a7,2024-10-09,NA,23.97,TRUE,FALSE,FALSE,switched to competitor
+C-bd*5b55,NA,2024-12-24,b.udg!et,0,FALSE ,NA,FALSE,.sw@i)tched to com-pet+itor
+C-b812#7e,A-d792a6,2024-08-13,NA,0,FALSE,FALSE,NA,missing features
+C-815*3&b7,A-7cf-e77,2024-12-19,#fe.atures,0,FALSE,TRUE,FALSE,missing featu@res
+C-b6b82$8,A-69fad4,2024-06-17,support,0,FALSE,FALSE,FALSE,NA 
+C-a666a!4,A-4bfa33,2024-12-28 ,unknown,7.26,TRUE,FALSE,NA,switch#ed( to competitor
+C-72d074,A-cc1d8.d,2024-12-17,_features ,0,FALSE,FALSE,NA,too expensive
+C-ced43&6,A-7f4db3,2023-03-21,NA,0,TRUE,FALSE ,FALSE,missing+ feat(ures
+C-2cccb0,A-692f18,NA,*supp)ort,0,TRUE,FALSE,FALSE,switched to compe.titor 
+C-b08dda,A-7a0d69,2024-07-09 ,features,28.95,FALSE,NA,FALSE,NA
+C-6*6d447,A-fd%a07f,2024-09-13,support,17.34,FALSE,FALSE,FALSE,missi%ng fe.ature)s 
+C-8605-74,A-!4e44e8,2024-10-11,bud%get,0,FALSE ,FALSE,TRUE,NA
+C-a4f797,A-cd458b,2024-11-07,budget,0,FALSE,FALSE,FALSE,switched (to@ competitor
+C-4dfeb8,A-56962b,2024-07-27,unknown,45.83,NA,FALSE,FALSE,switch)ed *to competit%or
+C-d3449f,A-2bc$93d,NA,pricing,0,FALSE,FALSE,FALSE,missing features 
+%C-1a^5a14,A-1%04f1a,2024-09-06,s-u!pport ,0,FALSE,FALSE,FALSE,NA
+C-6c63bc,A-2e3bad,2024-03-30,features,0 ,FALSE,NA,FALSE,mi#ssi$ng features
+C-1f5828,NA,2023-12-21,unknown,168.73,FALSE,FALSE,NA,sw^itched to_ com^petitor
+C-8203f3,$A-3be56b,NA,pricing,0,FALSE,FALSE,FALSE,+switched )t!o competitor
+C-f518d9,A-6e08^f3,2024-02-10,competitor,NA,FALSE,NA,TRUE,NA 
+C-974322,A-712533,NA,un+known,0,TRUE,FALSE,FALSE,miss+i^n!g fe*atu%res
+C-6b610a,A-df10db ,2024-07-12,+competito(r,NA,FALSE,FALSE,FALSE,NA
+C-&61ced5,A-_acb7f7,2024-03-21,competitor,0,TRUE,FALSE,FALSE,m!issin$g feat_ure)s
+C-bb8317,A-533452,2024-11-19,)features,0,FALSE,FALSE,FALSE,NA
+C-576ecc,A-9930+85,2024-01-21,feat%ures,0,FALSE ,FALSE,FALSE,^NA
+C_-260#8a3,A-bf79(19,2024-12-17,features ,0 ,NA,TRUE,FALSE,to+o- expensive
+C-30462f,A-bb1486,2024-11-21 ,budge#t,NA,FALSE,FALSE,FALSE,sw)itched to com#petitor
+NA,A%-eafc6e,2023-07-31,pricing,0,FALSE,FALSE,FALSE,NA
+C-8052a7,$A-fa.a&28c,NA,features,0,FALSE,FALSE,FALSE,NA
+C-3b399f ,A-7dacce,2024-12-08,feature^s,0,TRUE,FALSE,FALSE ,NA
+^C-a76@1a8,A-50bb9+f,NA,unkn%own ,0,FALSE,TRUE,TRUE,too ex.pe^nsive
+C!-192e1d,A-7168*41,NA,unk$nown,0,FALSE,FALSE,FALSE,too expensive
+NA,A_-5*a@1^84f,2024-09-11,suppor&t,0,FALSE,FALSE,FALSE,-switc-hed *t*o competitor
+C-3db@212,_A^-e40f45,2024-11-09,budget,101.23 ,FALSE,FALSE,NA,missing features
+C--47cdaa,A-9affe6,2024-01-12 ,features,83.06 ,FALSE,FALSE,FALSE,NA
+C-ac85_3d,A-0354fe,2024-11-26,su-pport,0,FALSE,TRUE,FALSE ,switched+ to competit@o+r 
+C-a24d3*0,A-f^1f639,2024-04-07,#budget,0,FALSE,FALSE,FALSE ,NA
+C-2^3a0@31,A-5247b_3 ,2024-10-16,pric.ing,0,FALSE,FALSE,FALSE,NA
+C-1.78070,A-33!7bc1,2023-10-21,(support,0,FALSE,FALSE,FALSE,-too expe&nsive 
+C-+70de89,A-#039%727,2024-12-22 ,NA,46.49,FALSE,FALSE,FALSE,sw.itched to compe+titor
+C-49d-e12,A-5c.9849,2024-11-13,un%known,0 ,FALSE,TRUE,FALSE,t%oo ex*pensive
+(C-97ab4b,A-(82&d8a6,2024-12-29,features,NA,FALSE,FALSE,FALSE,@s)witch(ed to comp(eti^tor 
+C%-23df1*e,A@-18793.f,2024-12-30,su(pport,25.41,TRUE,NA,NA,NA
+C-1)b$0bb3,A-81edc3 ,2024-09-21,NA,10.91,FALSE ,FALSE,FALSE,too expensive
+C-48c0c.8,A-5)3f4e3,2024-12-06,competitor,0,FALSE,TRUE,TRUE,to+o expensive 
+C-eaa652,A-1619f#8,2024-06-03,comp_et%it&or,0,TRUE,FALSE,FALSE,mi^ssing features
+C-75e17f,A-ed510f,2023-05-05,budget ,NA,FALSE,NA,FALSE ,too !ex)pen.sive
+C-3dbe4(6,#A-76fa4d,2024-11-26,unkno&wn,1.55,FALSE,FALSE,NA,too expensive
+C-4d517f,A-13466a,2023-11-18,NA,0,FALSE,FALSE,FALSE,switched to co$mpeti&tor
+C-50dbff,NA,2024-08-09,budget,0 ,FALSE,FALSE,FALSE,switched! t*o competitor
+C-2d03fc,A-e43bf7,2023-06-24,prici)ng,0,FALSE,FALSE,FALSE,miss*ing features
+NA,A-20736a,2024-03-19,competitor,64.98,FALSE,FALSE,FALSE ,too expensive
+C-C6998.D,A-956988,2024-12-08,!BUDGET,0,TRUE,FALSE,FALSE,+MISSING FEATURES
+C-f8d15f,*A-c9bb3e,2024-10-03,*unknown,0,FALSE,FALSE,FALSE,NA
+NA,%A-dc$c3f1,2024-10-10,features,0,FALSE,FALSE,FALSE ,switch&ed to _c*ompet*i)to*r
+C-a1253e ,A_-462d45,2024-05-17,competitor,0,FALSE,FALSE,FALSE ,NA
+C-1e4b49,A-e5d6!ab,NA,f^ea.tures,0 ,FALSE ,FALSE,FALSE,switched to competitor
+NA,A-37f969,2024-02-12,pricing,0,NA,FALSE,FALSE,mis$s+ing# features
+c-b5bb%09,NA,2024-09-27,NA,90.9,false,false,NA,swit*ched to compe.tit.or
+C-&eb8f3d ,A-0be015,2024-12-13,unkno^wn,74.68,FALSE ,FALSE,FALSE,%too expensive
+C-76793b,A-%e888d-1,2023-09-24,support,0,FALSE ,FALSE,FALSE,missing featur*es
+C-0#33d73,A-ffc04f,2024-08-03,unknown,0,FALSE,NA,FALSE,NA 
+C-!2(b7d*9b,A%-180abf,2024-03-09,suppo)r_t,0,FALSE,TRUE,FALSE,NA
+#C-6+e6b+cf,A-7c6b6b,2024-12-09,budget,0,FALSE,FALSE,FALSE,!too expensive
+C--E26B+7#F,A@-7-81CC0,2024-12-09,#BUDGET,0,TRUE,FALSE,FALSE,TOO EXPENSIVE
+C-626a5c,A-e19^ff6,2024-04-18,unknow%n,NA,FALSE,FALSE,NA,mis+si(ng feat+ures
+@c-fd2fe-4,a-78f02b,2024-12-09,budg_et ,NA,false,false,false,too_ exp+ensive 
+C-049f10,A-271f46,2023-03-04,!support,0,FALSE,FALSE,FALSE,NA
+NA,A-6a4e^2d ,2024-07-19,bud$g+et,NA,NA,FALSE,FALSE,NA
+C(-fafb31,NA,2024-06-18,features,0,NA,FALSE,FALSE,m!i+ssing f_eatures
+C-8a3b.c6,A-3b37d9,2024-10-13,support,0,FALSE,FALSE,FALSE,switched to c@ompe_titor
+C-_8f905#3,A-c1e51e,2024-11-09,pricing,0,FALSE,NA,FALSE,missing f+eatures
+c-7690f5,NA,2024-04-05,budget,44.23,true,NA,NA,missing fea-tures
+C@-fb91f.8,A-96bbc6,NA,NA,0,TRUE,FALSE ,TRUE,NA
+C-02604c,A-920*8f0,2024-11-09,feature^s,0,FALSE,FALSE ,TRUE,too exp#ensive
+C-85e84#b,A-4+814a3,2024-11-25,NA,0,NA,FALSE ,FALSE ,too expensive
+C-df7+2bb,A-dcc2f0 ,2024-04-10,f#ea!t#ures,0,TRUE,FALSE,FALSE,NA
+C-a41660,A-3c$c791 ,2024-10-09,#features,0,FALSE,FALSE,TRUE,NA
+NA,A-d792a6,2023-09-11,competitor,0,FALSE,FALSE,FALSE,NA
+C-f46a9e,A-6e7827,2024-04-09,features,0,FALSE ,FALSE,FALSE,missing featur+es 
+C-*864f6f,A_-_e!19ff6,NA,pri#cing,0,NA,NA,FALSE,swit@ched# to competitor
+C-2cec1c,A-712f1c,NA,budget,68.99 ,FALSE,NA,FALSE,NA
+C-bc2761,A-68f37c,2024-02-08,competitor,0,FALSE,FALSE,FALSE,t&oo expensiv$e
+C-c82861,A-e@351e1,2024-10-24,NA,0 ,FALSE,FALSE,FALSE,switched to competitor
+)C-7e1bbd,A-0a62f5,NA,budg+et ,0,TRUE,FALSE ,FALSE,switched to competitor
+C+-6cbc28,A-)09316c,2024-12-05,unknown,0 ,FALSE,FALSE,FALSE,s$witched to compet$itor
+&C-13f833,A-4d1e75,2024-09-05,-budget ,0,FALSE,FALSE,FALSE,m#issing fe^atures 
+C-4991#6.5,A-8a%e3fc,2024-08-10,budget,0,FALSE,FALSE,FALSE,!NA
+C-5d5768,A-bb!1eaa,2024-08-15,pricing,0,FALSE,TRUE,FALSE,too# expen^siv#e
+C-8ab44$a,A-c58f49,2024-08-27,co%mpetitor,0,TRUE,TRUE,FALSE ,too expensive
+NA,NA,2024-06-30,competitor,13.72,FALSE,FALSE,NA,too expensi-ve
+C-b38b8a,A-c@df020,2023-12-08 ,budget ,105.26,FALSE,FALSE,FALSE,too expensive
+C-e601d-c,A#-aa951+1 ,2023-10-17,c^ompetito@r ,0,NA,FALSE,FALSE,NA
+C-bc805f,A-50bb9f,2024-09-08,unk%nown,0 ,FALSE,FALSE,FALSE,too ex@pensi$ve 
+C-8d2bf5,%A-b9eed8 ,2024-04-23,pr_ici%ng,0,TRUE,FALSE,NA,switched to compe&tit@or
+C-ae(25+d5,A-149a69,2024-12-04,pricing,0,TRUE ,FALSE,FALSE,NA
+c-^d20b00,a_-4ef964 ,2024-06-19,#budget,0 ,true,NA,false,too expensive
+C*-0baa74,$A-^55%8c72,2024-11-28,supp+o#r^t,43.01,FALSE,NA,FALSE ,switc^hed to competi#tor
+C-776*2f#e,A-54e&cc2 ,2024-09-12,un#known,0 ,TRUE,FALSE,FALSE,missi#ng feature!s
+C-+70ab0)2,-A-3b5%cd1,2024-01-21,pricing,0,TRUE,FALSE,FALSE,missing features
+&C-4c2a9f,A-f-f3c73,2023-12-09,competi&tor,0 ,TRUE,FALSE,FALSE,missing f^eatu%res
+C-5b6094,A-296d7c,2024-11-04,budg*et,0,FALSE ,FALSE,FALSE,too $exp-e^nsive
+C-c5*e093 ,A-c16101 ,2024-11-13,fe!atures,0,FALSE,FALSE,TRUE,^too expensi*ve 
+C-94eebe,A-9779ad,2024-04-17,unknown,0,TRUE,FALSE,FALSE,switch@ed to competitor
+C_-65ad@11,)A-$39ddf4,2024-12-13,NA,0 ,FALSE,FALSE,NA,NA
+C-e%bc01c,A-bd4513,2024-12-07,+fea.t%ures,0,FALSE,TRUE,FALSE,swit)ch@ed t-o c)ompetitor
+NA,A-379-3ee,2023-06-16,(unknown,0,FALSE,FALSE,NA,NA
+c-2657_6c,_a-dbc825,2024-01-14,@features,0,false,NA,false,NA
+C-f6fba0,A-f#92(7&92,2024-11-03,features,0,FALSE ,FALSE,TRUE,NA
+C-CFA54B,@A-EB%7)C38,NA,BUDGET,6.26,FALSE ,TRUE,FALSE,NA
+C-260d-ec,A-202b67,2024-09-14,pricing ,9.28,FALSE,FALSE,FALSE,NA
+C-947b6b,A-5a3eb+9,2024-04-28,pricing,0,FALSE,FALSE,FALSE,missing features
+C-0af764,A-ccabf0,2024-05-05,competitor,0,TRUE,FALSE,FALSE,too expen+sive
+C@-e91da6,A-2d4502,2024-05-07,pricing,0,TRUE,FALSE,FALSE ,NA 
+NA,NA,2024-10-07,supp+ort,0,FALSE,FALSE ,FALSE,switched to+ competitor
+C#-47694c,A-@0cc44&2,2024-10-23,b&udget,59.52 ,FALSE,FALSE,FALSE,(NA
+C-+B6549A,A-151C(9@A,2023-11-04,SUPPORT,35.6,FALSE,FALSE,FALSE,(MISSING FEA@TURES
+C-(258ade,NA,2024-11-28,pricing,6.6,FALSE,FALSE,FALSE,switche*d to comp(etitor
+NA,A-a865bd,2024-03-18,unknown,0,FALSE,FALSE,FALSE,NA
+C-07b&e&44,A-751c58,2024-11-05,bu%dget,0,FALSE,FALSE,TRUE,missing fe!at$u%res
+C-(62$da(a0,A-b2225^d,2024-03-31,NA,0,FALSE,FALSE,FALSE,@to#o expensive
++C-7d6220,A-2edab2,2024-06-23,#features,0,FALSE,FALSE,FALSE,t)oo -exp+ensive
+NA,A-098560,2024-05-30 ,suppo#rt,34.35,FALSE,FALSE,FALSE,too expensi*ve
+NA,A-CCB686 ,2024-11-24,COMP.ETIT*OR,25.92,NA,FALSE,FALSE ,NA
+C-5f43c3,A-_db5e9e ,2024-12-29,pricing,NA,FALSE,FALSE,FALSE,missing featur&es 
+C-36a955,A-96*bbc6,2024-12-04,c+om%petitor,0,TRUE ,FALSE,FALSE,switch)ed to +competitor
+@C-7074@f9,A-dcc3!f1,2024-07-16,support,0,FALSE,FALSE,FALSE,&t!oo expensive
+C--7(be$fdc,NA,2024-08-11 ,feature^s,0,FALSE,FALSE,FALSE,NA
+$C-a#72f7f,A-158f4e,2023-03-05,budget,0,FALSE,FALSE,FALSE,switche@d !t#o competitor
+NA,A--c16c^f7,NA,support,0 ,FALSE,FALSE,FALSE,NA
+C-17044c,NA,2024-10-04,feature#s,75.32,FALSE,FALSE,TRUE,too@ e$xpens!ive
+C-d*716da,A-96bbc6,2024-12-21,budget,125.6,FALSE,FALSE ,FALSE,missing %featur!es
+#C-dd2ad2,A-30b4ca,NA,features,NA,NA,FALSE,FALSE,NA
+C-2c410a,A+-71242)6,2024-12-23,f(eatures,0,TRUE,FALSE,NA,missing features
+C-@5f93ed,A-337bc1,2023-12-16,unkn*own,0,NA,FALSE,NA,missing features
+c-.f79e5e,a-7dacce,2024-09-18,unk_nown,0,false,false,false,switche-d to competito%r
+C-c9b84b ,A-15%8f4e,2024-12-04,feat+ures,0,FALSE ,FALSE,FALSE,NA
+C-ae+e993,A-1d_5444,2024-06-01,support,0,FALSE,FALSE ,NA,-too expensive 
+C-cc8de6,A-526d93,2024-09-25,NA,0,TRUE,FALSE,FALSE,missing^ f-eatur$es
+$C-f1773a ,NA,2024-05-15 ,)sup%port,NA,TRUE,FALSE,NA,switched to competitor
+C-f_e3853,A-f5+1f16 ,2024-12-07,competitor ,0,TRUE,TRUE,NA,too expens#i_ve
+C-770066,A-84ebe4,2024-01-05,budget ,0,FALSE,FALSE ,FALSE,%sw)itche-d _to competit-or
+C-4^49*318,A-!5a1^84f,2023-07-23,features,0,FALSE,FALSE,FALSE,t#oo expens)ive
+C-e2e%cb_7,NA,2024-12-11,features,0,FALSE,NA,FALSE,NA
+NA,A-7^8-1cc0,2024-10-12,support,0,TRUE,FALSE,FALSE,NA
+NA,A-0cc@442,2024-07-20,pricing,0,FALSE,FALSE,FALSE,NA
+C-695fcd,A-2e4581,2024-11-23,budg&et,0,FALSE,FALSE,FALSE ,$sw)itched to compet$itor
+C-921335,A-^65928-0,2024-07-23,feature(s,NA,FALSE,FALSE,FALSE ,to^o ex(pensive
+C-9$776b7,A-40a557,2023-12-08,budg$et,0,FALSE ,FALSE,FALSE ,switched to competitor
+c(-b3!d895,NA,2024-12-27,NA,43.6,false,false,false,too e+xp)ensive 
+C-1965c1,A-9f929$9,2024-10-08,competi)tor,0,FALSE,FALSE,FALSE,NA
+C-0ec68d,_A-e8$3938,2024-02-19,features,0,FALSE,FALSE,FALSE,t^oo expensive
+NA,A-)3f9c#c0,2024-12-21,budget,0,FALSE,FALSE,NA,switch_ed to competito&r
+)C)-4$66a7(0,NA,2023-06-23,pri(cing,NA,TRUE ,NA,FALSE,too expensiv#e
+C-02f4fa,A-ae052e,2024-11-13,unknown,0,FALSE,FALSE,FALSE,t&oo expensive
+C-ac34ca ,A-ab438f ,2024-12-02,budget,0 ,TRUE,TRUE,FALSE,NA
+NA,A-90A8C8,2024-08-29,SUPP^O&RT,0,FALSE,FALSE,FALSE,MISSING FEATURES
+C-08b126,A-0cc442,2024-09-26,bud$ge.t,NA,TRUE,FALSE,TRUE,+to#o expensive
+C*-9cc7a5 ,A-8e47-ca ,2024-09-18 ,+competi^tor,0,FALSE,FALSE,FALSE,too exp(ensive
+C-c5b2e8,(A-c608c8,2024-06-04,su%pport,0,NA,NA,NA,too expen*siv%e
+C-be8%018 ,A-684255,2024-07-03,unknown,0,FALSE,FALSE,FALSE,t$oo! expens%ive
+NA,A-d77f4c,2024-10-03,unk*nown,0,FALSE,TRUE,FALSE,*NA
+C#--2d0569,A-c7ffc2,2023-11-11,features,NA,FALSE ,FALSE,FALSE,mi-ssing ^featu-res 
+C&-4c523f,A+-05d3b3,2024-03-12,unknown,0,FALSE ,FALSE,FALSE,switched to competitor
+C-57a768,A-702032,2024-04-18,NA,NA,FALSE,FALSE,FALSE,switched) to co)mpetitor
+-C-573a5c,A!-dec005,2024-11-23,%su^ppo^rt,NA,FALSE,FALSE,FALSE,m-iss)ing feat_ures
+C-b7dfcd,NA,2024-08-08,supp)or+t,NA,FALSE,FALSE,FALSE,too $expensive
+C-8c9a9a,A-9f0b68,2024-08-10,%features,NA,TRUE,FALSE,FALSE,too expensive 
+C)-2ce%12e,A-712426,NA,pricing,0 ,FALSE,FALSE,TRUE,NA
+C-18b-303,A-%76.41d3 ,2024-06-07,unknown,NA,FALSE,NA,NA,m+issing fe^atu@res
+C-b6b&c-5f,A-bb1_486,2024-11-23,c$ompetito.r,0,FALSE,TRUE,TRUE,switch!ed to competit+or
+C-8c_c@e4c ,A-fa3095,2023-12-23,support,0,FALSE,FALSE,FALSE,NA
+C-8fcdf5,A-310#452,2024-12-27,NA,0,FALSE,FALSE,FALSE,too expe+nsive 
+NA,A-463db)0,2024-12-30,fea-tures,0,FALSE,FALSE ,TRUE,NA
+C-5689de,A-+00be.d1,NA,unkn$own ,NA,FALSE,FALSE ,FALSE,NA 
+C-2-f61e8,A-#ad3a%bd,NA,competitor,0,NA,FALSE,FALSE,NA
+C-4+dc_992,-A-39.b19f ,2023-03-11,unk!nown,0,NA,FALSE,FALSE,NA
+C-17fb24,A-cc1d8d,2024-12-19,un$known,217.22,FALSE,FALSE,FALSE,too expensive
+C-21ef+b6,A-^fa2041 ,2024-07-13,NA,0,NA,FALSE,FALSE,NA
+NA,!a-2ebb4b,2024-12-29,f.ea*tures,0,true,false,true,missing& features
+C-3091b6,A-eb1312,2024-10-03,unknown,0 ,FALSE,FALSE,FALSE,NA
+C_-b37401,A-dfbd31,2024-12-19,unknown,0,NA,FALSE,FALSE ,too expensive
+C-c930.0_6,^A-4e0e85,2023-11-16,(competito@r,0,FALSE,TRUE,FALSE,too) expensive
+C-c)ea92@d,A-2@e4581,2024-12-05,competitor,0,TRUE ,FALSE,FALSE,NA
+c!-f7846a,a-!117171,2024-10-13,bud*get,0,false,false,false,switched@ to co&mpetito(r
+C-_f5%a863,A-e7a1)e2,2024-09-30,b_u)dge#t,6.2,NA,FALSE,TRUE,NA
+C-056c32,A&-1e!6fc3,2024-03-20,pr_ici^ng,0,FALSE,FALSE,FALSE,swi$t)ched to competitor
+&C-75abb3,A-ac$9111,2024-06-25,budget,0,TRUE,FALSE,FALSE,missing f#eatures
+(C-17377e,A-ee42d+b,2024-03-07,p%ricing,0,FALSE,FALSE,FALSE,missing features
+C-d84a6d ,NA,2024-11-12,pric-ing,0,NA,FALSE,FALSE,missing fe#atur.es
+C-6%6b3*fa,A-378&b99,2024-10-12,pri@cin$g,NA,FALSE,FALSE,FALSE,s!witched to* *competitor
+C-600a7c,A-9ee962,2024-10-03,*support,0,FALSE,TRUE,FALSE,NA
+C-7aa94d,A-&0_3808_9,2024-12-25,featu*res,19.34,FALSE,FALSE,FALSE,too expens!ive
+C-c6a40@3,NA,2024-05-04,bud!get,0,FALSE,FALSE ,TRUE,m%issin.g featur*es
+NA,A--f%1f639 ,2023-10-18,NA,0,FALSE,FALSE,TRUE,missi(ng features
+C^-@b3c3ce,A-9f2731,2024-10-15,features,0,FALSE,FALSE,FALSE,@NA
+NA,NA,2024-12-29,bu#dget,0,FALSE,FALSE,FALSE,to)o .expensive
+C-2-447b3,A)-c45(b23,2024-03-24,supp$ort,0,FALSE,FALSE,NA,missing f*eatures
+C-155feb,A-82861f,2024-05-17 ,supp-ort,0,FALSE ,FALSE,FALSE,NA
+C-5(F450A,A-C1-E#51E,2024-12-20,SUPPORT,0,FALSE,FALSE,FALSE,SWITCHED TO@ COMPE%TIT.OR
+C-721738,$A%-^d4243)1,2024-06-26,pr*icing ,0,FALSE,FALSE,FALSE,missing featur+es
+!c-33fc6a,a-c16101,2024-12-19,feat+ures,0,false,true,false,na
+C$-4&691eb ,%A-7!c83a1,2024-05-19,unknown,0,TRUE,NA,NA,NA
+C-2cec7e,-A-ce550d,2024-12-28 ,@budg(et,0,TRUE ,FALSE,FALSE,too expen$sive
+C-71ff03,A-f19409,2023-05-25,feature&s,0,FALSE,TRUE ,FALSE ,too expen.sive
+C-2a64c7,A-029f69,2024-06-17,budget,0,FALSE ,NA,FALSE,NA
+C-5899b9,A--484819,2023-06-29,^support,0,TRUE,FALSE ,FALSE,NA
+C-7E5A22,-A-6965E+1,2024-12-09,NA,0,FALSE,FALSE,FALSE,NA
+C_-c3815e,A-6965e1,2024-12-04,unknown,0 ,FALSE,FALSE,FALSE ,NA
+(C-^19%0a42,A-5fe118,2024-12-16,f$eatures,114.86,FALSE,FALSE,FALSE,NA
+C-d2077d,&A-cab53#2,2024-07-10,support,0,TRUE,FALSE,FALSE,NA
+C-3_b6b00,A-9289f6,2023-08-24,support,17.93 ,FALSE,FALSE ,FALSE,to+o expensive
+C-42#ca6e,+A-1b)9609,2024-02-02,pricing,0,TRUE,FALSE,FALSE,too expensiv)e
+C-d9a1f3,A-118f1%c,2024-12-17,budget,0,FALSE,FALSE,FALSE ,NA
+C-2.17360,NA,2024-12-03,pr@icing,31.49,FALSE,FALSE,FALSE,too expensive
+NA,A-7dacce,2024-12-27 ,budget,NA,FALSE,FALSE,NA,#missing features
+NA,A-#a8b49c,2024-06-17,featu^r_es,0 ,FALSE,FALSE,FALSE,missin(g features
++C-4f6e40,A!-.cb5)333,2024-08-11,f^eatu*res,0,FALSE,FALSE,FALSE ,too expens(ive
+C-2f95dd,A(-(f19)4.09,2023-03-26 ,)competitor,0,FALSE,TRUE,FALSE,switch%ed t&o. competitor
+C.-38b77f ,A-a8d^89d,2024-01-18,f(eatures,0,FALSE,FALSE,FALSE,switched to$ competitor
+NA,$A@-81$e!dc3,2024-12-16,support,0,FALSE,FALSE,FALSE,too expensi%ve
+C-86f$8a6,NA,2024-04-15,budget,0,FALSE ,FALSE,FALSE,sw_itched# t-o competitor
+C-5D91CD,.A-3F9.CC-0,2024-08-09,FEAT-URES,0,FALSE,FALSE,FALSE ,NA
+C-bfc^ee5,A-8e47ca,2024-12-31,s-uppo!rt,NA,NA,FALSE,FALSE,miss#ing f*ea(tures
+C-)450414,A-87aa7b,2024-12-26,budg@et,0,TRUE,FALSE,FALSE ,^switched to c)om)pe&titor
+C-dd4207,+A-%f(45426,2024-08-05,c$om@pe-titor,NA,FALSE,FALSE,NA,missi%ng fea-tures
+C-d4c4c6,A-)09540c,2024-03-05,un)known,71.44,FALSE,FALSE,FALSE,NA
+C_-.14+9F#C.9 ,A-E1@462E,2024-12-05,COMP$ETITOR,NA,FALSE,FALSE ,FALSE,SWITCHE%D TO COM(PETITOR
+C-^de3fd0,A-19b2c8 ,2024-08-16,$pr&i@cing,0,FALSE,NA,FALSE,miss*ing featu%res
+C-577ffa,A-10b8!f2,2024-06-04,support,0,TRUE,FALSE,FALSE,to!o expensive
+C-a770!75,A-327%28c,NA,p(r_icing,0,TRUE ,FALSE,NA,switche(d t@o c-o(mpetitor 
+NA,NA,2024-06-15,NA,0,NA,FALSE,FALSE,NA
+C-a&9e0c4,A-94&d3da,2024-04-12,competitor,0,FALSE,FALSE,FALSE ,sw*itched to competitor
+C-0f0386,A-75$1c58,2024-09-17,budg#et,64.22 ,FALSE,NA,FALSE,switched to competito@r
+&C-3(c8e%a9,A-7*641d3,2023-11-10,suppor.t ,35.05,TRUE,FALSE,FALSE,missing feat#ures
+C-66c9f*e,NA,2024-12-07 ,features,0,FALSE,FALSE,FALSE,NA
+C-$533#d1c,A-1619f8,2024-07-19,NA,0,FALSE,FALSE,FALSE,#NA
+C-_02719d,NA,NA,support,28.84,FALSE,TRUE,FALSE,^missing features
+C-16ef52,A-9b9fe9,2024-09-04,f)eatures,0,FALSE,FALSE,FALSE,swi@tched to% com#petitor
+C-6#d80a6,A--02fac6,2024-08-21,NA,0 ,FALSE,NA,FALSE,missing$ features
+C-23d5a9 ,A-5(4ecc2,2024-09-22,p^r$icing,0,FALSE,FALSE,FALSE,too exp^e)nsive
+NA,NA,2024-08-01,unknown,7.92,FALSE,FALSE,FALSE,too exp#ensive
+C-a8e84b,A-c1dfe1,2024-06-06,features ,0,FALSE,FALSE,FALSE,missing fe!a(tu*res
+C-edb201,A-a7^b@d4b,2024-10-15,#features,0,FALSE,FALSE,FALSE,too %expensive
+C(-92e7a2,A-d5*35f6,2024-10-05,*unknown ,0,NA,FALSE,FALSE,missing* features
+-C-990050 ,A-4f$18f0,NA,features,0 ,FALSE,FALSE,FALSE,NA
+C-+E49016 ,+A-B7724^F,2024-09-01,NA,111.42,FALSE,NA,TRUE,S-WITCHED TO COM-PETITOR
+!C-151f!b1,A-fd7a!d3,2024-12-19,support,0,TRUE ,FALSE,TRUE ,missing features
+C-9b229e,A-249769 ,2024-06-12,pricin)g,0,NA,FALSE,NA,to^o@ expensive
+C-d33672,^A-a1b80b ,2024-07-11,bu*dget,12.99,FALSE,FALSE,TRUE,NA
+NA,A-ac14bb ,2024-10-01,competit.or,0,FALSE,FALSE,FALSE,too expensive
+C-d8d1fd,A-5b1bcd,2024-08-07,c+ompetitor,4.45,FALSE,FALSE,FALSE,NA
+-C-f918d7,A-202b67,2024-03-30,features,69.59,FALSE,FALSE,FALSE ,NA
+*C-a77cbf,A-bad8_c1,2023-10-04,unkn*own,0,FALSE,FALSE,TRUE,too &expensive 
+C-f5-dfda,A-2446#e3,2024-07-20,competitor,34.87,TRUE,TRUE,TRUE,miss(ing f_eat^ures
+C-9b80de ,A_-533452,NA,pricing,132.32,FALSE,FALSE,NA,missing #features
+c-51(5@343,a-b54c01,2024-10-23,budget,0 ,true ,false,NA,too expensive
+.C-da7b0d,A-2ebb4b,2023-08-04,NA,0,NA,FALSE,FALSE,mi#ssin*g features
+C-ef!ed73,A-9123ac,2024-10-23,comp!etitor,0,TRUE,FALSE,FALSE ,missing features
+C-8d2855,A-8bde0#c,2024-12-30,pricing,0,FALSE,FALSE,FALSE,NA
+C-992f28,A-f44180,2023-04-29,compet_itor,38.15,FALSE,FALSE,FALSE,too expensive
+C(-d47c8(5,A-c37601,NA,supp^ort ,0,FALSE,FALSE,FALSE,switc@hed to comp#eti!tor
+c-ad8b+54,*a-a(09355,2024-09-13,support ,0,true,NA,false ,na
+C-8919*8d,A-038089,2024-10-21,competitor,0,FALSE,FALSE,FALSE,NA
+NA,A-8.E@D5@D_D,2024-10-30,NA,0,TRUE,TRUE,FALSE,NA
+C-1@3c*a3a,A-313be3,NA,features,43.03,FALSE,FALSE,FALSE,NA
+C-07f6e3,NA,2023-06-06,b$udget,0,FALSE,FALSE,FALSE,too exp#ensive
+C-65b589,A)-$7a0d69,2024-12-05,co+mpetitor,0,NA,TRUE,FALSE,+switched to c!ompetitor
+C-ea6d$f1,A-e5$1ec)7,2024-04-07,b*u(dget,0,FALSE,FALSE,FALSE ,switched t+o competitor
+C-f78d(c9,A_-16.19f8 ,2024-09-21,budget ,0,FALSE,FALSE,FALSE,NA
++C-9d9bff,A-f5641b,2024-06-17,-featur^es,NA,FALSE,FALSE,NA,too exp!ens^i^ve
+NA,A-dfbd31,2024-01-01,fe!atures,0,TRUE,FALSE,FALSE,NA
+C-2FB169 ,A-0532)A9,2024-10-09,PRICING,2.4,FALSE,FALSE,FALSE,TOO EXPENSIVE
+C-3-bac11,A-f5641b,2024-04-20,pricing,0,FALSE ,FALSE,FALSE,too expe$ns-ive
+C-4986_8d,A-309_e54,2024-12-14,s$upport,106.67,FALSE,FALSE,FALSE,NA
+!C-27770c,A)-7988d1,2024-06-19,NA,16.89,FALSE,FALSE,NA,too expensiv@e
+C-118bea,A!-65ae_b5,2024-12-02,budget,0,TRUE,FALSE,TRUE,!miss.in_g featu_re-s
+C-cf17ca,A-.e08cd3,2024-12-17,NA,0,FALSE,FALSE,FALSE,too expens_ive
+C-25c0d2,A-e69-3b6,2024-10-10,budget,0,FALSE,TRUE,FALSE,miss@ing fea*tures
+C-0522.4#a,A-f17-767,2023-05-03,NA,0,TRUE,FALSE,FALSE,NA
+C-fe7ee4 ,_A-&b44e3e,2024-04-14,unknown ,0,FALSE,FALSE,NA,switche-d to comp(etitor
+C_-14ac1(3,A-68&f37c,2024-12-18,NA,0 ,FALSE ,FALSE,TRUE,too e&x&pensiv%e
+C-#fa1_c87,A-3_42303,2024-03-20 ,featu$res,0,NA,FALSE,NA,switched% (to compe%titor
+C-29b7f!7,NA,NA,unknown ,0,FALSE,FALSE,NA,missing fea#tures
+c-22b92e,NA,2024-04-03,features,0,NA,false,false,too expens&ive
+C)-46580a,A--8%1$edc@3,2024-03-03,$unknown,NA,FALSE,FALSE,FALSE ,mis%sing #features
+C-.ef9abf,A-%a33200,2024-10-07,fe$atu.res,21.61,TRUE,FALSE,FALSE,too expensive
+C-88a^1.7!6,A-d.922bf,2024-12-06,support,11.13,FALSE,TRUE,FALSE,NA
+C-681c7b,A-ff!3c73,2024-05-09,comp*etit@o(r,2.42,FALSE,FALSE,FALSE,missing feature$s
+C-ca1941 ,NA,2024-11-03,pri)cing,NA,FALSE,FALSE,FALSE,to!o expe!nsive
+C-7fcce6,A-4bfa3)3,2024-12-08,unkno)wn,0,FALSE ,FALSE,FALSE,missin#g (features
+NA,A-0b0d6d,2024-12-31,NA,0,FALSE,FALSE,FALSE,NA
+C-cd7797 ,A-a8^d89d,2024-08-26,pricing,0,FALSE,FALSE,NA,NA
+C-&7f0.644,A-ae0#5^2e,2024-10-17,budget ,0,FALSE,NA,FALSE,too expens)ive
+C#-2d4533,NA,2024-10-22,features,102.86,FALSE,FALSE,FALSE,swi+tch*ed !to competitor
+C-d9410c,A+-87aa7b,2024-06-19,-pricing,136,NA,TRUE,FALSE,#missing featu)res
+C-7^5@fdd6,A-0f7d77,2024-11-09,NA,NA,FALSE,FALSE,TRUE,missing features 
+_C^-3018.d4 ,A@-34ea2f,NA,unk+nown,1.85,TRUE,FALSE,FALSE,too ^ex&pensive
+C-fcbd6e,A--1e1b^80,2024-11-13 ,f.eatures,0,FALSE,FALSE,FALSE,s$witched_ to competitor
+C-799)99b,A-58-b9ff,2024-10-10,pricing,0,FALSE,FALSE,FALSE,too expe@nsive
+C-62ad35 ,NA,2024-12-02,bud!get,0,FALSE,FALSE,FALSE ,NA
+C-f0bd80,NA,2024-11-14,NA,0,FALSE ,FALSE,FALSE,NA
+C-f49d4c,A-65c341 ,2024-12-16,unknown,0,FALSE,FALSE ,FALSE,swi&tche(d to com_petito_r
+C-4622%22,A-a_e05+2e,2023-10-07,su#p(port,NA,FALSE ,FALSE,FALSE,NA
+C-f68651,A-e^afc6+e,2024-12-12,unknown,0,NA,FALSE,FALSE,NA
+NA,A-@c58f49,2024-09-21,su(ppo#r$t,7.6,FALSE,NA,FALSE,switched to competito.r
+C-%c17!9a3,A-e7bea^b,2024-04-25,f(eatu^re$s,NA,FALSE,TRUE,FALSE,NA
+C-_2c9dae,A-b179bf,2024-11-25,f_eature)s,0,FALSE,NA,FALSE ,@NA
+C-2c%86%b1,A-afa505,2024-03-02,support,NA,TRUE,NA,FALSE,miss#ing featu%res
+C-1172!fe,A-4a267b,2024-06-17,support,64.54,FALSE,FALSE,FALSE ,missing features
+C-&4f6d90,NA,NA,features ,178.84,FALSE,FALSE,NA,missing f&eature-s
+C-f51f)1d,A!-32fb14,NA,NA,0,FALSE,NA,FALSE,too expensive
+C-bd5e5e,A-bd4513,2024-12-09,budget,35.14,NA,FALSE,FALSE,too ex&pensi@ve
+C-9fd0cf,A-e+b7_fac,2024-07-22,unkno%w^n,0,FALSE ,FALSE,FALSE,)s_witched !to competitor
+C-dcbfa4,A$-4e!44)e8,2024-08-25,features,35.48,TRUE,FALSE ,FALSE,too ex)pens%ive
+C-f1268a ,A-32728c,NA,#budget,7.58,TRUE ,FALSE,NA,miss_ing@ features
+C--0$b2d8c,A-1b9609,2024-01-02,unknown,0,FALSE,FALSE ,FALSE,switched -to compe@titor
+C-2)6865a,A-!85+4864,2024-12-24,support,8.47,NA,FALSE,FALSE,switch$ed to com-petitor
+C(-FBA952,NA,2024-12-27,PRI%CI!NG,0 ,FALSE,FALSE,FALSE,TOO. EXPENSIVE
+c-e426-1@a ,a-41-7d2f,2024-12-30,budget ,0,false,false,false,mi^ssing features
+C-(ab3-6fc,A-f03140,2024-10-03,c.ompe*titor,0,NA,NA,FALSE,mi$ssin(g features
+C-fdb715,A-241e75,2024-10-11,un&known,0,FALSE,FALSE ,FALSE,NA
+C-fcfc3^c,A-!98a59a,2024-09-11,s%upport,0,TRUE,FALSE ,FALSE,switched to competitor
+C-a119b0,*A-9f2731,2024-12-09,unknown,136.94,NA,FALSE ,FALSE,NA
+(C-cd(b4*d0 ,A-c222ab,2024-10-05,su%pport,0,FALSE,FALSE,FALSE,NA
+&C-d08588,A-e51+ec-7,2024-01-15,budget,0,FALSE,FALSE ,FALSE,too ex_pensive
+C-1eead2,A-5790f4,2024-12-26,suppor)t,51.18,TRUE,FALSE,FALSE,to#o expensiv%e
+C-9b6151,NA,2024-08-15,NA,99.1 ,FALSE,FALSE,TRUE,switc)hed to- competito#r
+NA,A-eb2fdc,2024-05-26,competitor,NA,FALSE,FALSE,FALSE,missing features
+C-%249af9,A-ac14.bb,2024-08-29 ,p@r(icin#g,NA,NA,FALSE,FALSE,switched to competitor
+C-1934$26,A-7988d1,NA,u-n#kno_wn,0,FALSE,FALSE,FALSE,missing feature@s 
+@C-6a6#70@4,NA,2024-05-08,s.up.port,0,FALSE,FALSE,FALSE,switched to com(petitor
+_C-e41103,A-180abf,2024-05-04,competitor,0 ,FALSE,FALSE,NA,)NA
+C-5354@6C,A-E61E98,2024-10-19,FEAT)UR+ES,0,FALSE,TRUE,FALSE,SWITCHED TO COMPETITOR
+C-f6f8a5,A-2d103!6 ,2024-10-28,NA,39.09,TRUE,FALSE,TRUE,switch)e-d to com_petitor 
+C-551bc8,A-87aa7b,2024-06-07,budget,0 ,NA,FALSE,FALSE,$NA
+C-31a49a,A-9123ac,2024-04-05,support,0 ,TRUE,FALSE,TRUE,too expensiv$e
+C-ef2329 ,_A-0f#6450 ,2024-12-30,c$ompetitor,0,FALSE,TRUE,FALSE,NA
+NA,A-313be3,2023-12-09,NA,0,TRUE,FALSE,FALSE,NA
+NA,A-4b-fa33,2024-12-21,budget,92.5,FALSE,FALSE,NA,NA
+C-5f203c,NA,NA,budg+et,0,FALSE ,FALSE,FALSE,^too expensive
+C-a6d.0e1,NA,2024-12-05,fea$tur@es,0,FALSE,FALSE ,FALSE,NA
+c-95a!1$8@e ,a-241e75,2024-12-19,features,0,true,false,false ,swi.tche&d _to competitor
+C-b0b16c,A-ae05%2e,NA,c!ompe^titor,0,FALSE,FALSE,FALSE ,too expensive
+C-dfe1(89,A-05f%0&e5,2024-11-25,NA,72.19,TRUE ,FALSE,FALSE,NA
+C-9fe2#57,NA,2024-12-27,features,0 ,FALSE,FALSE,FALSE ,NA
+C!-c1b%c7@e,A-993@085,2023-09-20,features,0,FALSE,FALSE,FALSE,NA
+#C-27e9c1,A-c16b88,2024-06-01,&competitor ,0,TRUE,FALSE,FALSE,switched to competitor
+c-_8f8593,a-05d3b3,2024-09-09,(u!nknow-n,0,false,false,false,switched to compet%it_or
+C-9775db,A-3314*24,2024-02-21,competitor,0,FALSE,FALSE,FALSE ,switche.d @to c$ompetitor
+C-3@efa9*b ,A-$cdf020,2024-11-07,s$upport,0,FALSE,FALSE,TRUE,too expensive
+NA,A-3986&8b,2024-05-24,budget,0,TRUE ,FALSE,TRUE,too expensi_ve
+C)-2d659a,NA,2024-05-05,pri^ci$ng,0,TRUE,FALSE,NA,s#witched to competitor
+C-5d$9db3,A-398!6*8b,2024-05-06,unkno_wn,0,FALSE,FALSE,FALSE ,NA
+C-0c829f,A-c7ffc2,2023-04-15,budget ,0,FALSE,FALSE ,FALSE,too e.x!pe.nsi-ve
+C*-83b55f,A-5)790f4,2024-12-25,f!eatur!es,392.92,FALSE,FALSE,FALSE,switched to com@petito&r
+C-fa%6149,A@-3d957b ,2024-05-05,bud@get,NA,NA,FALSE,FALSE,NA
+C-76d762 ,A-51ec1b,2023-12-09,unknown,0,TRUE,FALSE,NA,too expensive 
+C-!4b071b,^A-118&d55,2024-11-25 ,unknown,0,TRUE,TRUE,FALSE,+missing features 
+C.-b3431e,A-e3.b*d7!1,2023-12-30,support,0,FALSE,TRUE,FALSE ,NA
+c-9^a1ccc,NA,2024-11-14,pricing,NA,false ,false,false ,na 
+C-cb92^4b,A-089363,2023-11-27,pr)icing,0,FALSE,FALSE,FALSE,switched to competitor
+C-a4.7d71,NA,2024-07-07 ,features,0,FALSE,FALSE,FALSE,swi&tch%ed+ to competitor
+C-33c706 ,)A-ffdfd5,2024-08-08,fea^tures,0,FALSE,FALSE,FALSE,m_i)ssing featur.es
+C-901C1A,A-425E76,NA,COMPE@TITOR ,0,FALSE,FALSE,FALSE,T%OO EXPENSIVE
+c-4)81838,a-af0%cd2,2023-10-26,unknown,0,false,true,false,switc%hed *to compet&ito.r
+C-ff$002d,)A-8ed5dd,2024-11-02,unknown,0,FALSE,FALSE,FALSE,^NA
+C-#1cf079 ,A-*354-f12,2024-09-19,c(o@mp_etitor,0 ,FALSE,TRUE,FALSE,missing f!eatures
+C-f17b79,NA,2024-03-07 ,su_pport,0 ,FALSE,FALSE ,NA,too expensive 
+C-020@446,(A-0c^c442,2024-10-06,NA,0,TRUE ,FALSE ,NA,sw.itche%d( ^to _competitor 
+C-9f95d3,A-157070 ,2024-01-06,features,0,FALSE,FALSE,FALSE,too expensi#ve
+c--5)4993f,a-c43359,2024-12-19,support,8.92,false,false,false,miss%ing featur!es
+C-75ddda,A-425_e7^6,2023-12-25,^compe.t.i*tor,0,FALSE,FALSE,FALSE,too! _exp*ensive
+C-d7ded&6 ,A!-e888d1,2024-11-29 ,features,6.38,FALSE,NA,FALSE,sw-itc$hed to! co)m%pet@itor
+c-ba8af4 ,a-b@b3bd4,2024-06-30,unknown,0,false,false,false ,mis&sing feat^ur-es
+C-811*879,NA,2024-07-29,unknow)n,0,TRUE,FALSE,FALSE,NA
+c-6736e4,a-3+b*e56b,2024-01-10,)competitor,NA,true,false,false ,na 
+C-_0%f75be,A-0baac2,2024-10-18,feat%ures,30.73,FALSE,FALSE,FALSE,too e&xpensive
+C-5)9d7bd,A-(0f3e88,2024-08-11,budget,0,NA,FALSE,FALSE,missing features
+C-D0F6%D8,A-6E%7827,2023-09-19,S_UPPORT ,0,FALSE,FALSE,FALSE,SWI$TCHED TO) CO&M)PETITO)R
+C-.9&c8^99e,A-1e1_b80,NA,competitor,0,FALSE ,FALSE,FALSE ,NA 
+(C-f.ad4d3,NA,2024-12-03 ,unk_nown,0,FALSE ,FALSE,FALSE,too e#xpensi!ve
+C-07ec#1f ,A-@b(bc346,2024-11-03,compe!titor,15.46 ,FALSE,FALSE,FALSE,switched$ to comp#etitor
+C-15654#4,A-d424_31,2024-10-12,bu#dget,17.42,TRUE,FALSE,FALSE,sw)itched to com.petitor
+C-!e11abb,A-cc102e,2024-04-25,un#kn*own,50.06,FALSE,FALSE,FALSE,+switched t(o compet!itor
+C-d85c26 ,A-42e5e1 ,2024-10-04,NA,0,FALSE,FALSE,TRUE,NA
+C-d2_8d0e,NA,2023-10-04,com_peti*to$r,0 ,FALSE,FALSE,NA,mi@ssi%n^g features
+C-3bf203,)A-e19ff6,2024-06-27,comp@etitor ,0,FALSE,FALSE,FALSE,switched to competitor 
+C-326d32,A-34d880,2024-12-20,unknown,10.4,FALSE,FALSE,FALSE,missin-g feat!ures 
+C-44@918f,A-9208f0,2024-09-15,unkno%wn,0,NA,FALSE,TRUE,too expensive
+C(-cf246e,A#-7f@6b86 ,2024-07-10,pricing ,5.27,FALSE,FALSE ,FALSE,NA
+C-e20cc6,A-cc_102e,2024-11-19,pricing,0,FALSE,FALSE,FALSE,+too e_xpensive
+C--1_f4cc0,A-5696)2b ,2024-08-26,NA,NA,NA,NA,FALSE,.NA
+C-0d47^0e,NA,2024-12-29,bu*d@g^et,0,NA,FALSE,FALSE,NA
+C-562E_14,A-C16CF7,NA,BUDGET ,0,TRUE,FALSE,NA,NA 
+C-&06b32c,A-+2ebb4b,NA,pricing,0,FALSE,FALSE,FALSE,missi-ng fe#atures
+C-4@bbb74,A-c37cab,2024-11-16,comp#etito#r,0,FALSE,FALSE,FALSE,mi#ssing feat%ures
+)C&-8e5c2&5,NA,2023-12-27,featu@res,27.92,NA,FALSE,FALSE,t)o!o) expensive
+C-8a2d(9d,A@-0651a4,2024-11-22 ,featur$es,0,FALSE,TRUE,FALSE,missing f&eatur(es
+C-d39666,A-3b37d9,NA,budget,0,FALSE,FALSE,FALSE,NA
+C^-ed4dc&b,A-5a3e_b9,2024-06-12,compet*it*or,58.37,FALSE ,FALSE,FALSE,mi(ssing featu^res
+C-105c4c,A-0a62f5,2024-12-07,budget,21.95,FALSE,TRUE,FALSE,NA
+NA,A-df1e44,2024-10-17,bu_dget,0 ,NA,NA,FALSE,too exp$ensive
+C-b6@997d ,A-4ae22a,NA,NA,0,FALSE,FALSE,FALSE,NA
+C-3@6d17e ,&A-ac85cd ,2024-12-13,NA,102.39,FALSE,FALSE,TRUE,NA
+C-5cfad3 ,&A-bece89 ,2023-12-16,budget,56.15,FALSE ,FALSE,FALSE,mis!sing features
+NA,a-ef84cf,2024-08-14,unknown,18.81,false,false,NA,&switche$d t^o compe.tit!or
+C-2bf465,)A-@84ebe4,2024-01-20,*support,0,NA,FALSE,FALSE,mis@sing. +feat$ures
+C-54ce+4f,A-6dee43,2024-01-14,NA,143.8,FALSE,FALSE,FALSE,NA
+C-BB5%3C#B,NA,2024-05-02,BUDGET,0,FALSE,FALSE ,FALSE,NA
+C-c4e0b8,A-b*179bf,2024-10-31,support,0,FALSE,FALSE,FALSE,too exp+e!nsive
+C-BA801A,A-7CFE77,2024-09-09,UNKNO#WN,0,FALSE ,TRUE,FALSE,NA
+^C-1f8fd5,-A-e351e1,2024-12-04 ,support,0,TRUE,TRUE ,TRUE,NA
+C-F477C9,A-3F9CC0,2024-07-18,NA,0,FALSE,FALSE,FALSE,NA
+NA,A-ef84cf,2024-09-28 ,NA,0,TRUE,FALSE,TRUE,to(o expensive
+C-1124ed,A-439b_2f,2024-08-02,pricing,17.06,FALSE,FALSE ,NA,NA
+C-3709(62,A-0!7503%8,2024-09-05,features,NA,FALSE,FALSE,FALSE,NA
+C-cc90be,A-%d82ef9,2024-08-06 ,budget,74.94,FALSE,NA,FALSE,switc$hed to competitor
+C@-89af4$e,A-d%77f.4c,2024-08-06 ,bu)dget,0 ,FALSE,TRUE,FALSE,too- e.x^pensiv_e
+C-e73b7f,A+-e1462e,2023-10-05,NA,0,NA,FALSE,TRUE,too ^expensive
+C-5e09@98,)A-faa28c,2024-05-24,features,0,FALSE,FALSE,FALSE,m*iss$ing features
+C-09b7c7,A-08e34e,2024-09-01,features,3.57,FALSE,FALSE,FALSE,.miss+ing features
+NA,A-fd7ad3,2024-11-23,NA,NA,FALSE ,FALSE ,NA,too expe-nsive 
+C-67d3e1,A-86fc#1-d,NA,support,0,NA,FALSE,FALSE ,NA
+C-!ca5f4b ,A-832ec@2,2024-09-15,pricing,NA,NA,FALSE,FALSE,switched to competit#or
+C-0340b2,A-02&9f69,2024-10-31,co^mpetitor,0,FALSE,FALSE,FALSE,switch%e-d %to competito+r
+C-5368b0,A-e8393!8,2024-08-11,pricing,0,FALSE,FALSE ,FALSE,&switched to competit%or
+C-ca81a1,A-ccc&747,2024-09-02 ,competitor ,NA,FALSE ,NA,FALSE,switched to compe%titor 
+*C-ad7ea3,A-8145a0,2023-07-12,features,NA,FALSE,FALSE,FALSE,missing -features
+C-86%4169,A-526d93,2024-08-05,support,6.77,FALSE ,FALSE ,FALSE,!sw^itched to competitor
+C-488b42,A-!1b70+7d,2023-07-21,NA,0,FALSE,FALSE,TRUE,mis-si&ng (features
+C-c#e47da,A-cc102e,2024-11-19,pricing,61.1,FALSE ,NA,FALSE,switched( to c%ompe!ti*tor
+C%-f+b2@a95,A-902ef7,2024-09-26,pr#icing,0,FALSE,FALSE,FALSE,too ex(pensi(ve
+C-8d834b,A-798)a3f,2024-07-19,support,0,FALSE,FALSE,NA,NA
+C-9e8172 ,A-ad64c6 ,2024-07-03,suppo@rt ,19.08,FALSE,FALSE,FALSE,missi-ng features
+C-474!D36,A-6_F50*AE,2024-02-26,F)EAT+U-RES,0,FALSE,FALSE,TRUE ,NA
+C-b7e6ac,A-92-08f0,2024-05-24,budget,66.37,FALSE,FALSE,FALSE,NA
+C-FFC2B8,A-0354FE,2024-11-15 ,UNK(NOWN,0,FALSE,FALSE,FALSE,SWITCHED T#O COMPETITOR 
+NA,A-5ed98d,2024-09-27,fea@tures,0,FALSE,FALSE,FALSE,missing features
+C-675c0a,A-a09355,2024-10-18,support,135.11,NA,FALSE ,FALSE ,NA
+C-4580-75 ,A-4437e4,2024-06-21 ,features,0,FALSE,FALSE,FALSE,too expensive
+C-.30-03bc,A-c58_f49,2024-09-03,NA,152.36,FALSE,FALSE ,FALSE,t_oo expens_ive 
+NA,a-6f50a&e,2023-11-06,unknown ,0,NA,false,false,missing fea%tures 
+C-9bb1b6,A-5ed98@d,2024-10-02,co@mpetitor,0,FALSE ,TRUE,FALSE,NA
+NA,A-e351e1,2024-10-30,unkn*o)wn,113.84,FALSE,TRUE,NA,mis*sing featu_res
+C-2e2!f04,A!-2d1036,2024-10-19,budget,0,TRUE,FALSE,FALSE,NA
+NA,A-b3.0291,2024-09-03,competitor,277.54,FALSE,TRUE,FALSE,too expensive
+#C-109d03,A-1f0ac7,2024-11-08,support,0,TRUE ,FALSE ,FALSE,missing featur%es
+C-a!f7_968,A-7124.2(6,NA,pricing,0,TRUE,NA,FALSE,missing features
+C-785e8e,NA,2024-11-10,features,0 ,FALSE,FALSE,FALSE ,NA
+C)-)2886AC,A-BCBE98 ,2024-11-25,COMPETITOR,0,FALSE,FALSE,FALSE ,MISSING FEATURES
+C-a40%fa4,A-4c6f%11,2024-06-29,compe(tito)r,0,FALSE,FALSE,FALSE,too expensive
+_C-965d90,A-df10db ,2024-05-19,competitor ,0,FALSE,NA,FALSE,missin)g features
+C-6a6ed3,A-c1dfe1,2023-09-21,pri+cin$g,0,TRUE,FALSE ,FALSE,mi!ssin.g^ features
+C-9c89ca,A-3a7284,2024-12-26,unk@nown,0,FALSE,FALSE,FALSE,mis)s!ing f_eatures
+c-1d)ce6d,a-751c58,2024-12-16,NA,0 ,false,false,false,too exp%ensive
+C-0#d5e99,A-68f37c,2024-06-29,unknown,0,FALSE,FALSE,TRUE,too %ex@pensive
+C-05bc56,A-533452,2024-11-17,!features ,NA,FALSE,TRUE,TRUE,missing fea^tures
+C!-887a83,$A-0ba#ac#2 ,2024-07-15,unknown,0,TRUE,FALSE,FALSE,missing features
+C-84f039 ,A-b77(24f,2024-01-01,s%upport,78.25,TRUE,FALSE,NA,missi#ng features
+C-aad0_f!7,A-0dbdc6,2023-11-26,s$upport,0,FALSE,TRUE,FALSE,mis!sin.g fea&tures
+C-6ab303,A-4c*6f11,2024-10-18,competitor,0,FALSE,NA,NA,NA
+(C-4a3e8e,A-54ecc_2,2024-11-23,su+pp^ort,0,TRUE,FALSE,NA,NA
+C-$f67026,A-b7ef83,NA,NA,60.25,TRUE,FALSE,FALSE,^missing features
+C-c6f6fe ,A-9221*09,NA,NA,0,NA,FALSE,FALSE,NA
+C-374d-5d,A-(c43359,2024-12-12,unkno&wn,0,TRUE,FALSE,NA,too ex%pensive
+C-8ae2f5,A-f25509,2024-05-17,fe(atures ,0,FALSE,FALSE,TRUE,NA 
+C-c66a6c ,A.-02cd81,2024-04-30,pric!ing ,0,FALSE,FALSE,FALSE,NA
+.C-7007f0,A-67be9)4,2024-05-28,support,74.55,FALSE,FALSE,FALSE,m.i^ss_ing@ fe(a@tures
+C-b411ad,A-ba6516 ,2024-03-17,budget,0,FALSE,FALSE,FALSE,NA 
+C-_ca1379 ,NA,2024-11-12 ,unk.nown,23.52,FALSE,FALSE,FALSE,NA 
+C-6$15769,A-ccb686,2024-11-08,u#nknow(n,NA,FALSE,FALSE ,FALSE ,#switche(d to( co%mpetito+r
+NA,A-b7724f,2023-08-25,unkno$wn,52.88,FALSE,FALSE,FALSE,#missin&g features
+C-e*d73ea,A-5a3eb9,2024-04-14,fea_tu-res,0,TRUE ,FALSE,FALSE ,NA
+C@-e20d30,A-fd7ad3,2024-12-31,unknown,0,TRUE,FALSE,FALSE,NA
+C*-e42d29,!A-a865bd,2023-11-26,unknown,0,FALSE,FALSE,FALSE,miss!ing featu.res
+C*-cd8fb$a,A-b7ef83,2024-06-01,u@nknown,0,FALSE ,FALSE,TRUE,NA
+C-)2de339,A-e83938,2024-12-29,b.udget,13.5,FALSE,FALSE,FALSE,NA
+C-e(c714a,*A-533452,2024-12-16,s^upport,15.23,FALSE,FALSE,FALSE ,missing features
+NA,A-ee42db ,2023-10-13,support,0,FALSE,TRUE,FALSE,miss^ing( features
+)C.-3b4085,NA,2024-05-27,f)e+atures,0,TRUE,FALSE,FALSE,$NA
+C-437da0,A-f6b2fb,2024-07-11,sup)port,0,NA,FALSE,FALSE,NA
+C_-92da5$5,NA,2024-12-26,pric^ing,86.02,FALSE,FALSE,FALSE,too _ex#pensive
+C-307676,A-)05f*0e5,2024-01-14,unknown,0,TRUE,FALSE,FALSE ,missing f$eatures
+c-22d3.0d,a-d3c88e,2024-11-18,suppo+rt,0,false,false,false,NA
+C-a4a4a7,A-104f1a,2024-09-09,features,0,NA,NA,FALSE,switched t!o competitor
+C-16ddba,A-b2225d ,2024-05-16,su$pport,0,TRUE,FALSE,FALSE,switched @to competitor
+C-e8f3f5 ,^A-5790f4,2024-12-31,c%omp-etitor,0,TRUE ,FALSE,FALSE,too expensive
+c-6b9.6@63,a-104f1a,2024-12-11,un!known,0,false,false,NA,%mis#sing features
+C-@65CFF3,$A-CCC747,2024-08-07,*BUDGET ,104.25,NA,FALSE,FALSE,NA
+C-a8+60c5,A-5f7781,2024-12-25,pricing,0,FALSE,FALSE,FALSE,NA
+C-37929d ,A-e1(b9cd,2024-10-01,NA,0,NA,NA,FALSE,!switched to competitor 
+C^-(efe5b)b,(A-7988d1,NA,NA,0,FALSE,FALSE,FALSE,)too+ expen^sive
+C-248550,A-2^922&b6 ,2024-12-25 ,comp(etitor,0 ,FALSE,FALSE,FALSE,miss.ing features
+C-38e&f8e,A-$0ba^a$c2,2024-09-30,$pricing,0,FALSE,FALSE,FALSE,too expensive
+C-8)8%5a34,A-71615e,2024-07-16,p(ricing,0,TRUE,FALSE,FALSE,m@i!ssin)g features
+NA,A-9f0b_68,2024-11-01,pricing,0,TRUE,FALSE,FALSE,NA
+C-370175,NA,2024-08-03,competitor,0,FALSE,FALSE,FALSE ,missing features
+NA,A-+bb3b_d4,NA,pricing,0,TRUE,FALSE,FALSE,*missi^ng feature^s
+-C-cc0058,A)-f3ff05,2024-10-20,unknown,0,FALSE ,FALSE,FALSE,too expensive
+$C-ae%47d1,A.-425e76,2024-10-22,%competi!tor,0,FALSE,FALSE,FALSE,swit(ched t*o competitor
+C-$59499c ,A-fd7ad3,2024-11-12,pricing,70.03,FALSE,NA,FALSE,switched to competitor
+C-B56A35,NA,NA,COMPETITOR,NA,FALSE ,FALSE,FALSE,!SWIT*CHE+D TO# @COMPET@ITOR 
+^C-7e7822,A-dbc825,2024-02-03,budg_et,0,FALSE,FALSE,FALSE ,NA
+C%-484fba,A-0a282f,2024-12-31,support,NA,FALSE,TRUE,FALSE,too -expensive
+_C*-22f53_6,A-e5d6ab,2024-05-11,competitor,0 ,TRUE,NA,FALSE,NA
+NA,A-1f559b,2024-09-28,features,0,FALSE,FALSE ,FALSE,NA 
