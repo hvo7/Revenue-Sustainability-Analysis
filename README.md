@@ -1,8 +1,15 @@
 # Revenue-Sustainability-Analysis
 
-Glacier is a B2B and B2C SaaS company, specializing in releasing product features and platform updates that helps users and companies be able to improve workflows and enhance productivity. The company has been seeking customer adoption and growth following its release of one of its platform updates, which introduced several key new features. Following the release of new updates, revenue growth and success is typically measured by short-term lifts in revenue and engagement; however, not all revenue is equally sustainable. While some growth is a result of promotion, marketing, and one-time purchases, other growth signals can reflect deep customer dependency and repeat customer behavior. 
+Glacier is a B2B and B2C SaaS company, specializing in releasing product features and platform updates that helps users and companies be able to improve workflows and enhance productivity. The company releases new platform features and updates, resulting in revenue increase and improved user engagement. However, upon further glance, executives don't know whether this growth is **real or fake**.
 
-This blind spot, where some teams may exhaust tremendous effort only to develop releases that seem successful on paper but fail to strengthen long-term retention and sustainable growth, has developed ongoing concern among executives. 
+There exists a blind spot, where some teams appear successful based on immediate release metrics, but these releases may not build lasting customer engagement. This means that Glacier could be wasting resources on feature that do not matter in the long-term. 
+
+Thus, the company risks:
+
+* Opportunity Cost: Glacier may pour resources and engineering into Feature A (which craetes temporary spike) rather than build Feature B (which may create real retention).
+* Bad Strategy: Executives may think their strategy is working and want to double down to scale the same approach, resulting in hiring more people and unsustainable strategies.
+* Missing Churn Signals: The temporary growth may mask underlying churn since the company is constantly replacing churning customers rather than develop a compounding customer base.
+* Valuation Risk: Investors may overvalue the company and observe missing recurring revenue multiples and retention metrics.
 
 An analysis was thus conducted to:
 * Improve release evaluation to understand if product releases build durable customer commitment or merely temporary spikes
